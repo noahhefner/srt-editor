@@ -29,22 +29,6 @@ class SRT:
                 self.snippets.append(snippet)
                 break
 
-    def to_json (self):
-
-        json_snippets = []
-
-        for snippet in self.snippets:
-
-            json_snippets.append(snippet.to_json())
-
-        srt_data = {
-            "snippets": json_snippets
-        }
-
-        print(srt_data)
-
-        return json.dumps(srt_data)
-
 class Timestamp:
     """
     Holds time data for a single time stamp.
@@ -79,17 +63,6 @@ class Snippet:
         self.start_time = self.parse_timestamp(start_time_str)
    
         self.end_time = self.parse_timestamp(end_time_str)
-
-    def to_json (self):
-
-        snippet_data = {
-            "index": self.line_number,
-            "start_time": self.start_time.__str__(),
-            "end_time": self.end_time.__str__(),
-            "text": self.lines_subtitles
-        }
-
-        return json.dumps(snippet_data)
 
     def parse_timestamp (self, timestamp: str) -> Timestamp:
 
