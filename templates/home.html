@@ -6,7 +6,7 @@
     <title>SRT Editor</title>
     <link rel="stylesheet" href="/static/css/modern-normalize.min.css" />
     <link rel="stylesheet" href="/static/css/styles.css" />
-    <link rel="stylesheet" href="/static/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="/static/css/bulma.min.css" />
     <link
       href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/datatables.min.css"
       rel="stylesheet"
@@ -14,27 +14,33 @@
     <script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/datatables.min.js"></script>
   </head>
   <body>
-    <header class="header shadow">
+    <nav class="navbar has-background-dark" style="margin-bottom: 1rem;">
       <div class="container">
-        <h1>SRT Editor</h1>
-      </div>  
-    </header>
+        <div class="navbar-brand">
+          <a class="navbar-item">
+            <p class="is-size-2 has-text-light">SRT Editor</p>
+          </a>
+        </div>
+      </div>
+    </nav>
     <div class="container">
-      <div class="table-wrapper shadow">
-        <table id="srt-files">
-          <thead>
-            <tr>
-              <td>SRT File</td>
-            </tr>
-          </thead>
-          <tbody>
-            {% for file in srt_files %}
-            <tr>
-              <td>{{ file }}</td>
-            </tr>
-            {% endfor %}
-          </tbody>
-        </table>
+      <div class="card">
+        <div class="card-content">
+          <table id="srt-files">
+            <thead>
+              <tr>
+                <td>SRT File</td>
+              </tr>
+            </thead>
+            <tbody>
+              {% for file in srt_files %}
+              <tr>
+                <td>{{ file }}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
     <script>

@@ -5,29 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ filename }}</title>
     <link rel="stylesheet" href="/static/css/modern-normalize.min.css" />
-    <link rel="stylesheet" href="/static/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="/static/css/bulma.min.css" />
     <link rel="stylesheet" href="/static/css/styles.css" />
     <script src="/static/js/srt-time.js"></script>
     <script src="/static/js/srt-file.js"></script>
     <script src="/static/js/srt-snippet.js"></script>
   </head>
   <body>
-    <header class="header shadow">
+    <nav class="navbar has-background-dark" style="margin-bottom: 1rem;">
       <div class="container">
-        <h1>SRT Editor</h1>
-      </div>  
-    </header>
-    <div class="container">
-      <div class="editor-options-wrapper shadow">
-        <div style="display: flex;justify-content: space-between;align-items: center;">
-          <h1>{{ filename }}</h1>
-          <button id="save">Save</button>
+        <div class="navbar-brand">
+          <a class="navbar-item">
+            <p class="is-size-2 has-text-light">SRT Editor</p>
+          </a>
         </div>
-        <div style="display: flex;justify-content: space-between;align-items: center;">
-          <h4>Time Shift (ms)</h4>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="card">
+        <div class="card-content">
+          <h1>{{ filename }}</h1>
+          <button class="button" id="save">Save</button>
+          <p>Time Shift (ms)</p>
           <input id="timeShift" type="number" />
-          <button id="addTime">Add Time</button>
-          <button id="subtractTime">Subtract Time</button>
+          <button class="button" id="addTime">Add Time</button>
+          <button class="button" id="subtractTime">Subtract Time</button>
         </div>
       </div>
       <srt-file>
