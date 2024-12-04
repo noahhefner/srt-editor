@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="/static/css/modern-normalize.min.css" />
     <link rel="stylesheet" href="/static/css/bootstrap-grid.min.css" />
     <link rel="stylesheet" href="/static/css/styles.css" />
+    <script src="/static/js/srt-time.js"></script>
+    <script src="/static/js/srt-file.js"></script>
     <script src="/static/js/srt-snippet.js"></script>
   </head>
   <body>
@@ -17,28 +19,42 @@
     </header>
     <div class="container">
       <div class="editor-options-wrapper shadow">
-        <h1>{{ filename }}</h1>
-        <button id="save">Save</button>
+        <div style="display: flex;justify-content: space-between;align-items: center;">
+          <h1>{{ filename }}</h1>
+          <button id="save">Save</button>
+        </div>
+        <div style="display: flex;justify-content: space-between;align-items: center;">
+          <h4>Time Shift (ms)</h4>
+          <input id="timeShift" type="number" />
+          <button id="addTime">Add Time</button>
+          <button id="subtractTime">Subtract Time</button>
+        </div>
       </div>
-      {% for snippet in srt.snippets %}
-      <srt-snippet
-        start-time="{{ snippet.start_time }}"
-        end-time="{{ snippet.end_time }}"
-        index="{{ snippet.index }}"
-        subtitles="{{ snippet.subtitles_joined() }}"
-      ></srt-snippet>
-      {% endfor %}
+      <srt-file>
+        {% for snippet in srt.snippets %}
+        <srt-snippet
+          start-time="{{ snippet.start_time }}"
+          end-time="{{ snippet.end_time }}"
+          index="{{ snippet.index }}"
+          subtitles="{{ snippet.subtitles_joined() }}"
+        ></srt-snippet>
+        {% endfor %}
+      </srt-file>
     </div>
   </body>
   <script>
+    // add time button
+    document.getElementById("addTime").addEventListener("click", function () {
+      const ms = document.querySelector("#timeShift").value;
+      document.querySelector("srt-file").shiftTimesForward(parseInt(ms));
+    });
+    // subtract time button
+    document.getElementById("subtractTime").addEventListener("click", function () {
+      const ms = document.querySelector("#timeShift").value;
+      document.querySelector("srt-file").shiftTimesBackward(parseInt(ms));
+    });
+    // save button
     document.getElementById("save").addEventListener("click", function () {
-      
-      const snippets = document.querySelectorAll("srt-snippet");
-      let snippetData = "";
-      snippets.forEach((snippet) => {
-        snippetData = snippetData + snippet.toSRT();
-      });
-  
       fetch("/srt/save", {
         method: "POST",
         headers: {
@@ -46,7 +62,7 @@
         },
         body: JSON.stringify({
           path: "{{ path }}",
-          text: snippetData,
+          text: document.querySelector("srt-file").buildFile(),
         }),
       })
         .then((response) => {

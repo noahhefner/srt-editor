@@ -4,16 +4,20 @@ class SrtSnippet extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
     this._index = -1;
-    this._startTime = "";
-    this._endTime = "";
+    this._startTime = undefined;
+    this._endTime = undefined;
     this._subtitles = "";
   }
 
   connectedCallback() {
 
+    const startTimeSRTString = this.getAttribute("start-time");
+    this._startTime = new SrtTime(startTimeSRTString);
+
+    const endTimeSRTString = this.getAttribute("end-time");
+    this._endTime = new SrtTime(endTimeSRTString);
+
     this._index = this.getAttribute("index") || "";
-    this._startTime = this.getAttribute("start-time") || "";
-    this._endTime = this.getAttribute("end-time") || "";
     this._subtitles = this.getAttribute("subtitles") || "";
 
     this.shadowRoot.innerHTML = `
@@ -36,15 +40,15 @@ class SrtSnippet extends HTMLElement {
         </style>
         <p>
           <strong>Index:</strong>
-          <input id="index" type="number" value=${this._index} />
+          ${this._index}
         </p>
         <p>
           <strong>Start Time:</strong>
-          <input id="startTime" type="text" value="${this._startTime}" />
+          <input id="startTime" type="text" value="${this._startTime.getTime()}" />
         </p>
         <p>
           <strong>End Time:</strong>
-          <input id="endTime" type="text" value="${this._endTime}" />
+          <input id="endTime" type="text" value="${this._endTime.getTime()}" />
         </p>
         <textarea>${this._subtitles}</textarea>
       `;
@@ -58,9 +62,6 @@ class SrtSnippet extends HTMLElement {
     const endTime = this.shadowRoot.querySelector("#endTime");
     endTime.addEventListener("input", this._onEndTimeEdit.bind(this));
 
-    const index = this.shadowRoot.querySelector("#index");
-    index.addEventListener("input", this._onIndexEdit.bind(this));
-
   }
 
   _onSubtitleEdit(event) {
@@ -68,15 +69,11 @@ class SrtSnippet extends HTMLElement {
   }
 
   _onStartTimeEdit(event) {
-    this._startTime = event.target.value;
+    this._startTime.setTime(event.target.value);
   }
 
   _onEndTimeEdit(event) {
-    this._endTime = event.target.value;
-  }
-
-  _onIndexEdit(event) {
-    this._index = event.target.value;
+    this._endTime.setTime(event.target.value);
   }
 
   get subtitles() {
@@ -91,10 +88,24 @@ class SrtSnippet extends HTMLElement {
     }
   }
 
-  toSRT() {
+  shiftTimesForward (milliseconds) {
+    this._startTime.addTime(milliseconds);
+    this.shadowRoot.querySelector("#startTime").value = this._startTime.getTime();
+    this._endTime.addTime(milliseconds);
+    this.shadowRoot.querySelector("#endTime").value = this._endTime.getTime();
+  }
+
+  shiftTimesBackward (milliseconds) {
+    this._startTime.subtractTime(milliseconds);
+    this.shadowRoot.querySelector("#startTime").value = this._startTime.getTime();
+    this._endTime.subtractTime(milliseconds);
+    this.shadowRoot.querySelector("#endTime").value = this._endTime.getTime();
+  }
+
+  getSRTFormat() {
     const index = this._index || '1';
-    const startTime = this._startTime || '0:00:00,000';
-    const endTime = this._endTime || '0:00:00,000';
+    const startTime = this._startTime.getTime() || '0:00:00,000';
+    const endTime = this._endTime.getTime() || '0:00:00,000';
     const subtitles = this._subtitles || '';
     return `${index}\n${startTime} --> ${endTime}\n${subtitles.trim()}\n\n`;
   }
