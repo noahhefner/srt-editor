@@ -5,7 +5,9 @@ class SRT:
     Holds all information for an SRT file.
     """
 
-    def __init__ (self, content: str):
+    def __init__ (self, path: str, content: str):
+
+        self.path = path
 
         self.snippets = list()
 
@@ -28,6 +30,16 @@ class SRT:
                 snippet = Snippet(lines)
                 self.snippets.append(snippet)
                 break
+
+    def data (self):
+        """
+        Returns the SRT data in dictionary format.
+        """
+
+        return {
+            "path": self.path,
+            "snippets": [snippet.data() for snippet in self.snippets]
+        }
 
 class Timestamp:
     """
@@ -55,14 +67,29 @@ class Snippet:
         # raw strings
         self.lines = lines
         self.index = lines[0]
-        self.line_time_range = lines[1]
-        self.lines_subtitles = lines[2:]
+        self.time_range = lines[1]
+        self.subtitles = lines[2:]
 
         # parse start and end times
-        start_time_str, end_time_str = self.line_time_range.split(" --> ")
+        start_time_str, end_time_str = self.time_range.split(" --> ")
         self.start_time = self.parse_timestamp(start_time_str)
-   
         self.end_time = self.parse_timestamp(end_time_str)
+
+    def subtitles_joined (self):
+
+        return '\n'.join(self.subtitles)
+
+    def data (self):
+        """
+        Return snippet data in dictionary format.
+        """
+
+        return {
+            "index": self.index,
+            "start_time": self.start_time.__str__(),
+            "end_time": self.end_time.__str__(),
+            "subtitles": self.subtitles
+        }
 
     def parse_timestamp (self, timestamp: str) -> Timestamp:
 

@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 from srt import SRT
 import os
 
@@ -19,6 +19,19 @@ def home():
 
     return render_template('home.html', srt_files = srt_files)
 
+@app.route('/srt', methods=['GET'])
+def get_srt():
+
+    path = data.get('path')
+
+    with open(path, 'r') as f:
+
+        content = f.read()
+
+        srt = SRT(path, content)
+
+    return jsonify(srt.data())
+
 @app.route('/srt/save', methods=['POST'])
 def save():
 
@@ -33,14 +46,16 @@ def save():
 @app.route('/editor', methods=['GET'])
 def get_editor_page():
 
-    filename = os.path.basename(request.args.get('path'))
+    path = request.args.get('path')
 
-    with open(request.args.get('path')) as f:
+    filename = os.path.basename(path)
+
+    with open(path) as f:
 
         content = f.read()
-        srt = SRT(content)
+        srt = SRT(path, content)
 
-    return render_template('editor.html', srt = srt, path = request.args.get('path'), filename = filename)
+    return render_template('editor.html', srt = srt, path = path, filename = filename)
 
 if __name__ == '__main__':
     app.run(debug=True)

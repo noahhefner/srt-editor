@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -6,42 +6,31 @@
     <title>{{ filename }}</title>
     <link rel="stylesheet" href="/static/css/bootstrap-grid.min.css" />
     <link rel="stylesheet" href="/static/css/styles.css" />
+    <script src="/static/js/srt-snippet.js"></script>
   </head>
   <body>
     <div id="main" class="container">
       <h1>{{ filename }}</h1>
       <button id="save">Save</button>
       {% for snippet in srt.snippets %}
-      <div
-        class="snippet"
-        data-index="{{ snippet.index }}"
-        data-starttime="{{ snippet.start_time }}"
-        data-endtime="{{ snippet.end_time }}"
-      >
-        <p>{{ snippet.index }}</p>
-        <p>Start Time: {{ snippet.start_time }}</p>
-        <p>End Time: {{ snippet.end_time }}</p>
-        <textarea id="subtitles" rows="4" cols="40">
-{{ '\n'.join(snippet.lines_subtitles) }}</textarea
-        >
-      </div>
+      <srt-snippet
+        start-time="{{ snippet.start_time }}"
+        end-time="{{ snippet.end_time }}"
+        index="{{ snippet.index }}"
+        subtitles="{{ snippet.subtitles_joined() }}"
+      ></srt-snippet>
       {% endfor %}
     </div>
   </body>
   <script>
-    const bSave = document.getElementById("save");
-    bSave.addEventListener("click", function () {
-      const divMain = document.getElementById("main");
-      const snippets = divMain.querySelectorAll(".snippet");
+    document.getElementById("save").addEventListener("click", function () {
+      
+      const snippets = document.querySelectorAll("srt-snippet");
       let snippetData = "";
       snippets.forEach((snippet) => {
-        snippetData = snippetData + `${snippet.dataset.index}\n`;
-        snippetData =
-          snippetData +
-          `${snippet.dataset.starttime} --> ${snippet.dataset.endtime}\n`;
-        const subtitles = snippet.querySelector("#subtitles");
-        snippetData = snippetData + `${subtitles.value}\n\n`;
+        snippetData = snippetData + snippet.toSRT();
       });
+  
       fetch("/srt/save", {
         method: "POST",
         headers: {
@@ -63,3 +52,4 @@
     });
   </script>
 </html>
+
