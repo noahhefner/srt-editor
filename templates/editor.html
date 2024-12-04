@@ -4,14 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ filename }}</title>
+    <link rel="stylesheet" href="/static/css/modern-normalize.min.css" />
     <link rel="stylesheet" href="/static/css/bootstrap-grid.min.css" />
     <link rel="stylesheet" href="/static/css/styles.css" />
     <script src="/static/js/srt-snippet.js"></script>
   </head>
   <body>
-    <div id="main" class="container">
-      <h1>{{ filename }}</h1>
-      <button id="save">Save</button>
+    <header class="header shadow">
+      <div class="container">
+        <h1>SRT Editor</h1>
+      </div>  
+    </header>
+    <div class="container">
+      <div class="editor-options-wrapper shadow">
+        <h1>{{ filename }}</h1>
+        <button id="save">Save</button>
+      </div>
       {% for snippet in srt.snippets %}
       <srt-snippet
         start-time="{{ snippet.start_time }}"

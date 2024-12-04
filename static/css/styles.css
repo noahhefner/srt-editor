@@ -1,6 +1,10 @@
+:root {
+  --primary: #fbca1f;
+}
+
 /* From Uiverse.io by adamgiebl */ 
 button {
-  background: #fbca1f;
+  background: var(--primary);
   font-family: inherit;
   padding: 0.6em 1.3em;
   font-weight: 900;
@@ -21,3 +25,31 @@ button:active {
   box-shadow: 0.05em 0.05em;
 }
 
+.shadow {
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
+
+.header {
+  background-color: var(--primary);
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.table-wrapper {
+  padding: 1rem;
+  margin-top: 2rem;
+  border-radius: 0.5rem;
+}
+
+.editor-options-wrapper {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

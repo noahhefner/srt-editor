@@ -4,6 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>SRT Editor</title>
+    <link rel="stylesheet" href="/static/css/modern-normalize.min.css" />
+    <link rel="stylesheet" href="/static/css/styles.css" />
     <link rel="stylesheet" href="/static/css/bootstrap-grid.min.css" />
     <link
       href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/datatables.min.css"
@@ -12,22 +14,28 @@
     <script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/datatables.min.js"></script>
   </head>
   <body>
+    <header class="header shadow">
+      <div class="container">
+        <h1>SRT Editor</h1>
+      </div>  
+    </header>
     <div class="container">
-      <h1>SRT Editor</h1>
-      <table id="srt-files" class="cell-border">
-        <thead>
-          <tr>
-            <td>SRT File</td>
-          </tr>
-        </thead>
-        <tbody>
-          {% for file in srt_files %}
-          <tr>
-            <td>{{ file }}</td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
+      <div class="table-wrapper shadow">
+        <table id="srt-files">
+          <thead>
+            <tr>
+              <td>SRT File</td>
+            </tr>
+          </thead>
+          <tbody>
+            {% for file in srt_files %}
+            <tr>
+              <td>{{ file }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
     </div>
     <script>
       new DataTable("#srt-files", {

@@ -21,8 +21,8 @@ class SrtSnippet extends HTMLElement {
           :host {
             display: block;
             border: 1px solid #ccc;
-            padding: 1em;
-            margin: 1em 0;
+            padding: 1rem;
+            margin: 1rem 0;
             font-family: Arial, sans-serif;
           }
           p {
@@ -30,7 +30,7 @@ class SrtSnippet extends HTMLElement {
           }
           textarea {
             width: 100%;
-            height: 4em;
+            height: 4rem;
             font-family: Arial, sans-serif;
           }
         </style>
