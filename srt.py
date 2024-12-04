@@ -54,7 +54,7 @@ class Snippet:
 
         # raw strings
         self.lines = lines
-        self.line_number = lines[0]
+        self.index = lines[0]
         self.line_time_range = lines[1]
         self.lines_subtitles = lines[2:]
 

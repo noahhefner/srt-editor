@@ -5,20 +5,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ filename }}</title>
     <link rel="stylesheet" href="/static/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="/static/css/styles.css" />
   </head>
   <body>
-    <div class="container">
+    <div id="main" class="container">
       <h1>{{ filename }}</h1>
+      <button id="save">Save</button>
       {% for snippet in srt.snippets %}
-      <div>
-        <p>{{ snippet.line_number }}</p>
+      <div
+        class="snippet"
+        data-index="{{ snippet.index }}"
+        data-starttime="{{ snippet.start_time }}"
+        data-endtime="{{ snippet.end_time }}"
+      >
+        <p>{{ snippet.index }}</p>
         <p>Start Time: {{ snippet.start_time }}</p>
         <p>End Time: {{ snippet.end_time }}</p>
-        {% for line in snippet.lines_subtitles %}
-        <p>{{ line }}</p>
-        {% endfor %}
+        <textarea id="subtitles" rows="4" cols="40">
+{{ '\n'.join(snippet.lines_subtitles) }}</textarea
+        >
       </div>
       {% endfor %}
     </div>
   </body>
+  <script>
+    const bSave = document.getElementById("save");
+    bSave.addEventListener("click", function () {
+      const divMain = document.getElementById("main");
+      const snippets = divMain.querySelectorAll(".snippet");
+      let snippetData = "";
+      snippets.forEach((snippet) => {
+        snippetData = snippetData + `${snippet.dataset.index}\n`;
+        snippetData =
+          snippetData +
+          `${snippet.dataset.starttime} --> ${snippet.dataset.endtime}\n`;
+        const subtitles = snippet.querySelector("#subtitles");
+        snippetData = snippetData + `${subtitles.value}\n\n`;
+      });
+      fetch("/srt/save", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          path: "{{ path }}",
+          text: snippetData,
+        }),
+      })
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Network error while saving SRT file.");
+          } else {
+            alert("Saved changes to {{ path }}");
+          }
+        })
+        .catch((error) => console.error(error));
+    });
+  </script>
 </html>

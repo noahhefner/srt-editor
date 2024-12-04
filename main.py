@@ -17,7 +17,18 @@ def home():
     
                 srt_files.append(os.path.join(root, file))
 
-    return render_template('index.html', srt_files = srt_files)
+    return render_template('home.html', srt_files = srt_files)
+
+@app.route('/srt/save', methods=['POST'])
+def save():
+
+    data = request.get_json()
+
+    with open(data.get('path'), 'w') as f:
+
+        f.write(data.get('text'))
+
+    return "Success", 200
 
 @app.route('/editor', methods=['GET'])
 def get_editor_page():
@@ -29,7 +40,7 @@ def get_editor_page():
         content = f.read()
         srt = SRT(content)
 
-    return render_template('editor.html', srt = srt, filename = filename)
+    return render_template('editor.html', srt = srt, path = request.args.get('path'), filename = filename)
 
 if __name__ == '__main__':
     app.run(debug=True)
