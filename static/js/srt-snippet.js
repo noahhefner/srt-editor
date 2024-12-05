@@ -19,7 +19,7 @@ class SrtSnippet extends HTMLElement {
 
     this.innerHTML = `
       <div class="card" style="margin-bottom: 1rem;">
-        <header class="card-header has-background-grey-lighter">
+        <header class="card-header has-background-grey-lighter is-flex is-justify-content-space-between is-align-items-center">
           <p class="card-header-title">
             ${this._index}
           </p>

@@ -1,31 +1,48 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SRT Editor</title>
-    <link rel="stylesheet" href="/static/css/modern-normalize.min.css" />
-    <link rel="stylesheet" href="/static/css/bulma.min.css" />
-    <link
-      href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/datatables.min.css"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="/static/css/styles.css" />
-    <script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/datatables.min.js"></script>
-  </head>
-  <body class="has-background-white-ter is-family-code">
-    <nav class="navbar nav-shadow">
-      <div class="container">
-        <div class="navbar-brand">
-          <a class="navbar-item">
-            <p class="is-size-2">SRT Editor</p>
-          </a>
-        </div>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SRT Editor</title>
+  <link rel="stylesheet" href="/static/css/modern-normalize.min.css" />
+  <link rel="stylesheet" href="/static/css/bulma.min.css" />
+  <link
+    href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/datatables.min.css"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="/static/css/styles.css" />
+  <script
+    src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/datatables.min.js"></script>
+</head>
+
+<body class="has-background-white-ter is-family-code">
+  <nav class="navbar nav-shadow">
+    <div class="container">
+      <div class="navbar-start">
+        <a class="navbar-item">
+          <p class="is-size-2">SRT Editor</p>
+        </a>
       </div>
-    </nav>
-    <main class="container">
-      <div class="card" style="margin-top: 1rem;">
-        <div class="card-content">
+      <div class="navbar-end is-align-items-center">
+        <a 
+          class="navbar-item" 
+          href="https://github.com/noahhefner/srt-editor"
+          target="_blank"
+        >
+          <img src="/static/png/github-mark.png" alt="github"
+            style="width: 2rem; height: 2rem;" />
+        </a>
+      </div>
+    </div>
+  </nav>
+  <main class="container">
+    <div class="card" style="margin-top: 1rem;">
+      <div class="card-content">
+        <div style="margin-bottom: 1rem;">
+          <p>Select a file from the table below to start editing.</p>
+        </div>
+        <div
+          style="padding: 1rem; border: 1px solid lightgrey; border-radius: 0.75rem;">
           <table id="srt-files">
             <thead>
               <tr>
@@ -42,17 +59,19 @@
           </table>
         </div>
       </div>
-    </main>
-    <script>
-      new DataTable("#srt-files", {
-        columnDefs: [
-          {
-            render: (data, type, row) =>
-              `<a href="/editor?path=${encodeURIComponent(data)}">${data}</a>`,
-            targets: 0,
-          },
-        ],
-      });
-    </script>
-  </body>
+    </div>
+  </main>
+  <script>
+    new DataTable("#srt-files", {
+      columnDefs: [
+        {
+          render: (data, type, row) =>
+            `<a href="/editor?path=${encodeURIComponent(data)}">${data}</a>`,
+          targets: 0,
+        },
+      ],
+    });
+  </script>
+</body>
+
 </html>

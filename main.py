@@ -20,19 +20,6 @@ def home():
 
     return render_template('home.html', srt_files = srt_files)
 
-@app.route('/srt', methods=['GET'])
-def get_srt():
-
-    path = data.get('path')
-
-    with open(path, 'r') as f:
-
-        content = f.read()
-
-        srt = SRT(path, content)
-
-    return jsonify(srt.data())
-
 @app.route('/srt/save', methods=['POST'])
 def save():
     """
@@ -79,6 +66,8 @@ def save():
 def get_editor_page():
 
     path = request.args.get('path')
+    if path is None:
+        return "Bad Request. Request does not contain file path.", 400
 
     filename = os.path.basename(path)
 

@@ -6,6 +6,9 @@ class SRT:
     """
 
     def __init__ (self, path: str, content: str):
+        """
+        Create an SRT object.
+        """
 
         self.path = path
 
@@ -54,8 +57,11 @@ class Timestamp:
         self.milliseconds = milliseconds
 
     def __str__ (self) -> str:
+        """
+        String representation of the timestamp in SRT format.
+        """
 
-        return f"{self.hours}:{self.minutes}:{self.seconds},{self.milliseconds}"
+        return f"{self.hours:02}:{self.minutes:02}:{self.seconds:02},{self.milliseconds:03}"
 
 class Snippet:
     """
@@ -63,6 +69,9 @@ class Snippet:
     """
 
     def __init__ (self, lines: list):
+        """
+        Create a new Snippet object.
+        """
 
         # raw strings
         self.lines = lines
@@ -72,10 +81,13 @@ class Snippet:
 
         # parse start and end times
         start_time_str, end_time_str = self.time_range.split(" --> ")
-        self.start_time = self.parse_timestamp(start_time_str)
-        self.end_time = self.parse_timestamp(end_time_str)
+        self.start_time = parse_timestamp(start_time_str)
+        self.end_time = parse_timestamp(end_time_str)
 
     def subtitles_joined (self):
+        """
+        Join all the subtitle lines together for this snippet.
+        """
 
         return '\n'.join(self.subtitles)
 
@@ -91,19 +103,17 @@ class Snippet:
             "subtitles": self.subtitles
         }
 
-    def parse_timestamp (self, timestamp: str) -> Timestamp:
+def parse_timestamp (timestamp: str) -> Timestamp:
+    """
+    Parse a time string in SRT format into a Timestamp object.
+    """
 
-        hours, minutes, seconds = timestamp.split(":")
-        seconds, milliseconds = seconds.split(",")
+    hours, minutes, seconds = timestamp.split(":")
+    seconds, milliseconds = seconds.split(",")
 
-        hours = int(hours)
-        minutes = int(minutes)
-        seconds = int(seconds)
-        milliseconds = int(milliseconds)
+    hours = int(hours)
+    minutes = int(minutes)
+    seconds = int(seconds)
+    milliseconds = int(milliseconds)
 
-        return Timestamp(hours, minutes, seconds, milliseconds)
-
-    def __str__ (self):
-
-        return ''.join(self.lines)
-
+    return Timestamp(hours, minutes, seconds, milliseconds)
