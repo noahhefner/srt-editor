@@ -28,16 +28,26 @@
             <div>
               <p class="has-text-grey">Currently Editing:</p>
               <p class="is-size-3">{{ filename }}</p>
+              <p class="has-text-grey">File Path: {{ path }}</p>
             </div>
             <div>
               <button class="button is-primary" id="save">Save</button>
             </div>
           </div>
           <hr>
-          <p>Time Shift (ms)</p>
-          <input id="timeShift" type="number" />
-          <button class="button" id="addTime">Add Time</button>
-          <button class="button" id="subtractTime">Subtract Time</button>
+          <div class="level" style="margin-bottom: 1rem;">
+            <div class="level-left">
+              <div class="level-item">
+                <input id="timeShift" type="number" class="input" placeholder="Time Shift (ms)"/>
+              </div>
+              <div class="level-item">
+                <button class="button" id="addTime">Add Time</button>
+              </div>
+              <div class="level-item">
+                <button class="button" id="subtractTime">Subtract Time</button>  
+              </div>
+            </div>
+          </div>
           <hr>
           <srt-file>
             {% for snippet in srt.snippets %}
