@@ -36,7 +36,8 @@ Access the application at `localhost:8080`.
 
 ## Roadmap
 
-**This project is still in very early development.** 
+> [!NOTE]
+> **This project is still in very early development. Expect bugs and missing features.**
 
 Here are some features that I would like to implement in the future:
 - Ability to delete snippets
