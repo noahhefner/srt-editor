@@ -23,6 +23,10 @@ class SrtSnippet extends HTMLElement {
           <p class="card-header-title">
             ${this._index}
           </p>
+          <div style="margin-right: 0.75rem;">
+            <button id="moveUp" class="button">▲</button>
+            <button id="moveDown" class="button">▼</button>
+          </div>
         </header>
         <div class="card-content fixed-grid">
           <div class="grid">
@@ -53,6 +57,12 @@ class SrtSnippet extends HTMLElement {
 
     const endTime = this.querySelector("#endTime");
     endTime.addEventListener("input", this._onEndTimeEdit.bind(this));
+
+    const moveUp = this.querySelector("#moveUp");
+    moveUp.addEventListener("click", this._onMoveUpButtonPress.bind(this));
+
+    const moveDown = this.querySelector("#moveDown");
+    moveDown.addEventListener("click", this._onMoveDownButtonPress.bind(this));
   }
 
   _onSubtitleEdit(event) {
@@ -65,6 +75,20 @@ class SrtSnippet extends HTMLElement {
 
   _onEndTimeEdit(event) {
     this._endTime.setTime(event.target.value);
+  }
+
+  _onMoveUpButtonPress() {
+    const prevSnippet = this.previousElementSibling;
+    if (prevSnippet && prevSnippet.tagName.toLowerCase() === 'srt-snippet') {
+      this.parentNode.insertBefore(this, prevSnippet);
+    }
+  }
+
+  _onMoveDownButtonPress() {
+    const nextSnippet = this.nextElementSibling;
+    if (nextSnippet && nextSnippet.tagName.toLowerCase() === 'srt-snippet') {
+      this.parentNode.insertBefore(nextSnippet, this);
+    }
   }
 
   get subtitles() {
