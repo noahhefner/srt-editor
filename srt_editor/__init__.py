@@ -1,10 +1,16 @@
 from flask import Flask, render_template, request, jsonify
 from . import srt
 import os
+import sys
 from pathlib import Path
 
 
 def create_app(test_config=None):
+
+    # SRT directory can be overriden with environment variable
+    srt_directory = os.environ.get("SRT_DIR", "/data/srts")
+    if not os.path.isdir(srt_directory):
+        sys.exit(f"SRT path is not a directory: {srt_directory}")
 
     # create and configure the app
     app = Flask(__name__, instance_relative_config=True)
@@ -27,7 +33,7 @@ def create_app(test_config=None):
 
         srt_files = list()
 
-        for root, dirs, files in os.walk("/data/srts"):
+        for root, dirs, files in os.walk(srt_directory):
 
             for file in files:
 
