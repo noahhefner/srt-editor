@@ -90,6 +90,26 @@ def create_app(test_config=None):
 
         return f"Success. Contents saved to: {path}", 200
 
+    @app.route("/srt", methods=["GET"])
+    def get_srt():
+        """
+        Get an srt file in json format.
+        """
+
+        path = request.args.get("path")
+        if path is None:
+            return "Bad Request. Request does not contain file path.", 400
+
+        filename = os.path.basename(path)
+
+        with open(path) as f:
+
+            content = f.read()
+            srt_obj = srt.SRT(path, content)
+
+            return jsonify(srt_obj.data())
+
+
     @app.route("/editor", methods=["GET"])
     def get_editor_page():
 
@@ -104,6 +124,6 @@ def create_app(test_config=None):
             content = f.read()
             srt_obj = srt.SRT(path, content)
 
-        return render_template("editor.html", srt=srt_obj, path=path, filename=filename)
+        return render_template("editor2.html", srt=srt_obj, path=path, filename=filename)
 
     return app
