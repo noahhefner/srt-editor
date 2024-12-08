@@ -33,20 +33,6 @@
             </div>
           </div>
           <hr>
-          <div class="level" style="margin-bottom: 1rem;">
-            <div class="level-left">
-              <div class="level-item">
-                <input id="timeShift" type="number" class="input" placeholder="Time Shift (ms)"/>
-              </div>
-              <div class="level-item">
-                <button class="button" id="addTime">Add Time</button>
-              </div>
-              <div class="level-item">
-                <button class="button" id="subtractTime">Subtract Time</button>  
-              </div>
-            </div>
-          </div>
-          <hr>
           <div id="srt-file">
             <!-- Stuff here -->
           </div>
@@ -67,8 +53,7 @@
           }
         })
         .then((json) => {
-            const srt = new Srt(json);
-            console.log(srt);
+            let srtEditor = new SrtEditor("#srt-file", json);
         })
         .catch((error) => console.error(error));
     });
