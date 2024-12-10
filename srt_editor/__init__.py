@@ -124,6 +124,6 @@ def create_app(test_config=None):
             content = f.read()
             srt_obj = srt.SRT(path, content)
 
-        return render_template("editor2.html", srt=srt_obj, path=path, filename=filename)
+        return render_template("editor.html", srt=srt_obj, path=path, filename=filename)
 
     return app

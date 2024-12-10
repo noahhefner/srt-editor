@@ -31,7 +31,7 @@ class SrtTime {
     timeMilliseconds %= 1000;
     const formattedTime = `${hours.toString().padStart(2, "0")}:${minutes
       .toString()
-      .padStart(2, "0")}:${seconds.toString().padStart(2, "0")},${ms
+      .padStart(2, "0")}:${seconds.toString().padStart(2, "0")},${timeMilliseconds
       .toString()
       .padStart(3, "0")}`;
     return formattedTime;
@@ -91,13 +91,9 @@ class SrtEditor {
     this.snippetsPerPage = 10;
     this.pages = Math.ceil(this.snippets.length / this.snippetsPerPage);
 
-    this.render();
-  }
-
-  render() {
     // Clear container
     this.container.innerHTML = '';
-
+    // Setup static elements
     this.container.innerHTML = `
     <div class="level" style="margin-bottom: 1rem;">
       <div class="level-left">
@@ -116,10 +112,55 @@ class SrtEditor {
     <div style="position: sticky; top: 0; padding-bottom: 1rem; z-index: 1; background-color: white;">
       <button id="previousPage" class="button">Previous Page</button>
       <button id="nextPage" class="button">Next Page</button>
+      <label for="snippetNumber">Snippets per Page</label>
+      <select id="snippetNumber" name="snippetNumber">
+        <option value="5">5</option>
+        <option value="10" selected>10</option>
+        <option value="20">20</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+        <option value="200">200</option>
+      </select>
     </div>
     <div id="snippet-wrapper">
     </div>
     `;
+
+    // setup add/subtract time event listeners
+    const addTimeButton = this.container.querySelector("#addTime");
+    addTimeButton.addEventListener('click', () => {
+      const timeShiftAmount = Number(this.container.querySelector("#timeShift").value);
+      this._shiftTimesForward(timeShiftAmount);
+    });
+    const subtractTimeButton = this.container.querySelector("#subtractTime");
+    subtractTimeButton.addEventListener('click', () => {
+      const timeShiftAmount = Number(this.container.querySelector("#timeShift").value);
+      this._shiftTimesBackward(timeShiftAmount);
+
+    });
+
+    // setup snippets per page dropdown event listener
+    this.container.querySelector("#snippetNumber").addEventListener('change', (event) => {
+      this.snippetsPerPage = parseInt(event.target.value, 10);
+      this.page = 0;
+      this.pages = Math.ceil(this.snippets.length / this.snippetsPerPage);
+      this.render();
+    });
+
+    // setup event listeners for next/previous page
+    const nextPageButton = this.container.querySelector("#nextPage");
+    nextPageButton.addEventListener('click', this._nextPage.bind(this));
+    const previousPageButton = this.container.querySelector("#previousPage");
+    previousPageButton.addEventListener('click', this._previousPage.bind(this));
+
+    // initial render
+    this.render();
+  }
+
+  render() {
+    
+    // clear out the snippets area
+    this.container.querySelector("#snippet-wrapper").innerHTML = '';
 
     // Calculate the start and end indices for the current page
     const startIndex = this.page * this.snippetsPerPage;
@@ -150,6 +191,7 @@ class SrtEditor {
             ${snippet.index}
           </p>
           <div style="margin-right: 0.75rem;">
+            <button id="delete" class="button">&#128465;</button>
             <button id="moveUp" class="button">▲</button>
             <button id="moveDown" class="button">▼</button>
           </div>
@@ -174,18 +216,17 @@ class SrtEditor {
         </div>
       </div>
       `);
-
       const s = this.container.querySelector(`#snippet-${snippet.index}`);
+      // setup event listeners for move up/down buttons
       s.querySelector("#moveUp").addEventListener('click', () => this._moveSnippetUp(Number(s.dataset.index)));
       s.querySelector("#moveDown").addEventListener('click', () => this._moveSnippetDown(Number(s.dataset.index)));
+      // setup event listener for delete button
+      s.querySelector("#delete").addEventListener('click', () => this._deleteSnippet(Number(s.dataset.index)));
     });
 
-    const nextPageButton = this.container.querySelector("#nextPage");
-    nextPageButton.addEventListener('click', this._nextPage.bind(this));
+  }
 
-    const previousPageButton = this.container.querySelector("#previousPage");
-    previousPageButton.addEventListener('click', this._previousPage.bind(this));
-
+  _clearSnippets() {
   }
 
   _nextPage() {
@@ -209,6 +250,11 @@ class SrtEditor {
     }
   }
 
+  _deleteSnippet(index) {
+    this.snippets.splice(index, 1);
+    this.render();
+  }
+
   _moveSnippetDown(index) {
 
     if (index < this.snippets.length - 1) {
@@ -217,25 +263,27 @@ class SrtEditor {
     }
   }
 
+  _shiftTimesForward(milliseconds) {
+    this.snippets.forEach((snippet) => {
+      snippet.startTime.timeMilliseconds += milliseconds;
+      snippet.endTime.timeMilliseconds += milliseconds;
+    });
+    this.render();
+  }
+
+  _shiftTimesBackward(milliseconds) {
+    this.snippets.forEach((snippet) => {
+      snippet.startTime.timeMilliseconds -= milliseconds;
+      snippet.endTime.timeMilliseconds -= milliseconds;
+    });
+    this.render();
+  }
+
   buildFile() {
     let file = "";
     this.snippets.forEach((snippet) => {
       file = file + snippet.getSRTFormat();
     });
     return file;
-  }
-
-  shiftTimesForward(milliseconds) {
-    this.snippets.forEach((snippet) => {
-      snippet.startTime.timeMilliseconds += milliseconds;
-      snippet.endTime.timeMilliseconds += milliseconds;
-    });
-  }
-
-  shiftTimesBackward(milliseconds) {
-    this.snippets.forEach((snippet) => {
-      snippet.startTime.timeMilliseconds -= milliseconds;
-      snippet.endTime.timeMilliseconds -= milliseconds;
-    });
   }
 }

@@ -7,9 +7,7 @@
     <link rel="stylesheet" href="/static/css/modern-normalize.min.css" />
     <link rel="stylesheet" href="/static/css/bulma.min.css" />
     <link rel="stylesheet" href="/static/css/styles.css" />
-    <script src="/static/js/srt-time.js"></script>
-    <script src="/static/js/srt-file.js"></script>
-    <script src="/static/js/srt-snippet.js"></script>
+    <script src="/static/js/srt.js"></script>
   </head>
   <body class="has-background-white-ter is-family-code">
     <nav class="navbar nav-shadow">
@@ -21,8 +19,8 @@
         </div>
       </div>
     </nav>
-    <main class="container">
-      <div class="card" style="margin-top: 1rem;">
+    <main class="container" style="padding-bottom: 1rem; padding-top: 1rem;">
+      <div class="card">
         <div class="card-content">
           <div class="is-flex is-justify-content-space-between">
             <div>
@@ -35,64 +33,27 @@
             </div>
           </div>
           <hr>
-          <div class="level" style="margin-bottom: 1rem;">
-            <div class="level-left">
-              <div class="level-item">
-                <input id="timeShift" type="number" class="input" placeholder="Time Shift (ms)"/>
-              </div>
-              <div class="level-item">
-                <button class="button" id="addTime">Add Time</button>
-              </div>
-              <div class="level-item">
-                <button class="button" id="subtractTime">Subtract Time</button>  
-              </div>
-            </div>
+          <div id="srt-file">
+            <!-- Stuff here -->
           </div>
-          <hr>
-          <srt-file id="srt-file">
-            {% for snippet in srt.snippets %}
-            <srt-snippet
-              start-time="{{ snippet.start_time }}"
-              end-time="{{ snippet.end_time }}"
-              index="{{ snippet.index }}"
-              subtitles="{{ snippet.subtitles_joined() }}"
-            ></srt-snippet>
-            {% endfor %}
-          </srt-file>
         </div>
       </div>
     </main>
   </body>
   <script>
-
-    // add time button
-    document.getElementById("addTime").addEventListener("click", function () {
-      const ms = document.querySelector("#timeShift").value;
-      document.querySelector("srt-file").shiftTimesForward(parseInt(ms));
-    });
-    // subtract time button
-    document.getElementById("subtractTime").addEventListener("click", function () {
-      const ms = document.querySelector("#timeShift").value;
-      document.querySelector("srt-file").shiftTimesBackward(parseInt(ms));
-    });
-    // save button
-    document.getElementById("save").addEventListener("click", function () {
-      fetch("/srt/save", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          path: "{{ path }}",
-          text: document.querySelector("srt-file").buildFile(),
-        }),
+    document.addEventListener('DOMContentLoaded', function() {
+      fetch("/srt?path={{ path }}", {
+        method: "GET",
       })
         .then((response) => {
           if (!response.ok) {
-            throw new Error("Network error while saving SRT file.");
+            console.error("Network error while fetching file: {{ path }}");
           } else {
-            alert("Saved changes to {{ path }}");
+            return response.json();
           }
+        })
+        .then((json) => {
+            let srtEditor = new SrtEditor("#srt-file", json);
         })
         .catch((error) => console.error(error));
     });
