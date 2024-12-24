@@ -45,7 +45,7 @@ def create_app(test_config=None):
 
         return render_template("home.html", srt_files=srt_files)
 
-    @app.route("/srt/save", methods=["POST"])
+    @app.route("/srt", methods=["POST"])
     def save():
         """
         Writes SRT contents to a file.

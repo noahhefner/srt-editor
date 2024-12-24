@@ -19,7 +19,7 @@
         </div>
       </div>
     </nav>
-    <main class="container" style="padding-bottom: 1rem; padding-top: 1rem;">
+    <main class="container" style="padding-bottom: 1rem; padding-top: 1rem">
       <div class="card">
         <div class="card-content">
           <div class="is-flex is-justify-content-space-between">
@@ -32,7 +32,7 @@
               <button class="button is-primary" id="save">Save</button>
             </div>
           </div>
-          <hr>
+          <hr />
           <div id="srt-file">
             <!-- Stuff here -->
           </div>
@@ -41,7 +41,9 @@
     </main>
   </body>
   <script>
-    document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener("DOMContentLoaded", function () {
+      var srtEditor;
+      // fetch srt data
       fetch("/srt?path={{ path }}", {
         method: "GET",
       })
@@ -53,10 +55,33 @@
           }
         })
         .then((json) => {
-            let srtEditor = new SrtEditor("#srt-file", json);
+          srtEditor = new SrtEditor("#srt-file", json);
         })
         .catch((error) => console.error(error));
+
+      // setup save button
+      document.querySelector("#save").addEventListener("click", () => {
+        const fileContents = srtEditor.buildFile();
+
+        const body = {
+          path: "{{ path }}",
+          text: fileContents,
+        };
+
+        fetch("/srt", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(body),
+        }).then((response) => {
+          if (!response.ok) {
+            alert("Failed to save file.");
+          } else {
+            alert("File saved.");
+          }
+        });
+      });
     });
   </script>
 </html>
-
