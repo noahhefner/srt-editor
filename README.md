@@ -40,9 +40,9 @@ Access the application at `localhost:8080`.
 > **This project is still in very early development. Expect bugs and missing features.**
 
 Here are some features that I would like to implement in the future:
-- Ability to delete snippets
-- Ability to move snippets up or down
-- Ability to create new subtitle files
-- Ability to delete subtitle files
-- "Raw" editor mode to edit the whole file directly
-- Better UI (I am not a frontend dev)
+- [X] Ability to delete snippets
+- [ ] Ability to create new subtitle files
+- [ ] Ability to delete subtitle files
+- [ ] File validation
+- [ ] "Raw" editor mode to edit the whole file directly
+- [ ] Better UI
