@@ -45,7 +45,7 @@ def create_app(test_config=None):
 
         return render_template("home.html", srt_files=srt_files)
 
-    @app.route("/srt/save", methods=["POST"])
+    @app.route("/srt", methods=["POST"])
     def save():
         """
         Writes SRT contents to a file.
@@ -89,6 +89,26 @@ def create_app(test_config=None):
             f.write(file_contents)
 
         return f"Success. Contents saved to: {path}", 200
+
+    @app.route("/srt", methods=["GET"])
+    def get_srt():
+        """
+        Get an srt file in json format.
+        """
+
+        path = request.args.get("path")
+        if path is None:
+            return "Bad Request. Request does not contain file path.", 400
+
+        filename = os.path.basename(path)
+
+        with open(path) as f:
+
+            content = f.read()
+            srt_obj = srt.SRT(path, content)
+
+            return jsonify(srt_obj.data())
+
 
     @app.route("/editor", methods=["GET"])
     def get_editor_page():

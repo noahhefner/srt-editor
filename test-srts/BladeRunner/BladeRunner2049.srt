@@ -1,4788 +1,4148 @@
 1
-00:05:00,675 --> 00:05:04,195
-I hope you don't mind me
-taking the liberty.
+0:00:00,000 --> 0:00:00,000
+subtitle
 
 2
-00:05:06,555 --> 00:05:08,812
-I was careful
-not to drag in any dirt.
+00:05:40,570 --> 00:05:43,530
+<font face="Comic Sans MS">I hope you don't mind me
+taking the liberty.</font>
 
 3
-00:05:08,961 --> 00:05:11,271
-I don't mind the dirt.
+00:05:46,370 --> 00:05:50,870
+<font face="Comic Sans MS">I was careful not to drag in any dirt.</font>
 
 4
-00:05:11,988 --> 00:05:14,256
-I do mind
+00:05:51,830 --> 00:05:53,750
+<font face="Comic Sans MS">I don't mind the dirt.</font>
 
 5
-00:05:15,719 --> 00:05:17,895
-unannounced visits.
+00:05:55,460 --> 00:05:57,420
+<font face="Comic Sans MS">I do mind...</font>
 
 6
-00:05:18,435 --> 00:05:21,075
-You police?
+00:05:58,220 --> 00:06:00,350
+<font face="Comic Sans MS">...unannounced visits.</font>
 
 7
-00:05:23,604 --> 00:05:25,468
-Are you Sapper Morton?
-Civic number NK68514?
+00:06:03,390 --> 00:06:04,440
+<font face="Comic Sans MS">You police?</font>
 
 8
-00:05:26,711 --> 00:05:31,450
-I'm a farmer.
+00:06:06,560 --> 00:06:11,150
+<font face="Comic Sans MS">Are you Sapper Morton?
+Civic number NK68514?</font>
 
 9
-00:05:31,516 --> 00:05:33,446
-I saw that.
+00:06:11,310 --> 00:06:14,440
+<font face="Comic Sans MS">- I'm a farmer.
+- I saw that.</font>
 
 10
-00:05:33,690 --> 00:05:35,227
-What do you farm?
+00:06:15,610 --> 00:06:17,450
+<font face="Comic Sans MS">What do you farm?</font>
 
 11
-00:05:35,755 --> 00:05:37,696
-It's a protein farm.
+00:06:24,660 --> 00:06:26,580
+<font face="Comic Sans MS">It's a protein farm.</font>
 
 12
-00:05:44,721 --> 00:05:46,738
-Wallace design.
+00:06:27,040 --> 00:06:28,960
+<font face="Comic Sans MS">Wallace design.</font>
 
 13
-00:05:47,211 --> 00:05:49,308
-Is that what I smell?
+00:06:30,670 --> 00:06:31,920
+<font face="Comic Sans MS">Is that what I smell?</font>
 
 14
-00:05:50,856 --> 00:05:52,550
-Grow that just for me.
+00:06:33,130 --> 00:06:35,220
+<font face="Comic Sans MS">Grow that just for me.</font>
 
 15
-00:05:53,102 --> 00:05:55,008
-Garlic.
+00:06:35,710 --> 00:06:36,870
+<font face="Comic Sans MS">Garlic.</font>
 
 16
-00:05:55,941 --> 00:05:57,631
-Garlic.
+00:06:37,050 --> 00:06:38,390
+<font face="Comic Sans MS">Garlic.</font>
 
 17
-00:05:57,632 --> 00:11:43,363
-Go on, try some.
+00:06:39,050 --> 00:06:40,970
+<font face="Comic Sans MS">Go on, try some.</font>
 
 18
-00:05:59,140 --> 00:06:01,033
-No, thank you.
+00:06:41,760 --> 00:06:43,520
+<font face="Comic Sans MS">No, thank you.</font>
 
 19
-00:06:01,835 --> 00:06:03,529
-I prefer to keep
-an empty stomach
+00:06:45,220 --> 00:06:49,300
+<font face="Comic Sans MS">I prefer to keep an empty stomach
+until the hard part of the day is done.</font>
 
 20
-00:06:05,317 --> 00:06:09,695
-until the hard part
-of the day is done.
+00:06:52,100 --> 00:06:53,770
+<font face="Comic Sans MS">How long you been here?</font>
 
 21
-00:06:12,223 --> 00:06:13,952
-How long you been here?
+00:06:53,940 --> 00:06:56,070
+<font face="Comic Sans MS">Since 2020.</font>
 
 22
-00:06:13,977 --> 00:06:15,614
-Since 2020.
+00:06:56,690 --> 00:06:59,560
+<font face="Comic Sans MS">But you haven't always been a farmer,
+have you?</font>
 
 23
-00:06:16,874 --> 00:06:19,714
-But you haven't always
-been a farmer, have you?
+00:07:01,240 --> 00:07:02,580
+<font face="Comic Sans MS">Your bag.</font>
 
 24
-00:06:21,332 --> 00:06:22,946
-Your bag.
+00:07:03,070 --> 00:07:04,860
+<font face="Comic Sans MS">It's colonial medical use.</font>
 
 25
-00:06:23,142 --> 00:06:25,331
-It's colonial medical use.
+00:07:05,370 --> 00:07:07,290
+<font face="Comic Sans MS">Military issue.</font>
 
 26
-00:06:25,442 --> 00:06:27,158
-Military issue.
+00:07:09,450 --> 00:07:12,910
+<font face="Comic Sans MS">Where were you? Calantha?</font>
 
 27
-00:06:29,529 --> 00:06:32,380
-Where were you? Calantha?
+00:07:16,630 --> 00:07:18,680
+<font face="Comic Sans MS">Must have been brutal.</font>
 
 28
-00:06:36,760 --> 00:06:38,491
-Must have been brutal.
+00:07:18,840 --> 00:07:21,140
+<font face="Comic Sans MS">Plan on taking me in?</font>
 
 29
-00:06:38,952 --> 00:06:41,180
-Plan on taking me in?
+00:07:22,220 --> 00:07:25,270
+<font face="Comic Sans MS">Let them take a look inside?</font>
 
 30
-00:06:43,870 --> 00:06:45,811
-Let them take a look inside?
+00:07:25,930 --> 00:07:27,730
+<font face="Comic Sans MS">Mr. Morton...</font>
 
 31
-00:06:46,062 --> 00:06:47,557
-Mr. Morton,
+00:07:28,390 --> 00:07:31,060
+<font face="Comic Sans MS">...if taking you in is an option...</font>
 
 32
-00:06:48,510 --> 00:06:51,000
-if taking you in
-is an option,
+00:07:35,100 --> 00:07:38,230
+<font face="Comic Sans MS">...I would much prefer that
+to the alternative.</font>
 
 33
-00:06:55,157 --> 00:06:58,046
-I would much prefer that
-to the alternative.
+00:07:39,190 --> 00:07:42,150
+<font face="Comic Sans MS">I'm sure you knew
+it would be someone in time.</font>
 
 34
-00:06:59,263 --> 00:07:02,484
-I'm sure you knew
-it would be someone in time.
+00:07:44,110 --> 00:07:46,650
+<font face="Comic Sans MS">I'm sorry it had to be me.</font>
 
 35
-00:07:04,217 --> 00:07:06,299
-I'm sorry it had to be me.
+00:07:49,910 --> 00:07:51,780
+<font face="Comic Sans MS">Good as any.</font>
 
 36
-00:07:09,935 --> 00:07:11,846
-Good as any.
+00:07:54,710 --> 00:07:57,550
+<font face="Comic Sans MS">Now, if you don't mind...</font>
 
 37
-00:07:16,589 --> 00:07:18,581
-Now, if you don't mind,
+00:07:59,130 --> 00:08:02,180
+<font face="Comic Sans MS">...if you could just look up
+and to the left, please.</font>
 
 38
-00:07:19,170 --> 00:07:22,261
-if you could just look up
-and to the left, please.
+00:08:58,690 --> 00:08:59,820
+<font face="Comic Sans MS">Please don't get up.</font>
 
 39
-00:08:18,907 --> 00:08:20,995
-Please don't get up.
+00:09:11,780 --> 00:09:15,240
+<font face="Comic Sans MS">How's it feel killing your own kind?</font>
 
 40
-00:08:31,842 --> 00:08:35,110
-How's it feel
-killing your own kind?
+00:09:18,830 --> 00:09:22,500
+<font face="Comic Sans MS">I don't retire my own kind
+because we don't run.</font>
 
 41
-00:08:38,769 --> 00:08:42,276
-I don't retire my own kind
-because we don't run.
+00:09:24,090 --> 00:09:25,550
+<font face="Comic Sans MS">Only older models do.</font>
 
 42
-00:08:44,280 --> 00:08:46,121
-Only older models do.
+00:09:25,720 --> 00:09:30,520
+<font face="Comic Sans MS">And you new models
+are happy scraping the shit...</font>
 
 43
-00:08:46,146 --> 00:08:50,637
-And you new models
-are happy scraping the shit
+00:09:35,140 --> 00:09:38,180
+<font face="Comic Sans MS">...because you've never seen a miracle.</font>
 
 44
-00:08:55,125 --> 00:08:57,809
-because you've never
-seen a miracle.
+00:10:19,060 --> 00:10:21,530
+<font face="Comic Sans MS">Just photograph everything.</font>
 
 45
-00:09:38,915 --> 00:09:41,007
-Just photograph everything.
+00:10:32,740 --> 00:10:34,650
+<font face="Comic Sans MS">Madam, please.</font>
 
 46
-00:09:52,644 --> 00:09:54,537
-Madam, please.
+00:10:34,830 --> 00:10:38,380
+<font face="Comic Sans MS">Incoming L.A.P.D. re-codec hash.</font>
 
 47
-00:09:54,748 --> 00:09:57,613
-Incoming LAPD re-codec hash.
+00:10:40,670 --> 00:10:42,800
+<font face="Comic Sans MS">You're hurt. I'm not paying for that.</font>
 
 48
-00:10:00,551 --> 00:10:03,539
-You're hurt.
-I'm not payin' for that.
+00:10:44,460 --> 00:10:45,790
+<font face="Comic Sans MS">- I'll glue it.
+- And?</font>
 
 49
-00:10:04,334 --> 00:10:06,525
--I'll glue it.
--And?
+00:10:52,680 --> 00:10:54,520
+<font face="Comic Sans MS">One of the tail-end Nexus 8s.</font>
 
 50
-00:10:12,542 --> 00:10:14,482
-One of the tail-end Nexus 8s.
+00:10:54,680 --> 00:10:57,310
+<font face="Comic Sans MS">He looks like he could take
+your head off.</font>
 
 51
-00:10:14,513 --> 00:10:17,381
-He looks like he could
-take your head off.
+00:10:57,470 --> 00:10:58,680
+<font face="Comic Sans MS">He tried.</font>
 
 52
-00:10:17,382 --> 00:10:18,381
-He tried.
+00:10:58,850 --> 00:11:00,610
+<font face="Comic Sans MS">He went AWOL after Calantha...</font>
 
 53
-00:10:18,406 --> 00:10:20,545
-He went AWOL after Calantha
+00:11:00,770 --> 00:11:04,070
+<font face="Comic Sans MS">...with a few more in his outfit
+I wouldn't mind closing out.</font>
 
 54
-00:10:20,604 --> 00:10:23,982
-with a few more in his outfit
-I wouldn't mind closin' out.
+00:11:04,230 --> 00:11:06,110
+<font face="Comic Sans MS">- Just him?
+- Just him.</font>
 
 55
-00:10:24,210 --> 00:10:26,501
--Just him?
--Just him.
+00:11:07,190 --> 00:11:09,440
+<font face="Comic Sans MS">Come on home for your baseline.</font>
 
 56
-00:10:27,067 --> 00:10:29,408
-Come on home
-for your baseline.
+00:11:13,160 --> 00:11:14,410
+<font face="Comic Sans MS">One moment, madam.</font>
 
 57
-00:10:33,093 --> 00:10:34,899
-One moment, madam.
+00:12:02,750 --> 00:12:05,420
+<font face="Comic Sans MS">30 meters to maximum depth.</font>
 
 58
-00:11:22,494 --> 00:11:24,984
-30 meters to maximum depth.
+00:12:20,470 --> 00:12:21,510
+<font face="Comic Sans MS">What is that?</font>
 
 59
-00:11:40,565 --> 00:11:42,144
-What is that?
+00:12:27,650 --> 00:12:28,820
+<font face="Comic Sans MS">I'll send a dig team.</font>
 
 60
-00:11:47,356 --> 00:11:49,341
-I'll send a dig team.
+00:12:30,480 --> 00:12:32,810
+<font face="Comic Sans MS">Come on home before the storm.</font>
 
 61
-00:11:50,213 --> 00:11:52,162
-Come on home before the storm.
+00:13:50,020 --> 00:13:52,680
+<font face="Comic Sans MS">Officer KD6 -3.7.</font>
 
 62
-00:13:09,664 --> 00:13:13,345
-Officer KD6-3.7.
+00:13:52,860 --> 00:13:56,030
+<font face="Comic Sans MS">- Let's begin. Ready?
+- Yes, sir.</font>
 
 63
-00:13:13,370 --> 00:13:15,462
--Let's begin. Ready?
-- Yes, sir.
+00:13:56,990 --> 00:13:58,410
+<font face="Comic Sans MS">Recite your baseline.</font>
 
 64
-00:13:16,631 --> 00:13:18,264
-Recite your baseline.
+00:13:58,570 --> 00:14:02,070
+<font face="Comic Sans MS">And blood-black nothingness
+began to spin.</font>
 
 65
-00:13:18,289 --> 00:13:21,476
-And blood-black
-nothingness began to spin
+00:14:03,490 --> 00:14:06,120
+<font face="Comic Sans MS">A system of cells interlinked
+within cells...</font>
 
 66
-00:13:23,169 --> 00:13:25,826
-A system of cells
-interlinked within cells
+00:14:06,290 --> 00:14:09,340
+<font face="Comic Sans MS">...interlinked within cells
+interlinked within one stem.</font>
 
 67
-00:13:25,851 --> 00:13:28,147
-interlinked within cells
+00:14:09,500 --> 00:14:11,630
+<font face="Comic Sans MS">Fuck off, skin-job.</font>
 
 68
-00:13:28,148 --> 00:13:29,147
-interlinked within one stem.
+00:14:12,880 --> 00:14:18,180
+<font face="Comic Sans MS">And dreadfully distinct against the dark,
+a tall white fountain played.</font>
 
 69
-00:13:29,172 --> 00:13:30,977
-Fuck off, skin-job.
+00:14:19,130 --> 00:14:20,170
+<font face="Comic Sans MS">- Cells.
+- Cells.</font>
 
 70
-00:13:32,650 --> 00:13:36,401
-And dreadfully distinct
-Against the dark,
+00:14:20,380 --> 00:14:23,300
+<font face="Comic Sans MS">Have you ever been
+in an institution? Cells.</font>
 
 71
-00:13:36,402 --> 00:13:37,401
-a tall white fountain played.
+00:14:23,510 --> 00:14:25,720
+<font face="Comic Sans MS">- Do they keep you in a cell? Cells.
+- Cells.</font>
 
 72
-00:13:38,564 --> 00:13:39,857
-- Cells.
-- Cells.
+00:14:25,890 --> 00:14:29,770
+<font face="Comic Sans MS">When you're not performing your duties,
+do they keep you in a little box? Cells.</font>
 
 73
-00:13:39,882 --> 00:13:41,789
-Have you ever been
-in an institution?
+00:14:29,940 --> 00:14:31,650
+<font face="Comic Sans MS">- Interlinked.
+- Interlinked.</font>
 
 74
-00:13:41,814 --> 00:13:43,106
--Cells.
-- Cells.
+00:14:31,810 --> 00:14:34,980
+<font face="Comic Sans MS">What's it like to hold the hand
+of someone you love? Interlinked.</font>
 
 75
-00:13:43,107 --> 00:13:44,400
-Do they
-keep you in a cell?
+00:14:35,150 --> 00:14:38,280
+<font face="Comic Sans MS">Did they teach you how to feel
+finger to finger? Interlinked.</font>
 
 76
-00:13:44,401 --> 00:13:45,694
--Cells.
-- Cells.
+00:14:38,440 --> 00:14:41,400
+<font face="Comic Sans MS">Do you long for having
+your heart interlinked? Interlinked.</font>
 
 77
-00:13:45,695 --> 00:13:47,581
-When you're not
-performing your duties,
+00:14:41,570 --> 00:14:43,940
+<font face="Comic Sans MS">- Do you dream about being interlinked?
+- Interlinked.</font>
 
 78
-00:13:47,582 --> 00:13:48,581
-do they keep you
-in a little box?
+00:14:44,120 --> 00:14:46,960
+<font face="Comic Sans MS">What's it like to hold your child
+in your arms? Interlinked.</font>
 
 79
-00:13:48,582 --> 00:13:49,675
--Cells.
-- Cells.
+00:14:47,120 --> 00:14:50,210
+<font face="Comic Sans MS">Do you feel that there's a part of you
+that's missing? Interlinked.</font>
 
 80
-00:13:49,676 --> 00:13:51,567
-- Interlinked.
-- Interlinked.
+00:14:50,370 --> 00:14:52,790
+<font face="Comic Sans MS">- Within cells interlinked.
+- Within cells interlinked.</font>
 
 81
-00:13:51,568 --> 00:13:53,408
-What's it like to hold
-the hand of someone you love?
+00:14:52,960 --> 00:14:55,170
+<font face="Comic Sans MS">Why don't you say that three times?</font>
 
 82
-00:13:53,409 --> 00:13:54,901
--Interlinked.
-- Interlinked.
+00:14:55,340 --> 00:14:58,220
+<font face="Comic Sans MS">Within cells interlinked.
+Within cells interlinked.</font>
 
 83
-00:13:54,902 --> 00:13:56,742
-Did they teach you
-how to feel finger to finger?
+00:14:58,380 --> 00:15:01,050
+<font face="Comic Sans MS">Within cells interlinked.</font>
 
 84
-00:13:56,743 --> 00:13:58,136
--Interlinked.
-- Interlinked.
+00:15:03,260 --> 00:15:04,880
+<font face="Comic Sans MS">We're done.</font>
 
 85
-00:13:58,137 --> 00:13:59,828
-Do you long for having
-your heart interlinked?
+00:15:06,220 --> 00:15:08,260
+<font face="Comic Sans MS">Constant K.</font>
 
 86
-00:13:59,829 --> 00:14:01,221
--Interlinked.
-- Interlinked.
+00:15:08,430 --> 00:15:10,640
+<font face="Comic Sans MS">You can pick up your bonus.</font>
 
 87
-00:14:01,222 --> 00:14:03,013
-Do you dream
-about being interlinked?
+00:15:11,640 --> 00:15:12,930
+<font face="Comic Sans MS">Thank you, sir.</font>
 
 88
-00:14:03,014 --> 00:14:03,809
-Interlinked.
+00:15:13,100 --> 00:15:15,980
+<font face="Comic Sans MS">Caution, keep clear.</font>
 
 89
-00:14:03,810 --> 00:14:05,600
-What's it like to hold
-your child in your arms?
+00:15:16,150 --> 00:15:17,820
+<font face="Comic Sans MS">Caution, keep clear.</font>
 
 90
-00:14:05,601 --> 00:14:06,845
--Interlinked.
-- Interlinked.
+00:15:19,530 --> 00:15:21,530
+<font face="Comic Sans MS">Caution, keep clear.</font>
 
 91
-00:14:06,846 --> 00:14:08,586
-Do you feel that there's
-a part of you that's missing?
+00:15:21,700 --> 00:15:25,160
+<font face="Comic Sans MS">Connect to Off-world any time,
+any place.</font>
 
 92
-00:14:08,587 --> 00:14:09,781
--Interlinked.
-- Interlinked.
+00:15:25,320 --> 00:15:27,740
+<font face="Comic Sans MS">Packages start at 20 minutes.</font>
 
 93
-00:14:09,782 --> 00:14:12,468
-- Within cells interlinked.
-- Within cells interlinked.
+00:15:27,910 --> 00:15:30,200
+<font face="Comic Sans MS">Many options available.</font>
 
 94
-00:14:12,469 --> 00:14:13,901
-Why don't you
-say that three times.
+00:15:34,210 --> 00:15:37,840
+<font face="Comic Sans MS">Joi goes anywhere you want her to go.</font>
 
 95
-00:14:13,902 --> 00:14:14,901
-Within cells interlinked.
+00:15:38,000 --> 00:15:41,840
+<font face="Comic Sans MS">Connect to Off-world any time,
+any place.</font>
 
 96
-00:14:14,928 --> 00:14:18,003
-Within cells interlinked.
+00:15:42,010 --> 00:15:44,970
+<font face="Comic Sans MS">Packages start at 20 minutes.</font>
 
 97
-00:14:18,028 --> 00:14:20,010
-Within cells interlinked.
-Within cells interlinked.
+00:16:25,340 --> 00:16:28,920
+<font face="Comic Sans MS">K? I didn't hear you. You're early.</font>
 
 98
-00:14:22,965 --> 00:14:24,560
-We're done.
+00:16:29,100 --> 00:16:31,060
+<font face="Comic Sans MS">You want me to come back?</font>
 
 99
-00:14:25,844 --> 00:14:27,538
-Constant "K."
+00:16:31,220 --> 00:16:33,470
+<font face="Comic Sans MS">- Just go scrub.
+- Yes, ma'am.</font>
 
 100
-00:14:28,041 --> 00:14:30,082
-You can pick up your bonus.
+00:16:35,230 --> 00:16:37,230
+<font face="Comic Sans MS">How was your meeting?</font>
 
 101
-00:14:31,218 --> 00:14:32,825
-Thank you, sir.
+00:16:38,650 --> 00:16:40,490
+<font face="Comic Sans MS">The usual.</font>
 
 102
-00:14:32,887 --> 00:14:34,862
-Caution, keep clear.
+00:16:40,980 --> 00:16:42,810
+<font face="Comic Sans MS">How was your day?</font>
 
 103
-00:14:35,977 --> 00:14:38,043
-Caution, keep clear.
+00:16:44,030 --> 00:16:46,330
+<font face="Comic Sans MS">I'm getting cabin fever.</font>
 
 104
-00:14:41,035 --> 00:14:43,717
-Connect to off-world
+00:16:46,780 --> 00:16:50,900
+<font face="Comic Sans MS">99.9 percent detoxified water.</font>
 
 105
-00:14:43,718 --> 00:14:44,717
-any time, any place.
+00:16:53,750 --> 00:16:58,670
+<font face="Comic Sans MS">I had an accident at work.
+I think I ruined my shirt.</font>
 
 106
-00:14:44,718 --> 00:14:47,205
-Packages start at 20 minutes.
+00:16:58,830 --> 00:17:02,960
+<font face="Comic Sans MS">I'm sure I can fix that for you.
+Let me take a look at it.</font>
 
 107
-00:14:47,206 --> 00:14:49,000
-Many options available.
+00:17:08,890 --> 00:17:10,890
+<font face="Comic Sans MS">I need a drink.</font>
 
 108
-00:14:53,738 --> 00:14:57,024
-Joi goes anywhere
-you want her to go.
+00:17:11,470 --> 00:17:14,180
+<font face="Comic Sans MS">- Do you want a drink first?
+- Pour me one, will you?</font>
 
 109
-00:14:57,520 --> 00:15:01,555
-Connect to
-off-world any time, any place.
+00:17:16,770 --> 00:17:20,280
+<font face="Comic Sans MS">I'm trying a new recipe.
+I just need a bit more practice.</font>
 
 110
-00:15:44,936 --> 00:15:48,454
-"K"? I didn't hear you.
-You're early.
+00:17:20,440 --> 00:17:21,490
+<font face="Comic Sans MS">Don't fuss.</font>
 
 111
-00:15:48,519 --> 00:15:50,511
-You want me to come back?
+00:17:24,610 --> 00:17:29,230
+<font face="Comic Sans MS">I should have marinated it longer.
+I hope it isn't dry.</font>
 
 112
-00:15:50,739 --> 00:15:53,037
-Just go scrub.
+00:17:31,160 --> 00:17:36,250
+<font face="Comic Sans MS">Did you know this song was released
+in 1966 on Reprise Records?</font>
 
 113
-00:15:54,929 --> 00:15:56,661
-Yes, ma'am.
+00:17:36,410 --> 00:17:38,950
+<font face="Comic Sans MS">It was number one on the charts.</font>
 
 114
-00:15:58,368 --> 00:16:00,162
-How was your meeting?
+00:17:43,750 --> 00:17:47,960
+<font face="Comic Sans MS">It won't be much longer.
+Just putting on the finishing touches.</font>
 
 115
-00:16:00,516 --> 00:16:02,541
-The usual.
+00:17:51,640 --> 00:17:55,480
+<font face="Comic Sans MS">Okay, it's ready.
+I hope you're gonna like it.</font>
 
 116
-00:16:03,650 --> 00:16:05,643
-How was your day?
+00:17:55,640 --> 00:17:57,220
+<font face="Comic Sans MS">I told you not to fuss.</font>
 
 117
-00:16:06,398 --> 00:16:09,591
-I'm getting cabin fever.
+00:17:59,440 --> 00:18:01,240
+<font face="Comic Sans MS">And yet...</font>
 
 118
-00:16:13,189 --> 00:16:15,480
-99.9% detoxified water.
+00:18:03,820 --> 00:18:06,320
+<font face="Comic Sans MS">Voila! Bon appetit.</font>
 
 119
-00:16:16,031 --> 00:16:18,023
-I had an accident at work.
-I think I ruined my shirt.
+00:18:09,200 --> 00:18:11,660
+<font face="Comic Sans MS">I missed you, baby sweet.</font>
 
 120
-00:16:18,456 --> 00:16:20,426
-I'm sure
-I can fix that for you.
+00:18:13,160 --> 00:18:14,750
+<font face="Comic Sans MS">Honey, it's beautiful.</font>
 
 121
-00:16:20,451 --> 00:16:22,456
-Let me take a look at it.
+00:18:15,330 --> 00:18:17,460
+<font face="Comic Sans MS">Just put your feet up.</font>
 
 122
-00:16:28,358 --> 00:16:30,052
-I need a drink.
+00:18:17,870 --> 00:18:19,160
+<font face="Comic Sans MS">Relax.</font>
 
 123
-00:16:30,937 --> 00:16:33,625
-Do you want a drink first?
+00:18:37,680 --> 00:18:39,260
+<font face="Comic Sans MS">Was a day?</font>
 
 124
-00:16:33,626 --> 00:16:34,625
-Mmm-hmm.
-Pour me one, will ya?
+00:18:40,940 --> 00:18:42,860
+<font face="Comic Sans MS">It was a day.</font>
 
 125
-00:16:36,334 --> 00:16:37,928
-I'm trying a new recipe.
+00:18:43,360 --> 00:18:44,570
+<font face="Comic Sans MS">Would you read to me?</font>
 
 126
-00:16:38,038 --> 00:16:40,040
-I just need
-a bit more practice.
+00:18:46,650 --> 00:18:47,900
+<font face="Comic Sans MS">It'll make you feel better.</font>
 
 127
-00:16:40,065 --> 00:16:41,694
-Don't fuss.
+00:18:48,650 --> 00:18:50,820
+<font face="Comic Sans MS">- You hate that book.
+- I don't wanna read either.</font>
 
 128
-00:16:44,208 --> 00:16:46,473
-I should have
-marinated it longer.
+00:18:53,660 --> 00:18:54,710
+<font face="Comic Sans MS">Let's dance.</font>
 
 129
-00:16:46,595 --> 00:16:48,403
-I hope it isn't dry.
+00:18:54,870 --> 00:18:57,370
+<font face="Comic Sans MS">Do you wanna dance,
+or do you wanna open your present?</font>
 
 130
-00:16:50,516 --> 00:16:54,206
-Did you know
-this song was released
+00:18:57,540 --> 00:18:59,130
+<font face="Comic Sans MS">What present?</font>
 
 131
-00:16:54,207 --> 00:16:55,206
-in 1966 on Reprise Records?
+00:19:03,170 --> 00:19:05,510
+<font face="Comic Sans MS">- This one.
+- What's the occasion?</font>
 
 132
-00:16:55,823 --> 00:16:58,054
-It was number one
-on the charts.
+00:19:06,250 --> 00:19:08,420
+<font face="Comic Sans MS">Let's just say...</font>
 
 133
-00:17:03,142 --> 00:17:04,726
-It won't be much longer.
+00:19:08,590 --> 00:19:10,970
+<font face="Comic Sans MS">- ...it's our anniversary.
+- Is it?</font>
 
 134
-00:17:04,751 --> 00:17:07,322
-Just putting on
-the finishing touches.
+00:19:12,890 --> 00:19:16,890
+<font face="Comic Sans MS">No, but let's just say that it is.</font>
 
 135
-00:17:11,177 --> 00:17:15,055
-Okay, it's ready.
-I hope you're gonna like it.
+00:19:17,850 --> 00:19:18,900
+<font face="Comic Sans MS">Okay?</font>
 
 136
-00:17:15,080 --> 00:17:17,038
-I told you not to fuss.
+00:19:22,940 --> 00:19:23,980
+<font face="Comic Sans MS">Happy anniversary.</font>
 
 137
-00:17:18,842 --> 00:17:20,661
-And yet...
+00:19:25,820 --> 00:19:27,070
+<font face="Comic Sans MS">An emanator.</font>
 
 138
-00:17:23,246 --> 00:17:25,975
-Voilأ ! Bon appأ©tit.
+00:20:10,280 --> 00:20:11,410
+<font face="Comic Sans MS">Thank you.</font>
 
 139
-00:17:28,634 --> 00:17:30,686
-I missed you, baby sweet.
+00:20:11,570 --> 00:20:15,990
+<font face="Comic Sans MS">Honey, you can go anywhere you want
+in the world now.</font>
 
 140
-00:17:32,531 --> 00:17:34,523
-Honey, it's beautiful.
+00:20:16,820 --> 00:20:19,030
+<font face="Comic Sans MS">Where do you wanna go first?</font>
 
 141
-00:17:34,752 --> 00:17:36,616
-Just put your feet up.
+00:22:32,960 --> 00:22:35,210
+<font face="Comic Sans MS">I'm so happy when I'm with you.</font>
 
 142
-00:17:37,289 --> 00:17:39,082
-Relax.
+00:22:37,590 --> 00:22:38,850
+<font face="Comic Sans MS">You don't have to say that.</font>
 
 143
-00:17:57,113 --> 00:17:59,105
-Was a day, hmm?
+00:23:11,000 --> 00:23:14,260
+<font face="Comic Sans MS">The dig's come through.
+We have a new lead.</font>
 
 144
-00:18:00,318 --> 00:18:02,099
-It was a day.
+00:23:14,420 --> 00:23:15,760
+<font face="Comic Sans MS">Get down here.</font>
 
 145
-00:18:02,914 --> 00:18:04,876
-Would you read to me?
+00:23:29,600 --> 00:23:34,100
+<font face="Comic Sans MS">Carbon read: 14.6 GPH.</font>
 
 146
-00:18:06,212 --> 00:18:07,766
-It'll make you feel better.
+00:23:53,710 --> 00:23:58,340
+<font face="Comic Sans MS">Your box is a military footlocker,
+issued to Sapper Morton...</font>
 
 147
-00:18:07,835 --> 00:18:11,265
--You hate that book.
--I don't wanna read either.
+00:23:58,500 --> 00:24:03,210
+<font face="Comic Sans MS">...creatively repurposed as an ossuary:
+a box of bones.</font>
 
 148
-00:18:12,993 --> 00:18:14,320
-Let's dance.
+00:24:03,380 --> 00:24:05,630
+<font face="Comic Sans MS">Nothing else in it but hair.</font>
 
 149
-00:18:14,345 --> 00:18:16,901
-Do you wanna dance, or do you
-wanna open your present?
+00:24:06,640 --> 00:24:10,810
+<font face="Comic Sans MS">The soil samples indicate
+that she's been buried for 30 years.</font>
 
 150
-00:18:16,941 --> 00:18:18,536
-What present?
+00:24:11,560 --> 00:24:15,610
+<font face="Comic Sans MS">Bones all dismantled, fully cleaned,
+meticulously laid to rest.</font>
 
 151
-00:18:22,357 --> 00:18:23,865
-This one.
+00:24:15,770 --> 00:24:17,430
+<font face="Comic Sans MS">"She"?</font>
 
 152
-00:18:23,963 --> 00:18:25,615
-What's the occasion?
+00:24:18,570 --> 00:24:19,700
+<font face="Comic Sans MS">Cause of death, Coco?</font>
 
 153
-00:18:25,746 --> 00:18:27,638
-Let's just say
+00:24:31,080 --> 00:24:35,050
+<font face="Comic Sans MS">No breaks, no sign of trauma, except...</font>
 
 154
-00:18:27,971 --> 00:18:31,245
--it's our anniversary.
--Is it?
+00:24:35,210 --> 00:24:38,300
+<font face="Comic Sans MS">...a fracture through the ilium.</font>
 
 155
-00:18:32,252 --> 00:18:36,830
-No, but let's just
-say that it is.
+00:24:38,790 --> 00:24:41,540
+<font face="Comic Sans MS">It's a narrow birth canal.
+Baby must have got stuck.</font>
 
 156
-00:18:37,459 --> 00:18:38,854
-Okay?
+00:24:41,710 --> 00:24:43,790
+<font face="Comic Sans MS">She was pregnant?</font>
 
 157
-00:18:42,396 --> 00:18:44,123
-Happy anniversary.
+00:24:44,970 --> 00:24:46,430
+<font face="Comic Sans MS">So he didn't kill her?</font>
 
 158
-00:18:45,199 --> 00:18:46,992
-An emanator.
+00:24:46,590 --> 00:24:47,920
+<font face="Comic Sans MS">She died in childbirth.</font>
 
 159
-00:19:29,473 --> 00:19:30,909
-Thank you.
+00:24:50,310 --> 00:24:51,810
+<font face="Comic Sans MS">What's that?</font>
 
 160
-00:19:30,949 --> 00:19:35,032
-Honey, you can go anywhere
-you want in the world now.
+00:24:52,930 --> 00:24:54,510
+<font face="Comic Sans MS">Go back.</font>
 
 161
-00:19:36,141 --> 00:19:38,258
-Where do you wanna go first?
+00:24:55,310 --> 00:24:56,810
+<font face="Comic Sans MS">Closer.</font>
 
 162
-00:21:52,112 --> 00:21:54,615
-I'm so happy
-when I'm with you.
+00:24:58,150 --> 00:24:59,780
+<font face="Comic Sans MS">Closer.</font>
 
 163
-00:21:56,743 --> 00:21:58,911
-You don't have to say that.
+00:25:02,400 --> 00:25:03,980
+<font face="Comic Sans MS">What's that?</font>
 
 164
-00:22:30,058 --> 00:22:32,839
-The dig's come through.
-We have a new lead.
+00:25:07,200 --> 00:25:10,960
+<font face="Comic Sans MS">Notching in the iliac crest.</font>
 
 165
-00:22:33,536 --> 00:22:35,176
-Get down here.
+00:25:11,120 --> 00:25:14,500
+<font face="Comic Sans MS">It's fine-point, like a scalpel.</font>
 
 166
-00:22:48,673 --> 00:22:52,846
-Carbon read: 14.6 GPH.
+00:25:15,410 --> 00:25:18,370
+<font face="Comic Sans MS">That looks like an emergency C-section.</font>
 
 167
-00:23:12,733 --> 00:23:16,176
-Your box
-is a military footlocker
+00:25:18,540 --> 00:25:22,210
+<font face="Comic Sans MS">The cuts are clean.
+No sign of a struggle.</font>
 
 168
-00:23:16,177 --> 00:23:17,176
-issued to Sapper Morton,
+00:25:22,760 --> 00:25:27,430
+<font face="Comic Sans MS">He was a combat medic. Maybe he tried
+to save her, and he just couldn't.</font>
 
 169
-00:23:17,511 --> 00:23:20,368
-creatively repurposed
-as an ossuary:
+00:25:27,590 --> 00:25:29,970
+<font face="Comic Sans MS">He didn't seem like the saving type.</font>
 
 170
-00:23:20,439 --> 00:23:22,056
-a box of bones.
+00:25:30,140 --> 00:25:32,230
+<font face="Comic Sans MS">He went to the trouble of burying her.</font>
 
 171
-00:23:22,467 --> 00:23:24,459
-Nothin' else in it but hair.
+00:25:32,390 --> 00:25:33,900
+<font face="Comic Sans MS">A sentimental skin-job.</font>
 
 172
-00:23:25,605 --> 00:23:28,886
-The soil samples indicate that
+00:25:36,520 --> 00:25:38,030
+<font face="Comic Sans MS">Sorry.</font>
 
 173
-00:23:28,887 --> 00:23:29,886
-she's been buried
-for 30 years.
+00:25:38,190 --> 00:25:40,650
+<font face="Comic Sans MS">So where's the kid?</font>
 
 174
-00:23:30,451 --> 00:23:33,729
-Bones all dismantled,
-fully cleaned,
+00:25:41,610 --> 00:25:43,490
+<font face="Comic Sans MS">You scan the whole field?</font>
 
 175
-00:23:33,730 --> 00:23:34,729
-meticulously laid to rest.
+00:25:43,650 --> 00:25:46,020
+<font face="Comic Sans MS">Just dirt and worms. No other bodies.</font>
 
 176
-00:23:34,791 --> 00:23:36,386
-"She"?
+00:25:46,200 --> 00:25:48,160
+<font face="Comic Sans MS">Maybe he ate it.</font>
 
 177
-00:23:37,651 --> 00:23:39,568
-Cause of death, Coco?
+00:26:36,790 --> 00:26:38,710
+<font face="Comic Sans MS">That's not possible.</font>
 
 178
-00:23:50,119 --> 00:23:53,743
-No breaks,
-no sign of trauma, except
+00:26:41,170 --> 00:26:43,420
+<font face="Comic Sans MS">She was a Replicant.</font>
 
 179
-00:23:54,527 --> 00:23:57,018
-a fracture
-through the ilium.
+00:26:45,670 --> 00:26:47,290
+<font face="Comic Sans MS">Pregnant.</font>
 
 180
-00:23:57,739 --> 00:24:00,684
-It's a narrow birth canal.
-Baby must have got stuck.
+00:26:56,390 --> 00:26:59,350
+<font face="Comic Sans MS">The world is built on a wall.</font>
 
 181
-00:24:00,740 --> 00:24:03,653
-- She was pregnant?
-- Hmm.
+00:26:59,730 --> 00:27:01,900
+<font face="Comic Sans MS">It separates kind.</font>
 
 182
-00:24:03,918 --> 00:24:06,610
-So he didn't kill her?
+00:27:02,480 --> 00:27:06,490
+<font face="Comic Sans MS">Tell either side there's no wall,
+you bought a war.</font>
 
 183
-00:24:06,611 --> 00:24:07,610
-Mmm. She died in childbirth.
+00:27:06,650 --> 00:27:08,520
+<font face="Comic Sans MS">Or a slaughter.</font>
 
 184
-00:24:09,422 --> 00:24:10,948
-What's that?
+00:27:12,110 --> 00:27:14,320
+<font face="Comic Sans MS">So what you saw...</font>
 
 185
-00:24:12,002 --> 00:24:13,542
-Go back.
+00:27:16,120 --> 00:27:17,330
+<font face="Comic Sans MS">...didn't happen.</font>
 
 186
-00:24:14,307 --> 00:24:15,831
-Closer.
+00:27:19,750 --> 00:27:21,090
+<font face="Comic Sans MS">Yes, madam.</font>
 
 187
-00:24:17,164 --> 00:24:18,758
-Closer.
+00:27:21,250 --> 00:27:24,090
+<font face="Comic Sans MS">It is my job to keep order.</font>
 
 188
-00:24:21,468 --> 00:24:23,122
-What's that?
+00:27:24,250 --> 00:27:27,370
+<font face="Comic Sans MS">That's what we do here. We keep order.</font>
 
 189
-00:24:24,704 --> 00:24:26,097
-Huh.
+00:27:28,920 --> 00:27:30,040
+<font face="Comic Sans MS">You want it gone?</font>
 
 190
-00:24:26,191 --> 00:24:29,608
-Notching in the iliac crest.
+00:27:32,090 --> 00:27:33,710
+<font face="Comic Sans MS">Erase everything.</font>
 
 191
-00:24:30,137 --> 00:24:33,440
-It's fine-point,
-like a scalpel.
+00:27:33,890 --> 00:27:36,810
+<font face="Comic Sans MS">- Even the child?
+- All trace.</font>
 
 192
-00:24:34,446 --> 00:24:37,097
-That looks like
-an emergency C-section.
+00:27:40,890 --> 00:27:43,310
+<font face="Comic Sans MS">You have anything more to say?</font>
 
 193
-00:24:37,563 --> 00:24:41,048
-The cuts are clean.
-No sign of a struggle.
+00:27:44,730 --> 00:27:47,980
+<font face="Comic Sans MS">I've never retired something
+that was born before.</font>
 
 194
-00:24:41,818 --> 00:24:43,641
-He was a combat medic.
+00:27:48,730 --> 00:27:50,730
+<font face="Comic Sans MS">What's the difference?</font>
 
 195
-00:24:44,373 --> 00:24:46,670
-Maybe he tried to save her
-and he just couldn't.
+00:27:54,700 --> 00:27:57,000
+<font face="Comic Sans MS">To be born is to have a soul, I guess.</font>
 
 196
-00:24:46,709 --> 00:24:48,758
-He didn't seem like
-the saving type.
+00:27:58,240 --> 00:27:59,490
+<font face="Comic Sans MS">Are you telling me no?</font>
 
 197
-00:24:48,783 --> 00:24:51,217
-He went to the trouble
-of burying her.
+00:28:01,080 --> 00:28:03,080
+<font face="Comic Sans MS">I wasn't aware
+that was an option, madam.</font>
 
 198
-00:24:51,425 --> 00:24:53,566
-A sentimental skin-job.
+00:28:03,670 --> 00:28:05,300
+<font face="Comic Sans MS">Attaboy.</font>
 
 199
-00:24:55,522 --> 00:24:56,956
-Sorry.
+00:28:08,300 --> 00:28:12,100
+<font face="Comic Sans MS">Hey. You've been getting on fine
+without one.</font>
 
 200
-00:24:57,367 --> 00:24:59,239
-So where's the kid?
+00:28:12,260 --> 00:28:13,310
+<font face="Comic Sans MS">What's that, madam?</font>
 
 201
-00:25:00,628 --> 00:25:02,510
-You scan the whole field?
+00:28:14,340 --> 00:28:15,960
+<font face="Comic Sans MS">A soul.</font>
 
 202
-00:25:02,549 --> 00:25:04,166
-Just dirt and worms.
+00:29:02,730 --> 00:29:07,320
+<font face="Comic Sans MS">And you new models
+are happy scraping the shit...</font>
 
 203
-00:25:04,167 --> 00:25:05,166
-No other bodies.
+00:29:09,770 --> 00:29:12,860
+<font face="Comic Sans MS">...because you've never seen a miracle.</font>
 
 204
-00:25:05,191 --> 00:25:06,822
-Maybe he ate it.
+00:29:36,380 --> 00:29:39,340
+<font face="Comic Sans MS">Just checking in on an old serial number.</font>
 
 205
-00:25:55,688 --> 00:25:57,637
-That's not possible.
+00:29:43,890 --> 00:29:45,430
+<font face="Comic Sans MS">Confirmation DNA?</font>
 
 206
-00:26:00,106 --> 00:26:01,999
-She was a Replicant.
+00:29:46,770 --> 00:29:48,530
+<font face="Comic Sans MS">I got hair.</font>
 
 207
-00:26:04,562 --> 00:26:06,224
-Pregnant.
+00:30:07,330 --> 00:30:09,160
+<font face="Comic Sans MS">An old one.</font>
 
 208
-00:26:15,185 --> 00:26:19,261
-The world is built on a wall.
+00:30:09,630 --> 00:30:11,550
+<font face="Comic Sans MS">Pre-Blackout.</font>
 
 209
-00:26:19,262 --> 00:26:20,261
-It separates kind.
+00:30:12,670 --> 00:30:15,090
+<font face="Comic Sans MS">That's gonna be tough.</font>
 
 210
-00:26:21,388 --> 00:26:23,973
-Tell either side
-there's no wall,
+00:30:15,800 --> 00:30:17,430
+<font face="Comic Sans MS">Not much from then.</font>
 
 211
-00:26:23,974 --> 00:26:24,973
-you bought a war.
+00:30:17,590 --> 00:30:19,710
+<font face="Comic Sans MS">And what's there is...</font>
 
 212
-00:26:25,603 --> 00:26:27,270
-Or a slaughter.
+00:30:20,050 --> 00:30:21,920
+<font face="Comic Sans MS">...thick milky.</font>
 
 213
-00:26:30,996 --> 00:26:32,989
-So, what you saw
+00:30:22,640 --> 00:30:25,520
+<font face="Comic Sans MS">You can customize them
+as much as you'd like.</font>
 
 214
-00:26:34,985 --> 00:26:36,837
-didn't happen.
+00:30:25,890 --> 00:30:28,430
+<font face="Comic Sans MS">As human as you want them to be.</font>
 
 215
-00:26:38,568 --> 00:26:40,036
-Yes, madam.
+00:30:28,810 --> 00:30:32,180
+<font face="Comic Sans MS">But your operation is strictly
+a drill site, isn't it?</font>
 
 216
-00:26:40,061 --> 00:26:42,946
-It is my job to keep order.
+00:30:32,360 --> 00:30:37,030
+<font face="Comic Sans MS">I wouldn't waste your money
+on intelligence, attachment or appeal.</font>
 
 217
-00:26:43,062 --> 00:26:45,951
-That's what we do here.
-We keep order.
+00:30:37,490 --> 00:30:41,080
+<font face="Comic Sans MS">Unless you'd like to add
+some pleasure models to your order.</font>
 
 218
-00:26:47,825 --> 00:26:49,519
-You want it gone?
+00:30:54,500 --> 00:30:57,670
+<font face="Comic Sans MS">Would it be possible
+to reschedule this call, please?</font>
 
 219
-00:26:50,986 --> 00:26:52,677
-Erase everything.
+00:31:00,180 --> 00:31:03,520
+<font face="Comic Sans MS">Everyone remembers where they were
+at the Blackout. You?</font>
 
 220
-00:26:52,726 --> 00:26:54,544
-Even the child?
+00:31:03,680 --> 00:31:05,270
+<font face="Comic Sans MS">That was a little before my time.</font>
 
 221
-00:26:54,545 --> 00:26:55,544
-All trace.
+00:31:06,270 --> 00:31:09,520
+<font face="Comic Sans MS">I was home with my folks,
+then 10 days of darkness.</font>
 
 222
-00:26:59,778 --> 00:27:01,947
-You have anything more to say?
+00:31:09,690 --> 00:31:11,230
+<font face="Comic Sans MS">Every machine stopped cold.</font>
 
 223
-00:27:03,613 --> 00:27:06,673
-I've never retired something
-that was born before.
+00:31:11,400 --> 00:31:13,610
+<font face="Comic Sans MS">When the lights came back,
+we were wiped clean.</font>
 
 224
-00:27:07,664 --> 00:27:09,552
-What's the difference?
+00:31:13,980 --> 00:31:19,400
+<font face="Comic Sans MS">Photos, files, every bit of data, gone.
+Bank records too.</font>
 
 225
-00:27:13,467 --> 00:27:15,957
-To be born is to have a soul,
-I guess.
+00:31:19,570 --> 00:31:20,730
+<font face="Comic Sans MS">Didn't mind that.</font>
 
 226
-00:27:17,034 --> 00:27:18,927
-Are you telling me no?
+00:31:20,910 --> 00:31:22,950
+<font face="Comic Sans MS">It's funny it's only paper that lasted.</font>
 
 227
-00:27:19,907 --> 00:27:22,458
-I wasn't aware
-that was an option, madam.
+00:31:23,120 --> 00:31:26,580
+<font face="Comic Sans MS">I mean, we had everything on drives.
+Everything, everything, everything.</font>
 
 228
-00:27:22,494 --> 00:27:24,130
-Attaboy.
+00:31:28,250 --> 00:31:30,750
+<font face="Comic Sans MS">My mom still cries
+over the lost baby pictures.</font>
 
 229
-00:27:27,196 --> 00:27:28,592
-Hey.
+00:31:31,540 --> 00:31:35,210
+<font face="Comic Sans MS">Well, it's a shame.
+You must have been adorable.</font>
 
 230
-00:27:28,773 --> 00:27:30,964
-You've been getting on fine
-without one.
+00:31:41,130 --> 00:31:44,260
+<font face="Comic Sans MS">Pretty fractured. Not much on it.</font>
 
 231
-00:27:31,355 --> 00:27:32,910
-What's that, madam?
+00:31:44,760 --> 00:31:47,300
+<font face="Comic Sans MS">One of the last gens, pre-Prohibition.</font>
 
 232
-00:27:33,160 --> 00:27:34,752
-A soul.
+00:31:47,470 --> 00:31:49,340
+<font face="Comic Sans MS">Standard issue.</font>
 
 233
-00:28:21,484 --> 00:28:26,462
-And you new models
-are happy scraping the shit
+00:31:49,520 --> 00:31:52,110
+<font face="Comic Sans MS">- Made by Tyrell.
+- And?</font>
 
 234
-00:28:28,573 --> 00:28:31,119
-because you've never seen
-a miracle.
+00:31:53,310 --> 00:31:54,930
+<font face="Comic Sans MS">Unremarkable.</font>
 
 235
-00:28:55,122 --> 00:28:57,689
-Just checking in
-on an old serial number.
+00:31:55,110 --> 00:31:56,360
+<font face="Comic Sans MS">"Unremarkable"?</font>
 
 236
-00:29:02,579 --> 00:29:04,472
-Confirmation DNA?
+00:31:56,520 --> 00:31:59,360
+<font face="Comic Sans MS">There must be something else
+we can find for him.</font>
 
 237
-00:29:05,394 --> 00:29:07,168
-I got hair.
+00:32:06,870 --> 00:32:09,630
+<font face="Comic Sans MS">Another prodigal serial number returns.</font>
 
 238
-00:29:24,191 --> 00:29:27,632
-Oh! An old one.
+00:32:11,000 --> 00:32:14,090
+<font face="Comic Sans MS">A 30-year-old open case finally closed.</font>
 
 239
-00:29:28,295 --> 00:29:30,164
-Pre-Blackout. Huh.
+00:32:14,500 --> 00:32:16,500
+<font face="Comic Sans MS">Thank you, officer.</font>
 
 240
-00:29:31,344 --> 00:29:33,536
-That's gonna be tough.
+00:32:17,250 --> 00:32:19,210
+<font face="Comic Sans MS">I'm here for Mr. Wallace. I'm Luv.</font>
 
 241
-00:29:34,497 --> 00:29:36,983
-Not much from then.
+00:32:21,800 --> 00:32:23,470
+<font face="Comic Sans MS">He named you.</font>
 
 242
-00:29:36,984 --> 00:29:37,983
-And what's there is
+00:32:24,180 --> 00:32:26,140
+<font face="Comic Sans MS">Must be special.</font>
 
 243
-00:29:38,638 --> 00:29:40,432
-thick milky.
+00:32:26,600 --> 00:32:28,350
+<font face="Comic Sans MS">I'm here for Mr. Wallace.</font>
 
 244
-00:29:41,312 --> 00:29:44,197
-You can customize them
-as much as you'd like.
+00:32:28,510 --> 00:32:30,090
+<font face="Comic Sans MS">Follow me.</font>
 
 245
-00:29:44,573 --> 00:29:46,963
-As human
-as you want them to be.
+00:32:35,900 --> 00:32:38,860
+<font face="Comic Sans MS">The ancient models give
+the entire endeavor a bad name.</font>
 
 246
-00:29:47,454 --> 00:29:50,751
-But your operation is strictly
-a drill site, isn't it?
+00:32:40,780 --> 00:32:44,950
+<font face="Comic Sans MS">What a gift, don't you think,
+from Mr. Wallace to the world?</font>
 
 247
-00:29:51,066 --> 00:29:54,448
-I wouldn't waste your money
-on intelligence,
+00:32:48,530 --> 00:32:52,160
+<font face="Comic Sans MS">The outer colonies would never have
+flourished had he not bought Tyrell...</font>
 
 248
-00:29:54,449 --> 00:29:55,448
-attachment or appeal.
+00:32:52,330 --> 00:32:54,920
+<font face="Comic Sans MS">...revivified the technology.</font>
 
 249
-00:29:56,157 --> 00:29:59,874
-Unless you'd like to add some
-pleasure models to your order.
+00:32:55,330 --> 00:32:57,750
+<font face="Comic Sans MS">To say the least of what we do.</font>
 
 250
-00:30:13,196 --> 00:30:16,373
-Would it be possible to
-reschedule this call, please?
+00:33:07,680 --> 00:33:09,850
+<font face="Comic Sans MS">I see you're also a customer.</font>
 
 251
-00:30:18,835 --> 00:30:21,288
-Everyone remembers
+00:33:10,010 --> 00:33:12,550
+<font face="Comic Sans MS">Are you satisfied with our product?</font>
 
 252
-00:30:21,289 --> 00:30:22,288
-where they were
-at the Blackout. You?
+00:33:12,730 --> 00:33:16,860
+<font face="Comic Sans MS">She's very realistic. Thank you.</font>
 
 253
-00:30:22,320 --> 00:30:24,672
-That was a little
-before my time.
+00:33:17,310 --> 00:33:19,890
+<font face="Comic Sans MS">Here. All the junk is in here.</font>
 
 254
-00:30:24,728 --> 00:30:27,210
-Mmm. I was home with my folks,
+00:33:20,070 --> 00:33:23,240
+<font face="Comic Sans MS">Lucky for you,
+Mr. Wallace is a data hoarder.</font>
 
 255
-00:30:27,344 --> 00:30:30,014
-then ten days of darkness.
-Every machine stopped cold.
+00:33:35,460 --> 00:33:37,800
+<font face="Comic Sans MS">No one's been down here in ages.</font>
 
 256
-00:30:30,039 --> 00:30:32,556
-When the lights came back,
-we were wiped clean.
+00:33:40,670 --> 00:33:42,510
+<font face="Comic Sans MS">Sorry about that.</font>
 
 257
-00:30:32,581 --> 00:30:36,417
-Photos, files, every bit of
-data... Ffft! Gone.
+00:33:53,770 --> 00:33:58,360
+<font face="Comic Sans MS">All our memory bearings from the time.
+They were all damaged in the Blackout.</font>
 
 258
-00:30:36,450 --> 00:30:38,435
-Bank records, too.
+00:33:58,810 --> 00:34:01,520
+<font face="Comic Sans MS">But there are sometimes fragments.</font>
 
 259
-00:30:38,436 --> 00:30:39,435
-Didn't mind that.
+00:34:17,290 --> 00:34:21,090
+<font face="Comic Sans MS">You got a little boy. He shows you his
+butterfly collection, plus the killing jar.</font>
 
 260
-00:30:39,538 --> 00:30:41,627
-It's funny it's only paper
-that lasted.
+00:34:21,250 --> 00:34:23,290
+<font face="Comic Sans MS">I'd take him to the doctor.</font>
 
 261
-00:30:41,651 --> 00:30:44,518
-I mean, we had
-everything on drives.
+00:34:25,840 --> 00:34:28,310
+<font face="Comic Sans MS">- There's a wasp crawling on your arm.
+- I'd kill it.</font>
 
 262
-00:30:44,519 --> 00:30:45,517
-Everything, everything,
-everything! Huh.
+00:34:31,300 --> 00:34:35,140
+<font face="Comic Sans MS">You're reading a magazine. You come
+across a full-page nude photo of a girl.</font>
 
 263
-00:30:46,903 --> 00:30:49,991
-My mom still cries
-over the lost baby pictures.
+00:34:35,310 --> 00:34:38,440
+<font face="Comic Sans MS">Is this testing whether I'm a Replicant
+or a lesbian, Mr. Deckard?</font>
 
 264
-00:30:50,127 --> 00:30:52,426
-Well, it's a shame. You
+00:34:38,600 --> 00:34:40,850
+<font face="Comic Sans MS">Just answer the questions, please.</font>
 
 265
-00:30:52,427 --> 00:30:53,426
--must have been adorable.
--Hmm... Ah.
+00:34:44,360 --> 00:34:47,950
+<font face="Comic Sans MS">It was unclear what she was,
+at least to someone.</font>
 
 266
-00:30:53,513 --> 00:30:55,544
-Uh...
+00:34:48,110 --> 00:34:50,030
+<font face="Comic Sans MS">This was a test.</font>
 
 267
-00:30:59,674 --> 00:31:02,463
-Pretty fractured.
-Not much on it.
+00:34:50,410 --> 00:34:52,710
+<font face="Comic Sans MS">We were difficult to spot then.</font>
 
 268
-00:31:03,426 --> 00:31:05,966
-One of the last gens,
-pre-Prohibition.
+00:34:54,240 --> 00:34:57,320
+<font face="Comic Sans MS">Was there anything unusual
+about how you found her?</font>
 
 269
-00:31:06,213 --> 00:31:09,466
-Standard issue.
-Made by Tyrell.
+00:34:57,790 --> 00:35:00,340
+<font face="Comic Sans MS">To warrant an official investigation?</font>
 
 270
-00:31:10,110 --> 00:31:11,645
-And?
+00:35:02,710 --> 00:35:05,830
+<font face="Comic Sans MS">You know how people are
+about old serial numbers.</font>
 
 271
-00:31:11,886 --> 00:31:13,974
-Unremarkable.
+00:35:06,380 --> 00:35:10,250
+<font face="Comic Sans MS">Everyone just sleeps better
+when they know where they got to.</font>
 
 272
-00:31:13,975 --> 00:31:14,974
-"Unremarkable"?
+00:35:12,720 --> 00:35:14,470
+<font face="Comic Sans MS">She likes him.</font>
 
 273
-00:31:15,147 --> 00:31:18,087
-There must be something
-else we can find for him.
+00:35:15,560 --> 00:35:16,940
+<font face="Comic Sans MS">Who?</font>
 
 274
-00:31:25,452 --> 00:31:28,042
-Another prodigal
-serial number returns.
+00:35:17,310 --> 00:35:19,900
+<font face="Comic Sans MS">This Officer Deckard.</font>
 
 275
-00:31:29,573 --> 00:31:32,461
-A 30-year-old open case
-finally closed.
+00:35:20,810 --> 00:35:23,020
+<font face="Comic Sans MS">She's trying to provoke him.</font>
 
 276
-00:31:33,010 --> 00:31:34,849
-Thank you, officer.
+00:35:26,230 --> 00:35:29,730
+<font face="Comic Sans MS">It is invigorating
+being asked personal questions.</font>
 
 277
-00:31:35,774 --> 00:31:38,189
-I'm here for Mr. Wallace.
-I'm Luv.
+00:35:29,900 --> 00:35:31,780
+<font face="Comic Sans MS">Makes one feel...</font>
 
 278
-00:31:40,345 --> 00:31:42,080
-He named you.
+00:35:32,820 --> 00:35:34,570
+<font face="Comic Sans MS">...desired.</font>
 
 279
-00:31:42,720 --> 00:31:44,556
-Must be special.
+00:35:35,620 --> 00:35:38,080
+<font face="Comic Sans MS">Do you enjoy your work, officer?</font>
 
 280
-00:31:45,146 --> 00:31:47,072
-I'm here for Mr. Wallace.
+00:35:42,250 --> 00:35:44,260
+<font face="Comic Sans MS">Please thank Mr. Wallace for your time.</font>
 
 281
-00:31:47,073 --> 00:31:48,072
-Follow me.
+00:35:56,930 --> 00:35:59,300
+<font face="Comic Sans MS">You worked with Officer Deckard...</font>
 
 282
-00:31:54,486 --> 00:31:57,972
-The ancient models
-give the entire endeavor
-a bad name.
+00:35:59,480 --> 00:36:01,230
+<font face="Comic Sans MS">...back in the day.</font>
 
 283
-00:31:59,264 --> 00:32:03,944
-What a gift, don't you think,
-from Mr. Wallace to the world?
+00:36:01,390 --> 00:36:03,180
+<font face="Comic Sans MS">What can you tell me about him?</font>
 
 284
-00:32:07,053 --> 00:32:09,808
-The outer colonies
-would never have flourished
+00:36:03,980 --> 00:36:06,240
+<font face="Comic Sans MS">He liked to work alone.</font>
 
 285
-00:32:09,809 --> 00:32:10,808
-had he not bought Tyrell,
+00:36:07,150 --> 00:36:08,990
+<font face="Comic Sans MS">So did I.</font>
 
 286
-00:32:10,856 --> 00:32:12,948
-revivified the technology.
+00:36:10,950 --> 00:36:14,450
+<font face="Comic Sans MS">So we worked together
+to keep it that way.</font>
 
 287
-00:32:13,795 --> 00:32:15,887
-To say the least
-of what we do.
+00:36:15,410 --> 00:36:17,370
+<font face="Comic Sans MS">That was it.</font>
 
 288
-00:32:19,217 --> 00:32:21,264
-I see you're also a customer.
+00:36:17,950 --> 00:36:20,280
+<font face="Comic Sans MS">Anything else you can tell me?</font>
 
 289
-00:32:21,583 --> 00:32:24,100
-Are you satisfied
-with our product?
+00:36:21,870 --> 00:36:24,700
+<font face="Comic Sans MS">He wasn't long for this world.</font>
 
 290
-00:32:24,290 --> 00:32:27,974
-She's very realistic.
-Thank you.
+00:36:26,250 --> 00:36:27,290
+<font face="Comic Sans MS">How so?</font>
 
 291
-00:32:28,800 --> 00:32:31,258
-Here. All the junk is in here.
+00:36:30,210 --> 00:36:32,800
+<font face="Comic Sans MS">Something in his eyes.</font>
 
 292
-00:32:31,579 --> 00:32:34,468
-Lucky for you,
-Mr. Wallace is a data hoarder.
+00:36:35,640 --> 00:36:37,770
+<font face="Comic Sans MS">Any idea how I could contact him?</font>
 
 293
-00:32:46,977 --> 00:32:49,216
-No one's been
-down here in ages.
+00:36:38,560 --> 00:36:39,980
+<font face="Comic Sans MS">None.</font>
 
 294
-00:32:52,155 --> 00:32:53,981
-Sorry about that.
+00:36:41,480 --> 00:36:43,900
+<font face="Comic Sans MS">He's nyugdijas.</font>
 
 295
-00:33:05,322 --> 00:33:08,955
-All our memory bearings
-from the time.
+00:36:46,730 --> 00:36:47,850
+<font face="Comic Sans MS">Retired.</font>
 
 296
-00:33:08,956 --> 00:33:09,955
-They were all damaged
-in the Blackout.
+00:36:49,780 --> 00:36:51,030
+<font face="Comic Sans MS">What happened?</font>
 
 297
-00:33:10,304 --> 00:33:12,799
-But there are
-sometimes fragments.
+00:36:51,190 --> 00:36:53,980
+<font face="Comic Sans MS">Probably got what he wanted.</font>
 
 298
-00:33:28,592 --> 00:33:30,126
-You got a little boy.
+00:36:55,950 --> 00:36:57,330
+<font face="Comic Sans MS">To be alone.</font>
 
 299
-00:33:30,118 --> 00:33:31,843
-He shows you
-his butterfly collection,
+00:37:22,680 --> 00:37:23,800
+<font face="Comic Sans MS">Welcome back, sir.</font>
 
 300
-00:33:31,844 --> 00:33:32,843
-plus the killing jar.
+00:37:26,060 --> 00:37:29,480
+<font face="Comic Sans MS">You wanted to review the new model,
+sir, before shipment?</font>
 
 301
-00:33:32,875 --> 00:33:34,811
-I'd take him
-to the doctor.
+00:37:30,690 --> 00:37:35,400
+<font face="Comic Sans MS">An angel should never enter
+the kingdom of heaven...</font>
 
 302
-00:33:37,218 --> 00:33:39,590
-There's a wasp
-crawling on your arm.
+00:37:35,570 --> 00:37:37,070
+<font face="Comic Sans MS">...without a gift.</font>
 
 303
-00:33:39,591 --> 00:33:40,590
-I'd kill it.
+00:37:39,700 --> 00:37:43,450
+<font face="Comic Sans MS">Can you at least pronounce,
+"A child is born"?</font>
 
 304
-00:33:42,626 --> 00:33:45,728
-You're reading a magazine.
+00:37:54,090 --> 00:37:55,970
+<font face="Comic Sans MS">A new model.</font>
 
 305
-00:33:45,729 --> 00:33:46,728
-You come across a full-page
-nude photo of a girl.
+00:38:03,470 --> 00:38:06,140
+<font face="Comic Sans MS">Well, let us see her, then.</font>
 
 306
-00:33:46,759 --> 00:33:48,921
-Is this testing
-whether I'm a Replicant
+00:38:54,190 --> 00:38:57,900
+<font face="Comic Sans MS">The first thought...</font>
 
 307
-00:33:48,922 --> 00:33:49,921
-or a lesbian, Mr. Deckard?
+00:38:59,360 --> 00:39:01,860
+<font face="Comic Sans MS">...one tends to fear...</font>
 
 308
-00:33:49,946 --> 00:33:52,265
-Just answer
-the questions, please.
+00:39:02,780 --> 00:39:04,820
+<font face="Comic Sans MS">...to preserve the clay.</font>
 
 309
-00:33:55,770 --> 00:33:59,452
-It was unclear what she was,
-at least to someone.
+00:39:07,370 --> 00:39:09,620
+<font face="Comic Sans MS">It's fascinating.</font>
 
 310
-00:33:59,600 --> 00:34:01,209
-This was a test.
+00:39:10,290 --> 00:39:13,410
+<font face="Comic Sans MS">Before we even know what we are...</font>
 
 311
-00:34:01,797 --> 00:34:03,989
-We were difficult
-to spot then.
+00:39:15,250 --> 00:39:17,380
+<font face="Comic Sans MS">...we fear to lose it.</font>
 
 312
-00:34:05,694 --> 00:34:08,933
-Was there anything unusual
-about how you found her?
+00:39:18,760 --> 00:39:20,850
+<font face="Comic Sans MS">Happy birthday.</font>
 
 313
-00:34:09,083 --> 00:34:11,700
-To warrant an official
-investigation?
+00:39:29,890 --> 00:39:31,770
+<font face="Comic Sans MS">Now, let's have a look at you.</font>
 
 314
-00:34:14,132 --> 00:34:17,272
-You know how people are
-about old serial numbers.
+00:40:23,320 --> 00:40:25,820
+<font face="Comic Sans MS">We make angels...</font>
 
 315
-00:34:17,783 --> 00:34:20,396
-Everyone just sleeps better
+00:40:26,870 --> 00:40:30,290
+<font face="Comic Sans MS">...in the service of civilization.</font>
 
 316
-00:34:20,397 --> 00:34:21,396
-when they know
-where they got to.
+00:40:31,160 --> 00:40:33,950
+<font face="Comic Sans MS">Yes, there were bad angels once.</font>
 
 317
-00:34:24,152 --> 00:34:25,727
-She likes him.
+00:40:34,130 --> 00:40:36,590
+<font face="Comic Sans MS">I make good angels now.</font>
 
 318
-00:34:26,961 --> 00:34:28,469
-Who?
+00:40:36,750 --> 00:40:41,750
+<font face="Comic Sans MS">That is how I took us
+to 9 new worlds.</font>
 
 319
-00:34:28,630 --> 00:34:31,021
-This Officer Deckard.
+00:40:43,930 --> 00:40:45,850
+<font face="Comic Sans MS">9.</font>
 
 320
-00:34:32,214 --> 00:34:34,219
-She's trying to provoke him.
+00:40:47,050 --> 00:40:50,220
+<font face="Comic Sans MS">A child can count to 9 on fingers.</font>
 
 321
-00:34:37,611 --> 00:34:40,997
-It is invigorating being asked
-personal questions.
+00:40:50,600 --> 00:40:53,360
+<font face="Comic Sans MS">We should own the stars.</font>
 
 322
-00:34:41,294 --> 00:34:42,988
-Makes one feel
+00:40:53,520 --> 00:40:54,940
+<font face="Comic Sans MS">Yes, sir.</font>
 
 323
-00:34:44,219 --> 00:34:46,159
-desired.
+00:40:57,980 --> 00:41:02,690
+<font face="Comic Sans MS">Every leap of civilization was built off
+the back of a disposable workforce.</font>
 
 324
-00:34:46,982 --> 00:34:49,189
-Do you enjoy
-your work, officer?
+00:41:02,860 --> 00:41:06,070
+<font face="Comic Sans MS">We lost our stomach for slaves...</font>
 
 325
-00:34:53,591 --> 00:34:56,014
-Please thank Mr. Wallace
-for your time.
+00:41:06,240 --> 00:41:08,650
+<font face="Comic Sans MS">...unless engineered.</font>
 
 326
-00:35:08,284 --> 00:35:10,969
-You worked
-with Officer Deckard
+00:41:11,620 --> 00:41:14,200
+<font face="Comic Sans MS">But I can only make so many.</font>
 
 327
-00:35:10,970 --> 00:35:11,969
-back in the day.
+00:41:19,590 --> 00:41:21,640
+<font face="Comic Sans MS">That barren pasture...</font>
 
 328
-00:35:12,723 --> 00:35:14,791
-What can you tell me
-about him?
+00:41:22,800 --> 00:41:24,640
+<font face="Comic Sans MS">...empty...</font>
 
 329
-00:35:15,287 --> 00:35:17,479
-He liked to work alone.
+00:41:24,800 --> 00:41:26,630
+<font face="Comic Sans MS">...and salted...</font>
 
 330
-00:35:18,465 --> 00:35:20,310
-So did I.
+00:41:27,970 --> 00:41:29,720
+<font face="Comic Sans MS">...right here.</font>
 
 331
-00:35:22,271 --> 00:35:25,458
-So we worked together
-to keep it that way.
+00:41:31,600 --> 00:41:34,570
+<font face="Comic Sans MS">The dead space between the stars.</font>
 
 332
-00:35:26,706 --> 00:35:28,309
-That was it.
+00:41:36,810 --> 00:41:40,020
+<font face="Comic Sans MS">And this, the seat
+that we must change for heaven.</font>
 
 333
-00:35:29,294 --> 00:35:31,613
-Anything else
-you can tell me?
+00:41:45,150 --> 00:41:49,780
+<font face="Comic Sans MS">I cannot breed them.
+So help me, I have tried.</font>
 
 334
-00:35:33,230 --> 00:35:35,581
-He wasn't long for this world.
+00:41:50,450 --> 00:41:53,490
+<font face="Comic Sans MS">We need more Replicants
+than can ever be assembled.</font>
 
 335
-00:35:37,831 --> 00:35:39,445
-How so?
+00:41:53,660 --> 00:41:57,700
+<font face="Comic Sans MS">Millions, so we can be trillions more.</font>
 
 336
-00:35:41,574 --> 00:35:43,965
-Something in his eyes.
+00:41:59,170 --> 00:42:02,590
+<font face="Comic Sans MS">We could storm Eden and retake her.</font>
 
 337
-00:35:47,063 --> 00:35:49,553
-Any idea how I could
-contact him?
+00:42:14,520 --> 00:42:16,320
+<font face="Comic Sans MS">Tyrell's final trick:</font>
 
 338
-00:35:49,849 --> 00:35:51,373
-None.
+00:42:17,520 --> 00:42:19,440
+<font face="Comic Sans MS">Procreation.</font>
 
 339
-00:35:52,736 --> 00:35:55,027
-He's nyugdأ­jas.
+00:42:19,610 --> 00:42:22,860
+<font face="Comic Sans MS">Perfected, then lost.</font>
 
 340
-00:35:58,120 --> 00:35:59,643
-Retired.
+00:42:24,070 --> 00:42:25,780
+<font face="Comic Sans MS">But there is a child.</font>
 
 341
-00:36:00,995 --> 00:36:02,527
-What happened?
+00:42:29,120 --> 00:42:30,870
+<font face="Comic Sans MS">Bring it to me.</font>
 
 342
-00:36:02,552 --> 00:36:05,042
-Probably got what he wanted.
+00:42:31,330 --> 00:42:32,790
+<font face="Comic Sans MS">Sir.</font>
 
 343
-00:36:07,276 --> 00:36:09,069
-To be alone.
+00:42:40,880 --> 00:42:43,470
+<font face="Comic Sans MS">The best angel of all.</font>
 
 344
-00:36:33,912 --> 00:36:35,905
-Welcome back, sir.
+00:42:44,510 --> 00:42:46,510
+<font face="Comic Sans MS">Aren't you, Luv?</font>
 
 345
-00:36:37,242 --> 00:36:40,033
-You wanted to review
-the new model, sir,
+00:44:04,090 --> 00:44:05,840
+<font face="Comic Sans MS">The man with the green jacket.</font>
 
 346
-00:36:40,034 --> 00:36:41,033
-before shipment?
+00:44:06,000 --> 00:44:09,880
+<font face="Comic Sans MS">The one who killed Sapper.
+Find out what he knows.</font>
 
 347
-00:36:41,957 --> 00:36:45,365
-An angel
-should never enter
+00:44:28,860 --> 00:44:30,370
+<font face="Comic Sans MS">Hi.</font>
 
 348
-00:36:45,366 --> 00:36:46,365
-the kingdom of heaven
+00:44:31,400 --> 00:44:33,650
+<font face="Comic Sans MS">Hello, hello, A-Boy.</font>
 
 349
-00:36:46,850 --> 00:36:48,717
-without a gift.
+00:44:33,820 --> 00:44:35,650
+<font face="Comic Sans MS">You alone?</font>
 
 350
-00:36:50,962 --> 00:36:54,448
-Can you at least pronounce,
-"A child is born"?
+00:44:42,750 --> 00:44:44,250
+<font face="Comic Sans MS">It's fine.</font>
 
 351
-00:36:56,982 --> 00:36:58,607
-Hmm.
+00:44:50,130 --> 00:44:51,500
+<font face="Comic Sans MS">Wanna buy a lady a cigarette?</font>
 
 352
-00:37:05,366 --> 00:37:07,169
-A new model.
+00:44:58,890 --> 00:45:00,190
+<font face="Comic Sans MS">Oh, you don't even smile.</font>
 
 353
-00:37:14,661 --> 00:37:17,051
-Well, let us see her, then.
+00:45:03,390 --> 00:45:05,560
+<font face="Comic Sans MS">Didn't you hear your friends?</font>
 
 354
-00:38:05,464 --> 00:38:08,113
-The first thought
+00:45:05,730 --> 00:45:07,570
+<font face="Comic Sans MS">Don't you know what I am?</font>
 
 355
-00:38:10,698 --> 00:38:12,691
-one tends to fear,
+00:45:07,730 --> 00:45:09,480
+<font face="Comic Sans MS">Yeah.</font>
 
 356
-00:38:13,932 --> 00:38:15,924
-to preserve the clay.
+00:45:09,650 --> 00:45:11,770
+<font face="Comic Sans MS">Guy eating rice.</font>
 
 357
-00:38:18,525 --> 00:38:20,418
-It's fascinating.
+00:45:12,780 --> 00:45:14,450
+<font face="Comic Sans MS">What's that?</font>
 
 358
-00:38:21,444 --> 00:38:24,187
-Before we even know
-what we are,
+00:45:15,360 --> 00:45:16,400
+<font face="Comic Sans MS">It's a tree.</font>
 
 359
-00:38:26,462 --> 00:38:28,187
-we fear to lose it.
+00:45:18,370 --> 00:45:20,790
+<font face="Comic Sans MS">Never seen a tree before.</font>
 
 360
-00:38:29,850 --> 00:38:31,591
-Happy birthday.
+00:45:22,000 --> 00:45:23,670
+<font face="Comic Sans MS">It's pretty.</font>
 
 361
-00:38:41,029 --> 00:38:42,515
-Now, let's have a look at you.
+00:45:25,500 --> 00:45:27,340
+<font face="Comic Sans MS">It's dead.</font>
 
 362
-00:39:34,515 --> 00:39:37,019
-We make angels
+00:45:28,710 --> 00:45:33,590
+<font face="Comic Sans MS">Now, who keeps a dead tree?</font>
 
 363
-00:39:38,019 --> 00:39:42,223
-in the service
-of civilization.
+00:45:40,430 --> 00:45:42,340
+<font face="Comic Sans MS">You're not gonna kill me, are you?</font>
 
 364
-00:39:42,223 --> 00:39:45,493
-Yes, there were
-bad angels once.
+00:45:42,520 --> 00:45:45,150
+<font face="Comic Sans MS">Depends. What's your model number?</font>
 
 365
-00:39:45,493 --> 00:39:47,896
-I make good angels now.
+00:45:45,770 --> 00:45:47,820
+<font face="Comic Sans MS">Why don't you look under my eye
+and find out?</font>
 
 366
-00:39:33,843 --> 00:39:38,040
-That is how I took us
-to nine new worlds.
+00:45:53,070 --> 00:45:55,410
+<font face="Comic Sans MS">You don't like real girls.</font>
 
 367
-00:39:41,106 --> 00:39:42,601
-Nine.
+00:45:58,280 --> 00:46:01,360
+<font face="Comic Sans MS">Well, I'm always here.</font>
 
 368
-00:39:44,160 --> 00:39:47,715
-A child can count to nine
-on fingers.
+00:49:39,670 --> 00:49:40,710
+<font face="Comic Sans MS">Hi.</font>
 
 369
-00:39:47,744 --> 00:39:50,582
-We should own the stars.
+00:49:43,380 --> 00:49:45,130
+<font face="Comic Sans MS">You can't take those.</font>
 
 370
-00:39:50,614 --> 00:39:52,191
-Yes, sir.
+00:49:45,300 --> 00:49:48,420
+<font face="Comic Sans MS">Of course not. Proper channels
+and paperwork. It's all here.</font>
 
 371
-00:39:55,033 --> 00:39:57,481
-Every leap
-of civilization
+00:49:48,600 --> 00:49:50,310
+<font face="Comic Sans MS">Hold this for me.</font>
 
 372
-00:39:57,506 --> 00:40:00,162
-was built off the back
-of a disposable workforce.
+00:49:51,890 --> 00:49:54,050
+<font face="Comic Sans MS">Yep. Here you go.</font>
 
 373
-00:40:00,193 --> 00:40:03,199
-We lost our stomach
-for slaves
+00:50:11,160 --> 00:50:13,070
+<font face="Comic Sans MS">Coco is dead.</font>
 
 374
-00:40:03,435 --> 00:40:05,510
-unless engineered.
+00:50:15,040 --> 00:50:16,340
+<font face="Comic Sans MS">Bones are gone.</font>
 
 375
-00:40:08,668 --> 00:40:10,959
-But I can only make so many.
+00:50:17,500 --> 00:50:20,670
+<font face="Comic Sans MS">It's out. Already out.
+How long did that take?</font>
 
 376
-00:40:16,663 --> 00:40:19,054
-That barren pasture,
+00:50:22,090 --> 00:50:25,050
+<font face="Comic Sans MS">So, what do you have for me?
+And don't say nothing.</font>
 
 377
-00:40:19,779 --> 00:40:22,029
-empty
+00:50:25,970 --> 00:50:27,640
+<font face="Comic Sans MS">I found that.</font>
 
 378
-00:40:22,030 --> 00:40:23,029
-and salted...
+00:50:28,340 --> 00:50:29,920
+<font face="Comic Sans MS">A sock?</font>
 
 379
-00:40:24,986 --> 00:40:26,480
-...right here.
+00:50:31,810 --> 00:50:33,850
+<font face="Comic Sans MS">- Where'd you find it?
+- Sapper's.</font>
 
 380
-00:40:28,577 --> 00:40:31,963
-The dead space
-between the stars.
+00:50:34,020 --> 00:50:35,110
+<font face="Comic Sans MS">Anything else?</font>
 
 381
-00:40:33,993 --> 00:40:37,180
-And this, the seat that
-we must change for heaven.
+00:50:35,690 --> 00:50:37,520
+<font face="Comic Sans MS">I burned everything else.</font>
 
 382
-00:40:42,174 --> 00:40:46,760
-I cannot breed them.
-So help me, I have tried.
+00:50:37,690 --> 00:50:40,940
+<font face="Comic Sans MS">Then what's this? What's that date?
+Is that a birthday? A death day?</font>
 
 383
-00:40:47,562 --> 00:40:50,646
-We need more Replicants
-than can ever be assembled.
+00:50:41,110 --> 00:50:42,780
+<font face="Comic Sans MS">I don't know yet.</font>
 
 384
-00:40:50,711 --> 00:40:54,317
-Millions, so we can be
-trillions more.
+00:50:46,400 --> 00:50:48,980
+<font face="Comic Sans MS">Am I the only one that can see
+the fucking sunrise here?</font>
 
 385
-00:40:56,147 --> 00:40:59,110
-We could storm Eden
-and retake her.
+00:50:49,160 --> 00:50:51,250
+<font face="Comic Sans MS">This breaks the world, K.</font>
 
 386
-00:41:11,474 --> 00:41:13,965
-Tyrell's final trick:
+00:51:04,550 --> 00:51:07,220
+<font face="Comic Sans MS">You know, I've known a lot of your kind.</font>
 
 387
-00:41:14,460 --> 00:41:16,453
-Procreation.
+00:51:09,260 --> 00:51:14,060
+<font face="Comic Sans MS">All useful, but with you,
+I sometimes forget.</font>
 
 388
-00:41:16,550 --> 00:41:19,936
-Perfected, then lost.
+00:51:14,640 --> 00:51:17,550
+<font face="Comic Sans MS">We didn't have any of you
+where I was a kid.</font>
 
 389
-00:41:21,029 --> 00:41:23,420
-But there is a child.
+00:51:23,020 --> 00:51:24,730
+<font face="Comic Sans MS">Do you remember anything?</font>
 
 390
-00:41:26,006 --> 00:41:27,899
-Bring it to me.
+00:51:26,190 --> 00:51:29,610
+<font face="Comic Sans MS">Before you were under me,
+you have any memories from before?</font>
 
 391
-00:41:28,196 --> 00:41:29,889
-Sir.
+00:51:29,780 --> 00:51:31,990
+<font face="Comic Sans MS">I have memories...</font>
 
 392
-00:41:37,892 --> 00:41:40,084
-The best angel of all.
+00:51:33,700 --> 00:51:36,490
+<font face="Comic Sans MS">...but they're not real.
+They're just implants.</font>
 
 393
-00:41:41,459 --> 00:41:43,053
-Aren't you, Luv?
+00:51:37,370 --> 00:51:39,080
+<font face="Comic Sans MS">Tell me one.</font>
 
 394
-00:43:00,983 --> 00:43:03,476
-The man with the green jacket.
+00:51:39,500 --> 00:51:41,510
+<font face="Comic Sans MS">From when you were a kid.</font>
 
 395
-00:43:03,477 --> 50:43:06,515
-The one who killed Sapper.
-Find out what he knows.
+00:51:45,760 --> 00:51:49,850
+<font face="Comic Sans MS">I feel strange sharing a childhood story,
+considering I was never a child.</font>
 
 396
-00:43:25,744 --> 00:43:27,240
-Hi.
+00:51:52,550 --> 00:51:56,470
+<font face="Comic Sans MS">Well, would it help you share
+if I told you it was an order?</font>
 
 397
-00:43:28,202 --> 00:43:30,493
-Hello, hello, A-Boy.
+00:51:58,680 --> 00:52:01,350
+<font face="Comic Sans MS">I have one about a toy that I had.</font>
 
 398
-00:43:30,714 --> 00:43:32,508
-You alone?
+00:52:01,520 --> 00:52:03,600
+<font face="Comic Sans MS">A wooden horse.</font>
 
 399
-00:43:38,408 --> 00:43:41,509
-It's okay.
-It's fine.
+00:52:04,610 --> 00:52:07,160
+<font face="Comic Sans MS">With an inscription underneath.</font>
 
 400
-00:43:47,044 --> 00:43:49,079
-Wanna buy a lady a cigarette?
+00:52:09,650 --> 00:52:13,780
+<font face="Comic Sans MS">All I remember is a group of boys
+trying to take it away from me.</font>
 
 401
-00:43:55,704 --> 00:43:57,937
-Oh, you don't even smile.
+00:52:13,950 --> 00:52:15,120
+<font face="Comic Sans MS">So I run.</font>
 
 402
-00:44:00,182 --> 00:44:02,171
-Didn't you hear your friends?
+00:52:40,730 --> 00:52:44,440
+<font face="Comic Sans MS">I go looking for a place to hide it,
+and the only place is this dark furnace.</font>
 
 403
-00:44:02,534 --> 00:44:04,540
-Don't you know what I am?
+00:52:46,690 --> 00:52:50,110
+<font face="Comic Sans MS">It's very dark, and I'm very scared...</font>
 
 404
-00:44:04,649 --> 00:44:06,103
-Yeah.
+00:52:50,280 --> 00:52:53,870
+<font face="Comic Sans MS">...but this horse is all I have,
+so I go in anyway.</font>
 
 405
-00:44:06,431 --> 00:44:08,424
-Guy eating rice.
+00:53:06,250 --> 00:53:08,330
+<font face="Comic Sans MS">Later on, those kids find me...</font>
 
 406
-00:44:09,638 --> 00:44:11,145
-What's that?
+00:53:08,500 --> 00:53:11,170
+<font face="Comic Sans MS">...and they beat me to tell them
+where it is, but I don't.</font>
 
 407
-00:44:12,257 --> 00:44:13,817
-It's a tree.
+00:53:17,890 --> 00:53:19,560
+<font face="Comic Sans MS">That's it.</font>
 
 408
-00:44:14,147 --> 00:44:16,936
-Oh. Never seen a tree before.
+00:53:21,930 --> 00:53:25,100
+<font face="Comic Sans MS">Little K, fighting for what's his.</font>
 
 409
-00:44:18,796 --> 00:44:20,438
-It's pretty.
+00:53:26,270 --> 00:53:28,020
+<font face="Comic Sans MS">It's a good one.</font>
 
 410
-00:44:22,318 --> 00:44:24,022
-It's dead.
+00:53:34,200 --> 00:53:35,240
+<font face="Comic Sans MS">Look at me.</font>
 
 411
-00:44:25,464 --> 00:44:29,945
-Now, who keeps a dead tree?
+00:53:38,280 --> 00:53:41,320
+<font face="Comic Sans MS">We're all just looking out
+for something real.</font>
 
 412
-00:44:33,246 --> 00:44:34,753
-Hmm?
+00:53:46,210 --> 00:53:48,720
+<font face="Comic Sans MS">What happens if I finish that?</font>
 
 413
-00:44:37,085 --> 00:44:38,975
-You're not gonna kill me,
-are you?
+00:53:52,170 --> 00:53:53,840
+<font face="Comic Sans MS">Shouldn't I get back to work, madam?</font>
 
 414
-00:44:39,016 --> 00:44:42,402
-Depends.
-What's your model number?
+00:54:03,940 --> 00:54:06,610
+<font face="Comic Sans MS">Check back in after DNA base.</font>
 
 415
-00:44:42,601 --> 00:44:45,479
-Why don't you look under
-my eye and find out.
+00:54:19,620 --> 00:54:22,170
+<font face="Comic Sans MS">Officer KD6 -3.7.</font>
 
 416
-00:44:47,752 --> 00:44:49,128
-Oh!
+00:54:25,040 --> 00:54:26,380
+<font face="Comic Sans MS">Request.</font>
 
 417
-00:44:49,851 --> 00:44:51,933
-You don't like real girls.
+00:54:26,540 --> 00:54:30,540
+<font face="Comic Sans MS">DNA records: children born 6-10-21.</font>
 
 418
-00:44:55,089 --> 00:44:57,978
-Well, I'm always here.
+00:54:30,710 --> 00:54:32,750
+<font face="Comic Sans MS">Looking for anomalies.</font>
 
 419
-00:48:36,877 --> 00:48:38,584
-Hi.
+00:54:40,220 --> 00:54:41,720
+<font face="Comic Sans MS">You have the satcrystal backup?</font>
 
 420
-00:48:40,017 --> 00:48:41,672
-You can't take those.
+00:54:48,060 --> 00:54:49,100
+<font face="Comic Sans MS">Okay.</font>
 
 421
-00:48:41,829 --> 00:48:45,145
-Of course not. Proper channels
-and paperwork. It's all here.
+00:54:49,560 --> 00:54:51,520
+<font face="Comic Sans MS">Run it raw.</font>
 
 422
-00:48:45,146 --> 00:48:46,671
-Hold this for me.
+00:55:27,730 --> 00:55:30,360
+<font face="Comic Sans MS">Mere data makes a man.</font>
 
 423
-00:48:48,499 --> 00:48:50,492
--Mmm. Yep. Here you go.
--Mmm.
+00:55:31,730 --> 00:55:33,890
+<font face="Comic Sans MS">A and C and T and G.</font>
 
 424
-00:49:07,710 --> 00:49:09,504
-Coco is dead.
+00:55:34,650 --> 00:55:38,940
+<font face="Comic Sans MS">The alphabet of you.
+All from four symbols.</font>
 
 425
-00:49:11,553 --> 00:49:13,446
-Bones are gone.
+00:55:40,070 --> 00:55:41,610
+<font face="Comic Sans MS">I'm only two:</font>
 
 426
-00:49:14,074 --> 00:49:17,880
-It's out. Already out.
-How long'd that take?
+00:55:45,200 --> 00:55:46,870
+<font face="Comic Sans MS">One and zero.</font>
 
 427
-00:49:18,581 --> 00:49:21,646
-So, what do you have for me?
-And don't say nothing.
+00:55:47,040 --> 00:55:50,550
+<font face="Comic Sans MS">Half as much but twice as elegant,
+sweetheart.</font>
 
 428
-00:49:22,447 --> 00:49:24,146
-I found that.
+00:55:51,710 --> 00:55:53,920
+<font face="Comic Sans MS">You don't prefer your madam?</font>
 
 429
-00:49:24,859 --> 00:49:26,398
-A sock?
+00:55:56,260 --> 00:55:58,220
+<font face="Comic Sans MS">You were listening.</font>
 
 430
-00:49:28,343 --> 00:49:30,552
--Where'd you find it?
--Sapper's.
+00:55:58,840 --> 00:56:00,550
+<font face="Comic Sans MS">Maybe.</font>
 
 431
-00:49:30,582 --> 00:49:32,424
-Anything else?
+00:56:02,140 --> 00:56:05,480
+<font face="Comic Sans MS">You didn't like her enough
+to tell her the truth.</font>
 
 432
-00:49:32,425 --> 00:49:33,424
-I burned everything else.
+00:56:05,640 --> 00:56:08,310
+<font face="Comic Sans MS">6, 10 and 21.</font>
 
 433
-00:49:33,455 --> 00:49:36,568
-Then what's this?
-What's that date?
+00:56:11,850 --> 00:56:13,930
+<font face="Comic Sans MS">There's nothing to tell.</font>
 
 434
-00:49:36,569 --> 00:49:37,568
-Is that a birthday?
-Is that a death day?
+00:56:14,270 --> 00:56:16,940
+<font face="Comic Sans MS">How many times
+have you told me that story?</font>
 
 435
-00:49:37,601 --> 00:49:39,337
-I don't know yet.
+00:56:19,530 --> 00:56:20,700
+<font face="Comic Sans MS">Your memory?</font>
 
 436
-00:49:42,802 --> 00:49:45,653
-Am I the only one that can see
-the fuckin' sunrise here?
+00:56:22,320 --> 00:56:24,150
+<font face="Comic Sans MS">The date carved beneath.</font>
 
 437
-00:49:45,700 --> 00:49:48,589
-This breaks the world, "K."
+00:56:24,950 --> 00:56:27,490
+<font face="Comic Sans MS">6, 10 and 21.</font>
 
 438
-00:50:00,983 --> 00:50:03,513
-You know,
-I've known a lot of your kind.
+00:56:29,710 --> 00:56:31,170
+<font face="Comic Sans MS">Coincidence?</font>
 
 439
-00:50:05,675 --> 00:50:10,415
-All useful, but with you,
-I sometimes forget.
+00:56:35,130 --> 00:56:37,970
+<font face="Comic Sans MS">A dangerous coincidence.</font>
 
 440
-00:50:11,143 --> 00:50:13,942
-We didn't have any of you
-where I was a kid.
+00:56:40,840 --> 00:56:43,670
+<font face="Comic Sans MS">I always knew you were special.</font>
 
 441
-00:50:19,549 --> 00:50:22,039
-Do you remember anything?
+00:56:44,760 --> 00:56:46,510
+<font face="Comic Sans MS">Maybe this is how.</font>
 
 442
-00:50:22,616 --> 00:50:25,240
-Before you were under me,
+00:56:51,850 --> 00:56:53,850
+<font face="Comic Sans MS">A child.</font>
 
 443
-00:50:25,241 --> 00:50:26,240
-you have any memories
-from before?
+00:56:54,020 --> 00:56:56,480
+<font face="Comic Sans MS">Of woman born.</font>
 
 444
-00:50:26,304 --> 00:50:28,595
-I have memories,
+00:56:57,570 --> 00:56:59,950
+<font face="Comic Sans MS">Pushed into the world.</font>
 
 445
-00:50:30,154 --> 00:50:32,678
-but they're not real.
-They're just implants.
+00:57:00,950 --> 00:57:02,870
+<font face="Comic Sans MS">Wanted.</font>
 
 446
-00:50:33,867 --> 00:50:36,452
-Tell me one.
+00:57:03,740 --> 00:57:05,830
+<font face="Comic Sans MS">Loved.</font>
 
 447
-00:50:36,453 --> 00:50:37,452
-From when you were a kid.
+00:57:08,240 --> 00:57:10,490
+<font face="Comic Sans MS">Well, if it were true...</font>
 
 448
-00:50:42,174 --> 00:50:44,891
-I feel a little strange
-sharing a childhood story,
+00:57:11,540 --> 00:57:15,760
+<font face="Comic Sans MS">...I'd be hunted for the rest of my life
+by someone just like me.</font>
 
 449
-00:50:44,916 --> 00:50:47,031
-considering
-I was never a child.
+00:57:17,170 --> 00:57:19,800
+<font face="Comic Sans MS">It's okay to dream a little.</font>
 
 450
-00:50:49,021 --> 00:50:52,500
-Well, would it help you share
-if I told you it was an order?
+00:57:20,130 --> 00:57:23,300
+<font face="Comic Sans MS">- Isn't it?
+- Not if you're us.</font>
 
 451
-00:50:55,152 --> 00:50:57,902
-I have one
-about a toy that I had.
+00:57:29,270 --> 00:57:30,770
+<font face="Comic Sans MS">Stop.</font>
 
 452
-00:50:57,965 --> 00:50:59,659
-A wooden horse.
+00:57:31,390 --> 00:57:35,810
+<font face="Comic Sans MS">Put up 4847 and 2181 side-by-side.</font>
 
 453
-00:51:01,009 --> 00:51:03,074
-With an inscription
-underneath.
+00:57:40,740 --> 00:57:43,580
+<font face="Comic Sans MS">They're identical. Translate.</font>
 
 454
-00:51:06,085 --> 00:51:08,968
-All I remember
-is a group of boys
+00:57:46,910 --> 00:57:48,460
+<font face="Comic Sans MS">A boy and a girl.</font>
 
 455
-00:51:08,969 --> 00:51:09,968
-trying to take it away
-from me.
+00:57:50,410 --> 00:57:53,280
+<font face="Comic Sans MS">- It's impossible.
+- Why?</font>
 
 456
-00:51:10,446 --> 00:51:11,959
-So I run.
+00:57:54,830 --> 00:57:58,160
+<font face="Comic Sans MS">Two people can't have identical DNA.</font>
 
 457
-00:51:37,021 --> 00:51:38,897
-I go looking for a place
-to hide it,
+00:57:59,170 --> 00:58:03,180
+<font face="Comic Sans MS">One of these isn't real. It's a copy.</font>
 
 458
-00:51:38,928 --> 00:51:41,397
-and the only place
-is this dark furnace.
+00:58:07,680 --> 00:58:11,060
+<font face="Comic Sans MS">They were both processed
+at the Morrill Cole Orphanage.</font>
 
 459
-00:51:43,012 --> 00:51:46,497
-It's very dark
-and I'm very scared,
+00:58:12,980 --> 00:58:15,440
+<font face="Comic Sans MS">It says the girl died there.</font>
 
 460
-00:51:46,695 --> 00:51:49,081
-but this horse is all I have,
+00:58:15,600 --> 00:58:17,730
+<font face="Comic Sans MS">Genetic disorder.</font>
 
 461
-00:51:49,082 --> 00:51:50,081
-so I go in anyway.
+00:58:18,560 --> 00:58:20,940
+<font face="Comic Sans MS">Galatians Syndrome.</font>
 
 462
-00:52:02,620 --> 00:52:04,391
-Later on, those kids find me,
+00:58:21,110 --> 00:58:22,950
+<font face="Comic Sans MS">And the boy...</font>
 
 463
-00:52:04,416 --> 00:52:08,020
-and they beat me to tell 'em
-where it is, but I don't.
+00:58:24,860 --> 00:58:26,650
+<font face="Comic Sans MS">...disappears.</font>
 
 464
-00:52:14,235 --> 00:52:15,759
-And that's it.
+00:58:28,570 --> 00:58:30,400
+<font face="Comic Sans MS">Where's the orphanage?</font>
 
 465
-00:52:16,586 --> 00:52:17,922
-Hmm.
+00:58:32,830 --> 00:58:35,000
+<font face="Comic Sans MS">You wanna go for a ride?</font>
 
 466
-00:52:18,308 --> 00:52:20,914
-Little "K,"
-fighting for what's his.
+00:59:50,780 --> 00:59:53,530
+<font face="Comic Sans MS">Well, here we are.</font>
 
 467
-00:52:22,526 --> 00:52:24,236
-It's a good one.
+01:00:06,130 --> 01:00:07,330
+<font face="Comic Sans MS">Buckle up.</font>
 
 468
-00:52:30,735 --> 00:52:32,239
-Look at me.
+01:01:06,770 --> 01:01:07,850
+<font face="Comic Sans MS">K?</font>
 
 469
-00:52:34,609 --> 00:52:37,498
-We're all just lookin' out
-for somethin' real.
+01:02:00,080 --> 01:02:03,460
+<font face="Comic Sans MS">K? K?</font>
 
 470
-00:52:42,464 --> 00:52:44,801
-What happens if I finish that?
+01:02:03,620 --> 01:02:06,870
+<font face="Comic Sans MS">K? K? K?</font>
 
 471
-00:52:48,554 --> 00:52:50,957
-Shouldn't I get back
-to work, madam?
+01:02:58,800 --> 01:02:59,920
+<font face="Comic Sans MS">Stay back.</font>
 
 472
-00:53:00,259 --> 00:53:02,450
-Check back in after DNAbase.
+01:03:15,400 --> 01:03:16,860
+<font face="Comic Sans MS">Fire again.</font>
 
 473
-00:53:15,876 --> 00:53:18,650
-Officer KD6-3.7.
+01:03:17,030 --> 01:03:18,990
+<font face="Comic Sans MS">Fire again.</font>
 
 474
-00:53:21,497 --> 00:53:22,965
-Request.
+01:03:20,320 --> 01:03:21,360
+<font face="Comic Sans MS">Fire.</font>
 
 475
-00:53:22,990 --> 00:53:26,685
-DNA records:
-children born 6-10-21.
+01:03:33,000 --> 01:03:35,460
+<font face="Comic Sans MS">200 feet to the east.</font>
 
 476
-00:53:27,024 --> 00:53:29,016
-Looking for anomalies.
+01:03:37,130 --> 01:03:38,340
+<font face="Comic Sans MS">Fire.</font>
 
 477
-00:53:36,537 --> 00:53:38,308
-You have
-the satcrystal backup?
+01:03:40,510 --> 01:03:41,760
+<font face="Comic Sans MS">Go north.</font>
 
 478
-00:53:44,351 --> 00:53:45,934
-Okay.
+01:03:43,970 --> 01:03:45,550
+<font face="Comic Sans MS">Fire.</font>
 
 479
-00:53:45,935 --> 00:53:46,934
-Run it raw.
+01:03:46,310 --> 01:03:48,650
+<font face="Comic Sans MS">Stop. 20 degrees east.</font>
 
 480
-00:54:23,857 --> 00:54:25,949
-Mere data makes a man.
+01:03:51,060 --> 01:03:52,560
+<font face="Comic Sans MS">Stop.</font>
 
 481
-00:54:27,829 --> 00:54:30,419
-A and C and T and G.
+01:03:52,730 --> 01:03:54,520
+<font face="Comic Sans MS">Zoom in.</font>
 
 482
-00:54:30,853 --> 00:54:34,807
-The alphabet of you.
-All from four symbols.
+01:03:55,690 --> 01:03:57,480
+<font face="Comic Sans MS">Closer.</font>
 
 483
-00:54:36,350 --> 00:54:38,015
-I'm only two:
+01:04:00,490 --> 01:04:02,830
+<font face="Comic Sans MS">Oh, come on.</font>
 
 484
-00:54:41,410 --> 00:54:43,005
-1 and 0.
+01:04:03,490 --> 01:04:04,530
+<font face="Comic Sans MS">Get up.</font>
 
 485
-00:54:43,295 --> 00:54:46,887
-Half as much but twice
-as elegant, sweetheart.
+01:04:05,410 --> 01:04:07,030
+<font face="Comic Sans MS">Do your fucking job.</font>
 
 486
-00:54:47,926 --> 00:54:50,018
-You don't prefer your madam?
+01:04:08,460 --> 01:04:10,590
+<font face="Comic Sans MS">Find the child.</font>
 
 487
-00:54:52,499 --> 00:54:54,130
-You were listening.
+01:04:46,290 --> 01:04:48,040
+<font face="Comic Sans MS">Watch the car.</font>
 
 488
-00:54:55,056 --> 00:54:56,551
-Maybe.
+01:06:26,680 --> 01:06:30,730
+<font face="Comic Sans MS">Every last piece, or I'll put you outside
+where the sky is raining...</font>
 
 489
-00:54:58,301 --> 00:55:01,197
-You didn't like her enough
-to tell her the truth.
+01:06:30,890 --> 01:06:32,940
+<font face="Comic Sans MS">...where it's raining fire!</font>
 
 490
-00:55:01,879 --> 00:55:04,070
-6, 10 and 21.
+01:06:33,100 --> 01:06:34,810
+<font face="Comic Sans MS">You're in here to work.</font>
 
 491
-00:55:08,026 --> 00:55:10,018
-There's nothin' to tell.
+01:06:34,980 --> 01:06:38,240
+<font face="Comic Sans MS">And if you're not working,
+I don't need you.</font>
 
 492
-00:55:10,418 --> 00:55:13,526
-How many times
-have you told me that story?
+01:06:38,400 --> 01:06:40,820
+<font face="Comic Sans MS">I don't need any of...</font>
 
 493
-00:55:15,629 --> 00:55:17,522
-Your memory?
+01:06:42,990 --> 01:06:44,450
+<font face="Comic Sans MS">Hi.</font>
 
 494
-00:55:18,500 --> 00:55:20,775
-The date carved beneath.
+01:06:51,040 --> 01:06:53,830
+<font face="Comic Sans MS">The nickel is for the colonial ships.</font>
 
 495
-00:55:21,088 --> 00:55:23,326
-6, 10 and 21.
+01:06:54,000 --> 01:06:56,800
+<font face="Comic Sans MS">Closest any of them
+or any of us is gonna get...</font>
 
 496
-00:55:25,229 --> 00:55:27,068
-Coincidence?
+01:06:56,960 --> 01:07:00,220
+<font face="Comic Sans MS">...to that grand life Off-world.</font>
 
 497
-00:55:31,041 --> 00:55:33,432
-A dangerous coincidence.
+01:07:00,710 --> 01:07:04,330
+<font face="Comic Sans MS">And I encourage play, I do.
+Keeps them occupied...</font>
 
 498
-00:55:36,931 --> 00:55:39,521
-I always knew
-you were special.
+01:07:04,510 --> 01:07:07,140
+<font face="Comic Sans MS">...and it makes them nimble, right?</font>
 
 499
-00:55:40,865 --> 00:55:42,896
-Maybe this is how.
+01:07:07,510 --> 01:07:08,560
+<font face="Comic Sans MS">But it's work.</font>
 
 500
-00:55:47,962 --> 00:55:49,633
-A child.
+01:07:09,970 --> 01:07:13,510
+<font face="Comic Sans MS">It's work that molds them
+into a child worth having.</font>
 
 501
-00:55:50,152 --> 00:55:52,543
-Of woman born.
+01:07:21,980 --> 01:07:23,900
+<font face="Comic Sans MS">So come on, now.</font>
 
 502
-00:55:53,652 --> 00:55:56,042
-Pushed into the world.
+01:07:25,030 --> 01:07:27,370
+<font face="Comic Sans MS">What sort do you have in mind?</font>
 
 503
-00:55:57,119 --> 00:55:58,880
-Wanted.
+01:07:30,580 --> 01:07:34,120
+<font face="Comic Sans MS">Because I got all kinds.</font>
 
 504
-00:55:59,906 --> 00:56:01,501
-Loved.
+01:07:36,250 --> 01:07:37,840
+<font face="Comic Sans MS">- Oh, no, no, no.
+- I'm not buying.</font>
 
 505
-00:56:04,332 --> 00:56:06,523
-Well, if it were true,
+01:07:38,000 --> 01:07:41,090
+<font face="Comic Sans MS">No, no, no. This is just my game,
+and I play it fair.</font>
 
 506
-00:56:07,702 --> 00:56:10,382
-I'd be hunted
-for the rest of my life
+01:07:41,250 --> 01:07:45,130
+<font face="Comic Sans MS">No. No, I mean, bigger than you...</font>
 
 507
-00:56:10,383 --> 00:56:11,382
-by someone just like me.
+01:07:47,470 --> 01:07:51,230
+<font face="Comic Sans MS">Bigger than you have tried
+to shut me down. Bigger than you.</font>
 
 508
-00:56:13,344 --> 00:56:15,635
-It's okay to dream a little.
+01:07:51,390 --> 01:07:54,270
+<font face="Comic Sans MS">And they were men, at that.</font>
 
 509
-00:56:16,304 --> 00:56:17,827
-Isn't it?
+01:07:55,850 --> 01:07:58,440
+<font face="Comic Sans MS">A little boy came through here
+about 30 years back.</font>
 
 510
-00:56:18,358 --> 00:56:20,140
-Not if you're us.
+01:07:59,440 --> 01:08:01,780
+<font face="Comic Sans MS">I need to see your records.</font>
 
 511
-00:56:25,339 --> 00:56:26,853
-Stop.
+01:08:02,570 --> 01:08:05,030
+<font face="Comic Sans MS">Legitimate placements,
+private sales, everything.</font>
 
 512
-00:56:27,482 --> 00:56:30,946
-Put up 4847
-and 2181, side-by-side.
+01:08:05,570 --> 01:08:07,490
+<font face="Comic Sans MS">Don't keep records that far back.</font>
 
 513
-00:56:36,833 --> 00:56:41,024
-They're identical. Translate.
+01:08:07,650 --> 01:08:09,650
+<font face="Comic Sans MS">- You don't?
+- I don't.</font>
 
 514
-00:56:43,101 --> 00:56:44,994
-A boy and a girl.
+01:08:11,700 --> 01:08:13,290
+<font face="Comic Sans MS">Sorry.</font>
 
 515
-00:56:46,426 --> 00:56:48,033
-It's impossible.
+01:08:13,450 --> 01:08:15,280
+<font face="Comic Sans MS">Can't help you.</font>
 
 516
-00:56:48,876 --> 00:56:50,322
-Why?
+01:08:18,120 --> 01:08:19,910
+<font face="Comic Sans MS">- You can't?
+- Nope.</font>
 
 517
-00:56:50,919 --> 00:56:53,729
-Two people
-can't have identical DNA.
+01:08:24,670 --> 01:08:25,960
+<font face="Comic Sans MS">I think you can.</font>
 
 518
-00:56:55,275 --> 00:56:59,118
-One of these isn't real.
-It's a copy.
+01:08:28,380 --> 01:08:30,840
+<font face="Comic Sans MS">I think someone like you
+keeps a long memory.</font>
 
 519
-00:57:03,883 --> 00:57:07,468
-They were both processed
-at the Morrill Cole Orphanage.
+01:08:31,720 --> 01:08:33,810
+<font face="Comic Sans MS">Now you can tell me
+what you remember...</font>
 
 520
-00:57:09,254 --> 00:57:11,445
-It says the girl died there.
+01:08:33,970 --> 01:08:36,260
+<font face="Comic Sans MS">...or I can put a hole right here
+and take a look.</font>
 
 521
-00:57:11,625 --> 00:57:13,518
-Genetic disorder.
+01:08:50,070 --> 01:08:53,610
+<font face="Comic Sans MS">They were laughing and what was it
+you said? What'd you say?</font>
 
 522
-00:57:14,604 --> 00:57:16,497
-Galatians Syndrome.
+01:09:11,800 --> 01:09:13,510
+<font face="Comic Sans MS">Are you coming?</font>
 
 523
-00:57:17,153 --> 00:57:18,917
-And the boy...
+01:09:24,110 --> 01:09:26,030
+<font face="Comic Sans MS">Where is it?</font>
 
 524
-00:57:20,882 --> 00:57:22,503
-...disappears.
+01:09:28,900 --> 01:09:30,650
+<font face="Comic Sans MS">Oh, God.</font>
 
 525
-00:57:24,604 --> 00:57:26,497
-Where's the orphanage?
+01:09:35,450 --> 01:09:38,170
+<font face="Comic Sans MS">Where, where, where?</font>
 
 526
-00:57:28,821 --> 00:57:30,761
-You wanna go for a ride?
+01:09:39,660 --> 01:09:42,580
+<font face="Comic Sans MS">I don't see it. Here.</font>
 
 527
-00:58:46,740 --> 00:58:48,872
-Well, here we are.
+01:09:50,720 --> 01:09:52,350
+<font face="Comic Sans MS">It's gone.</font>
 
 528
-00:59:02,000 --> 00:59:03,703
-Buckle up.
+01:09:54,590 --> 01:09:57,590
+<font face="Comic Sans MS">It's the entire year.</font>
 
 529
-01:00:02,748 --> 01:00:04,391
-"K"?
+01:09:58,930 --> 01:10:00,890
+<font face="Comic Sans MS">I didn't do that.</font>
 
 530
-01:00:56,024 --> 01:00:57,561
-"K"? "K"?
+01:10:01,060 --> 01:10:02,980
+<font face="Comic Sans MS">That wasn't me.</font>
 
 531
-01:00:59,366 --> 01:01:00,967
-"K"? "K"? "K"? "K"? "K"?
+01:10:06,060 --> 01:10:08,980
+<font face="Comic Sans MS">I didn't. Wasn't me.</font>
 
 532
-01:01:54,343 --> 01:01:56,037
-Stay back.
+01:14:43,470 --> 01:14:44,970
+<font face="Comic Sans MS">I always told you.</font>
 
 533
-01:02:11,160 --> 01:02:12,629
-Fire again.
+01:14:46,010 --> 01:14:47,930
+<font face="Comic Sans MS">You're special.</font>
 
 534
-01:02:13,011 --> 01:02:14,567
-Fire again.
+01:14:51,520 --> 01:14:52,600
+<font face="Comic Sans MS">Born.</font>
 
 535
-01:02:16,281 --> 01:02:17,783
-Fire.
+01:14:53,520 --> 01:14:55,320
+<font face="Comic Sans MS">Not made.</font>
 
 536
-01:02:28,782 --> 01:02:31,073
-200 feet to the east.
+01:14:58,690 --> 01:15:00,950
+<font face="Comic Sans MS">Hidden with care.</font>
 
 537
-01:02:32,962 --> 01:02:34,441
-Fire.
+01:15:03,820 --> 01:15:06,290
+<font face="Comic Sans MS">A real boy now.</font>
 
 538
-01:02:36,247 --> 01:02:37,816
-Go north.
+01:15:08,530 --> 01:15:11,070
+<font face="Comic Sans MS">A real boy needs a real name.</font>
 
 539
-01:02:39,782 --> 01:02:41,334
-Fire.
+01:15:12,330 --> 01:15:13,920
+<font face="Comic Sans MS">Joe.</font>
 
 540
-01:02:42,020 --> 01:02:45,007
-Stop. 20 degrees east.
+01:15:15,410 --> 01:15:16,450
+<font face="Comic Sans MS">"Joe"?</font>
 
 541
-01:02:46,797 --> 01:02:48,192
-Stop.
+01:15:17,120 --> 01:15:19,960
+<font face="Comic Sans MS">You're too important for K.</font>
 
 542
-01:02:48,489 --> 01:02:50,067
-Zoom in.
+01:15:20,130 --> 01:15:22,720
+<font face="Comic Sans MS">Your mother would've named you.</font>
 
 543
-01:02:51,406 --> 01:02:52,942
-Closer.
+01:15:25,470 --> 01:15:26,850
+<font face="Comic Sans MS">Joe.</font>
 
 544
-01:02:56,153 --> 01:02:58,276
-Oh, come on.
+01:15:29,050 --> 01:15:31,470
+<font face="Comic Sans MS">- Joe.
+- Stop.</font>
 
 545
-01:02:59,247 --> 01:03:00,753
-Get up.
+01:15:37,770 --> 01:15:40,140
+<font face="Comic Sans MS">How do I know
+if a memory is an implant or not?</font>
 
 546
-01:03:01,153 --> 01:03:02,964
-Do your fucking job.
+01:15:44,490 --> 01:15:46,870
+<font face="Comic Sans MS">Who makes the memories?</font>
 
 547
-01:03:04,154 --> 01:03:05,948
-Find the child.
+01:16:18,060 --> 01:16:20,310
+<font face="Comic Sans MS">Dr. Ana Stelline?</font>
 
 548
-01:03:41,939 --> 01:03:43,533
-Watch the car.
+01:16:23,770 --> 01:16:25,560
+<font face="Comic Sans MS">A visitor.</font>
 
 549
-01:05:22,219 --> 01:05:23,680
-Every last piece,
+01:16:27,650 --> 01:16:29,440
+<font face="Comic Sans MS">Is that okay?</font>
 
 550
-01:05:23,705 --> 01:05:26,513
-or I'll put you outside
-where the sky is raining,
+01:16:29,910 --> 01:16:30,950
+<font face="Comic Sans MS">Yes.</font>
 
 551
-01:05:26,538 --> 01:05:28,530
-where it's raining fire!
+01:16:33,080 --> 01:16:35,250
+<font face="Comic Sans MS">It's just unusual.</font>
 
 552
-01:05:28,737 --> 01:05:30,454
-You're in here to work.
+01:16:36,500 --> 01:16:40,630
+<font face="Comic Sans MS">Nice to meet you, Officer KD6 -3.7.</font>
 
 553
-01:05:30,485 --> 01:05:33,876
-And if you're not working,
-I don't need you.
+01:16:45,210 --> 01:16:49,290
+<font face="Comic Sans MS">Sorry.
+It's a compromised immune system.</font>
 
 554
-01:05:33,973 --> 01:05:35,965
-I don't need any of...
+01:16:49,470 --> 01:16:53,520
+<font face="Comic Sans MS">A life of freedom,
+so long as it's behind glass.</font>
 
 555
-01:05:38,544 --> 01:05:40,052
-Hi.
+01:16:53,930 --> 01:16:56,730
+<font face="Comic Sans MS">- Is that why you're not Off-world?
+- Yes.</font>
 
 556
-01:05:46,529 --> 01:05:49,391
-The nickel
-is for the colonial ships.
+01:16:57,430 --> 01:17:01,350
+<font face="Comic Sans MS">My parents had our passes in pocket,
+but I took sick.</font>
 
 557
-01:05:49,440 --> 01:05:51,819
-Closest any of them
-or any of us is gonna get
+01:17:03,810 --> 01:17:06,690
+<font face="Comic Sans MS">So it was a new life for me.</font>
 
 558
-01:05:51,844 --> 01:05:55,256
-to that grand life
-off-world.
+01:17:06,860 --> 01:17:10,240
+<font face="Comic Sans MS">And they put me in my cage...</font>
 
 559
-01:05:56,329 --> 01:05:58,884
-And I encourage play, I do.
+01:17:10,400 --> 01:17:13,490
+<font face="Comic Sans MS">...filled it with everything they could
+to keep me happy.</font>
 
 560
-01:05:58,885 --> 01:05:59,884
-Keeps 'em occupied and it
-makes 'em nimble, right?
+01:17:13,660 --> 01:17:18,580
+<font face="Comic Sans MS">Except company, of course.
+And I was used to crowds.</font>
 
 561
-01:05:59,983 --> 01:06:02,374
-But it's work.
+01:17:21,580 --> 01:17:22,950
+<font face="Comic Sans MS">What can I help you with?</font>
 
 562
-01:06:03,177 --> 01:06:04,970
-It's work that molds them
-into a child worth havin'.
+01:17:24,380 --> 01:17:27,010
+<font face="Comic Sans MS">Thought you might be able to help me
+with a case.</font>
 
 563
-01:06:05,466 --> 01:06:08,951
-So come on, now.
+01:17:28,300 --> 01:17:34,310
+<font face="Comic Sans MS">Oh, that's the most interesting thing
+I've been offered to help with in ages.</font>
 
 564
-01:06:17,609 --> 01:06:19,103
-What sort do you have in mind?
+01:17:35,180 --> 01:17:38,270
+<font face="Comic Sans MS">Do you mind if I work while you talk?</font>
 
 565
-01:06:20,562 --> 01:06:22,555
-'Cause I got all kinds.
+01:17:39,180 --> 01:17:40,800
+<font face="Comic Sans MS">Of course.</font>
 
 566
-01:06:26,066 --> 01:06:29,146
--Oh, no, no, no.
--I'm not buyin'.
+01:17:47,570 --> 01:17:50,410
+<font face="Comic Sans MS">I promise I hear every word.</font>
 
 567
-01:06:31,695 --> 01:06:33,641
-No, no, no.
-This is just my game,
+01:17:56,990 --> 01:17:59,820
+<font face="Comic Sans MS">They say you're
+the best memory-maker there is.</font>
 
 568
-01:06:33,674 --> 01:06:36,757
-and I play it fair.
+01:18:00,000 --> 01:18:02,040
+<font face="Comic Sans MS">Well, then, they're kind.</font>
 
 569
-01:06:36,781 --> 01:06:38,523
-No. No, I mean,
-bigger than you...
+01:18:03,290 --> 01:18:05,700
+<font face="Comic Sans MS">I love birthday parties.</font>
 
 570
-01:06:38,709 --> 01:06:40,502
-Bigger than you
-have tried to shut me down.
+01:18:09,300 --> 01:18:11,350
+<font face="Comic Sans MS">You work for Wallace?</font>
 
 571
-01:06:42,614 --> 01:06:44,933
-Bigger than you.
+01:18:11,510 --> 01:18:15,020
+<font face="Comic Sans MS">Subcontract. I'm one of his suppliers.</font>
 
 572
-01:06:44,958 --> 01:06:47,121
-And they were men, at that.
+01:18:15,390 --> 01:18:19,310
+<font face="Comic Sans MS">He offered to buy me out,
+but I take my freedom where I can find it.</font>
 
 573
-01:06:47,254 --> 01:06:49,316
-A little boy came through here
-about 30 years back.
+01:18:20,890 --> 01:18:22,180
+<font face="Comic Sans MS">Why are you so good?</font>
 
 574
-01:06:51,350 --> 01:06:54,537
--I need to see your records.
--Hmm.
+01:18:23,230 --> 01:18:25,280
+<font face="Comic Sans MS">What makes your memories
+so authentic?</font>
 
 575
-01:06:54,933 --> 01:06:57,025
-Legitimate placements,
-private sales, everything.
+01:18:26,150 --> 01:18:29,320
+<font face="Comic Sans MS">Well, there's a bit of every artist
+in their work.</font>
 
 576
-01:06:58,079 --> 01:07:00,967
-Don't keep records
-that far back.
+01:18:30,740 --> 01:18:34,200
+<font face="Comic Sans MS">But I was locked
+in a sterile chamber at 8...</font>
 
 577
-01:07:01,041 --> 01:07:03,132
--You don't?
--I don't.
+01:18:35,530 --> 01:18:39,450
+<font face="Comic Sans MS">...so if I wanted to see the world,
+I had to imagine it.</font>
 
 578
-01:07:03,157 --> 01:07:05,050
-Sorry.
+01:18:40,540 --> 01:18:44,090
+<font face="Comic Sans MS">Got very good at imagining.</font>
 
 579
-01:07:07,115 --> 01:07:09,169
-Can't help you.
+01:18:45,040 --> 01:18:47,960
+<font face="Comic Sans MS">Wallace needs my talent
+to maintain a stable product.</font>
 
 580
-01:07:09,170 --> 01:07:10,169
-- You can't?
-- Nope.
+01:18:49,920 --> 01:18:52,380
+<font face="Comic Sans MS">I think it's only kind.</font>
 
 581
-01:07:13,645 --> 01:07:15,538
-I think you can.
+01:18:53,630 --> 01:18:59,340
+<font face="Comic Sans MS">Replicants live such hard lives,
+made to do what we'd rather not.</font>
 
 582
-01:07:20,115 --> 01:07:21,793
-I think someone like you
-keeps a long memory.
+01:18:59,510 --> 01:19:00,800
+<font face="Comic Sans MS">I can't help your future...</font>
 
 583
-01:07:23,903 --> 01:07:26,849
-Now you can tell me
-what you remember,
+01:19:00,970 --> 01:19:05,720
+<font face="Comic Sans MS">...but I can give you good memories
+to think back on and smile.</font>
 
 584
-01:07:26,874 --> 01:07:28,859
-or I can put a hole right here
-and take a look.
+01:19:05,900 --> 01:19:06,940
+<font face="Comic Sans MS">It's nice.</font>
 
 585
-01:07:28,884 --> 01:07:31,960
-They were laughin'
-and what was it you said?
+01:19:07,360 --> 01:19:10,700
+<font face="Comic Sans MS">It's better than nice.
+It feels authentic.</font>
 
 586
-01:07:45,607 --> 01:07:48,454
-What did you say?
+01:19:10,860 --> 01:19:16,580
+<font face="Comic Sans MS">And if you have authentic memories,
+you have real human responses.</font>
 
 587
-01:08:07,257 --> 01:08:09,016
-Are you comin'?
+01:19:17,030 --> 01:19:19,240
+<font face="Comic Sans MS">Wouldn't you agree?</font>
 
 588
-01:08:19,684 --> 01:08:21,276
-Where is it?
+01:19:27,040 --> 01:19:31,120
+<font face="Comic Sans MS">Are they all constructed,
+or do you ever use ones that are real?</font>
 
 589
-01:08:24,349 --> 01:08:25,830
-Oh, God.
+01:19:35,470 --> 01:19:38,270
+<font face="Comic Sans MS">It's illegal to use real memories, officer.</font>
 
 590
-01:08:31,020 --> 01:08:32,714
-Where, where, where, where?
+01:19:40,510 --> 01:19:42,340
+<font face="Comic Sans MS">How can you tell the difference?</font>
 
 591
-01:08:35,031 --> 01:08:37,287
-I don't see it. Here.
+01:19:42,520 --> 01:19:44,900
+<font face="Comic Sans MS">Can you tell if something...</font>
 
 592
-01:08:46,148 --> 01:08:47,717
-It's gone.
+01:19:46,230 --> 01:19:47,360
+<font face="Comic Sans MS">...really happened?</font>
 
 593
-01:08:49,836 --> 01:08:52,426
-It's the entire year.
+01:19:49,860 --> 01:19:52,450
+<font face="Comic Sans MS">They all think it's about more detail.</font>
 
 594
-01:08:53,974 --> 01:08:55,668
-I didn't do that.
+01:19:52,900 --> 01:19:55,730
+<font face="Comic Sans MS">But that's not how memory works.</font>
 
 595
-01:08:56,355 --> 01:08:57,884
-That wasn't me.
+01:19:56,110 --> 01:19:57,860
+<font face="Comic Sans MS">We recall with our feelings.</font>
 
 596
-01:09:01,388 --> 01:09:05,178
-I didn't. Wasn't me.
+01:19:58,490 --> 01:20:02,160
+<font face="Comic Sans MS">Anything real should be a mess.</font>
 
 597
-01:13:38,540 --> 01:13:41,418
-I always told you.
+01:20:03,410 --> 01:20:05,450
+<font face="Comic Sans MS">I can show you.</font>
 
 598
-01:13:41,419 --> 01:13:42,419
-You're special.
+01:20:06,790 --> 01:20:08,250
+<font face="Comic Sans MS">Sit.</font>
 
 599
-01:13:46,622 --> 01:13:48,725
-Born.
+01:20:26,430 --> 01:20:31,390
+<font face="Comic Sans MS">Now, think about the memory
+you want me to see.</font>
 
 600
-01:13:48,726 --> 01:13:49,725
-Not made.
+01:20:31,810 --> 01:20:34,850
+<font face="Comic Sans MS">Not even that hard. Just picture it.</font>
 
 601
-01:13:53,752 --> 01:13:55,596
-Hidden with care.
+01:20:35,320 --> 01:20:37,120
+<font face="Comic Sans MS">Let it play.</font>
 
 602
-01:13:58,944 --> 01:14:01,036
-A real boy now.
+01:21:26,990 --> 01:21:29,530
+<font face="Comic Sans MS">Someone lived this, yes.</font>
 
 603
-01:14:03,622 --> 01:14:06,012
-A real boy needs a real name.
+01:21:30,960 --> 01:21:32,880
+<font face="Comic Sans MS">This happened.</font>
 
 604
-01:14:07,411 --> 01:14:08,988
-Joe.
+01:21:49,180 --> 01:21:51,260
+<font face="Comic Sans MS">I know it's real.</font>
 
 605
-01:14:10,589 --> 01:14:12,089
-"Joe"?
+01:22:02,490 --> 01:22:04,410
+<font face="Comic Sans MS">I know it's real.</font>
 
 606
-01:14:12,144 --> 01:14:14,472
-You're too important for "K."
+01:22:07,160 --> 01:22:11,000
+<font face="Comic Sans MS">Goddamn it!</font>
 
 607
-01:14:15,267 --> 01:14:17,541
-Your mother
-would've named you.
+01:22:54,710 --> 01:22:59,300
+<font face="Comic Sans MS">Officer KD6 -3.7.
+Madam is calling you in.</font>
 
 608
-01:14:20,442 --> 01:14:21,870
-Joe.
+01:22:59,460 --> 01:23:00,500
+<font face="Comic Sans MS">You're under arrest.</font>
 
 609
-01:14:24,025 --> 01:14:26,217
--Joe.
--Stop.
+01:23:00,670 --> 01:23:03,750
+<font face="Comic Sans MS">Drop your gun and keep your hands
+where I can see them.</font>
 
 610
-01:14:32,763 --> 01:14:35,774
-How do I know if a memory
-is an implant or not?
+01:23:04,510 --> 01:23:05,560
+<font face="Comic Sans MS">- Cells.
+- Cells.</font>
 
 611
-01:14:39,500 --> 01:14:41,459
-Who makes the memories?
+01:23:05,720 --> 01:23:08,100
+<font face="Comic Sans MS">Have you ever been
+in an institution? Cells.</font>
 
 612
-01:15:12,996 --> 01:15:14,889
-Dr. Ana Stelline?
+01:23:08,260 --> 01:23:12,640
+<font face="Comic Sans MS">When you're not performing your duties,
+do they keep you in a little box? Cells.</font>
 
 613
-01:15:18,669 --> 01:15:20,176
-A visitor.
+01:23:12,810 --> 01:23:14,020
+<font face="Comic Sans MS">- Interlinked.
+- Interlinked.</font>
 
 614
-01:15:22,651 --> 01:15:24,129
-Is that okay?
+01:23:14,190 --> 01:23:16,780
+<font face="Comic Sans MS">What's it like to hold the hand
+of someone you love?</font>
 
 615
-01:15:24,840 --> 01:15:26,357
-Yes.
+01:23:16,940 --> 01:23:19,740
+<font face="Comic Sans MS">- Interlinked.
+- Interlinked.</font>
 
 616
-01:15:28,025 --> 01:15:29,918
-It's just unusual.
+01:23:19,900 --> 01:23:22,280
+<font face="Comic Sans MS">- Within cells interlinked.
+- Within the cells interlinked.</font>
 
 617
-01:15:31,509 --> 01:15:35,990
-Nice to meet you,
-Officer KD6-3.7.
+01:23:22,440 --> 01:23:26,360
+<font face="Comic Sans MS">What's it like
+to be filled with dread? Dreadfully.</font>
 
 618
-01:15:40,168 --> 01:15:43,952
-Sorry. It's a compromised
-immune system.
+01:23:26,530 --> 01:23:29,360
+<font face="Comic Sans MS">Do you like being separated
+from other people? Distinct.</font>
 
 619
-01:15:44,448 --> 01:15:48,431
-A life of freedom,
-so long as it's behind glass.
+01:23:29,530 --> 01:23:32,530
+<font face="Comic Sans MS">- Dreadfully distinct. Dark.
+- Dreadfully distinct. Dark.</font>
 
 620
-01:15:48,792 --> 01:15:50,761
-Is that why
-you're not off-world?
+01:23:32,700 --> 01:23:35,020
+<font face="Comic Sans MS">- Within cells interlinked.
+- Within the cells interlinked.</font>
 
 621
-01:15:50,796 --> 01:15:52,276
-Yes.
+01:23:35,160 --> 01:23:37,660
+<font face="Comic Sans MS">- Within one stem.
+- Within one stem.</font>
 
 622
-01:15:52,349 --> 01:15:56,245
-My parents had our passes
-in pocket, but I took sick.
+01:23:37,830 --> 01:23:40,160
+<font face="Comic Sans MS">- And dreadfully distinct.
+- And dreadfully distinct.</font>
 
 623
-01:15:56,683 --> 01:16:01,454
-So it was a new life for me.
+01:23:40,340 --> 01:23:42,050
+<font face="Comic Sans MS">- Against the dark.
+- Against the dark.</font>
 
 624
-01:16:01,767 --> 01:16:05,238
-And they put me in my cage,
+01:23:42,210 --> 01:23:46,380
+<font face="Comic Sans MS">- A tall white fountain played.
+- A tall white fountain played.</font>
 
 625
-01:16:05,285 --> 01:16:08,542
-filled it with everything
-they could to keep me happy.
+01:23:49,390 --> 01:23:52,020
+<font face="Comic Sans MS">You're not even close to baseline.</font>
 
 626
-01:16:08,590 --> 01:16:13,128
-Except company, of course.
-And I was used to crowds.
+01:23:57,560 --> 01:23:59,770
+<font face="Comic Sans MS">Out! And close the door.</font>
 
 627
-01:16:16,398 --> 01:16:18,526
-What can I help you with?
+01:24:00,360 --> 01:24:02,490
+<font face="Comic Sans MS">What the fuck is with you?</font>
 
 628
-01:16:19,184 --> 01:16:22,194
-Thought you might be able
-to help me with a case.
+01:24:02,650 --> 01:24:04,700
+<font face="Comic Sans MS">I put you on a case.</font>
 
 629
-01:16:23,122 --> 01:16:27,832
-Oh, that's the most
-interesting thing
+01:24:04,860 --> 01:24:07,110
+<font face="Comic Sans MS">I impressed on you
+the importance of that case...</font>
 
 630
-01:16:27,833 --> 01:16:28,832
-I've been offered
-to help with in ages.
+01:24:07,280 --> 01:24:11,120
+<font face="Comic Sans MS">...and then we pick you up fucking
+around outside an upgrade center?</font>
 
 631
-01:16:29,934 --> 01:16:33,320
-Do you mind if I work
-while you talk?
+01:24:12,620 --> 01:24:17,000
+<font face="Comic Sans MS">Scan said you didn't look like you
+on the inside. Miles off your baseline.</font>
 
 632
-01:16:34,154 --> 01:16:35,661
-Of course.
+01:24:17,160 --> 01:24:20,160
+<font face="Comic Sans MS">- Do you know what that means?
+- I found the kid.</font>
 
 633
-01:16:42,376 --> 01:16:44,866
-I promise
-I hear every word.
+01:24:24,880 --> 01:24:27,920
+<font face="Comic Sans MS">He was set up like a standard Replicant,
+put on a service job.</font>
 
 634
-01:16:51,832 --> 01:16:54,817
-They say you're the best
-memory-maker there is.
+01:24:31,010 --> 01:24:33,470
+<font face="Comic Sans MS">Even he didn't know who he was.</font>
 
 635
-01:16:54,918 --> 01:16:57,010
-Well, then, they're kind.
+01:24:35,220 --> 01:24:36,760
+<font face="Comic Sans MS">- And?
+- And it's done.</font>
 
 636
-01:16:58,202 --> 01:17:00,494
-I love birthday parties.
+01:24:36,930 --> 01:24:40,270
+<font face="Comic Sans MS">- What does that mean, "it's done"?
+- What you asked.</font>
 
 637
-01:17:04,158 --> 01:17:05,995
-You work for Wallace.
+01:24:41,560 --> 01:24:43,310
+<font face="Comic Sans MS">It's done.</font>
 
 638
-01:17:06,364 --> 01:17:09,769
-Subcontract.
-I'm one of his suppliers.
+01:24:46,940 --> 01:24:48,570
+<font face="Comic Sans MS">Fuck.</font>
 
 639
-01:17:10,216 --> 01:17:13,417
-He offered to buy me out,
+01:24:50,820 --> 01:24:52,650
+<font face="Comic Sans MS">You just stopped a bomb from going off.</font>
 
 640
-01:17:13,418 --> 01:17:14,417
-but I take my freedom
-where I can find it.
+01:24:54,740 --> 01:24:56,490
+<font face="Comic Sans MS">You did good.</font>
 
 641
-01:17:15,720 --> 01:17:17,414
-Why are you so good?
+01:24:58,620 --> 01:25:00,790
+<font face="Comic Sans MS">I can help you get out
+of this station alive...</font>
 
 642
-01:17:18,009 --> 01:17:20,894
-What makes your memories
-so authentic?
+01:25:00,960 --> 01:25:03,050
+<font face="Comic Sans MS">...but you have 48 hours
+to get back on track.</font>
 
 643
-01:17:20,966 --> 01:17:24,879
-Well, there's a bit of
-every artist in their work.
+01:25:03,880 --> 01:25:05,680
+<font face="Comic Sans MS">Surrender your gun and badge.</font>
 
 644
-01:17:25,574 --> 01:17:29,457
-But I was locked
-in a sterile chamber at 8,
+01:25:05,840 --> 01:25:09,260
+<font face="Comic Sans MS">And your next baseline test
+is out of my hands.</font>
 
 645
-01:17:30,296 --> 01:17:32,740
-so if I wanted to see
-the world,
+01:25:10,890 --> 01:25:12,390
+<font face="Comic Sans MS">Thank you, madam.</font>
 
 646
-01:17:32,741 --> 01:17:33,740
-I had to imagine it.
+01:25:44,540 --> 01:25:46,290
+<font face="Comic Sans MS">You were right.</font>
 
 647
-01:17:35,328 --> 01:17:38,170
-Got very good at imagining.
+01:25:52,970 --> 01:25:54,810
+<font face="Comic Sans MS">You were right about everything.</font>
 
 648
-01:17:39,807 --> 01:17:43,254
-Wallace needs my talent
-to maintain a stable product.
+01:26:23,580 --> 01:26:27,710
+<font face="Comic Sans MS">Thought you weren't interested,
+worky man.</font>
 
 649
-01:17:44,684 --> 01:17:46,875
-I think it's only kind.
+01:26:30,010 --> 01:26:32,350
+<font face="Comic Sans MS">You liked her. I could tell.</font>
 
 650
-01:17:48,366 --> 01:17:50,655
-Replicants live
-such hard lives,
+01:26:34,890 --> 01:26:35,930
+<font face="Comic Sans MS">It's okay.</font>
 
 651
-01:17:50,710 --> 01:17:53,779
-made to do
-what we'd rather not.
+01:26:37,350 --> 01:26:39,140
+<font face="Comic Sans MS">She's real.</font>
 
 652
-01:17:54,309 --> 01:17:55,942
-I can't help your future,
+01:26:41,020 --> 01:26:43,730
+<font face="Comic Sans MS">I wanna be real for you.</font>
 
 653
-01:17:55,975 --> 01:17:58,947
-but I can give you
-good memories
+01:26:44,440 --> 01:26:46,280
+<font face="Comic Sans MS">You are real for me.</font>
 
 654
-01:17:58,948 --> 01:17:59,947
-to think back on and smile.
+01:26:47,520 --> 01:26:48,980
+<font face="Comic Sans MS">You have a special lady here.</font>
 
 655
-01:18:00,907 --> 01:18:02,731
-It's nice.
+01:27:07,710 --> 01:27:08,750
+<font face="Comic Sans MS">Okay.</font>
 
 656
-01:18:02,732 --> 01:18:05,275
-It's better than nice.
-It feels authentic.
+01:27:09,590 --> 01:27:11,220
+<font face="Comic Sans MS">Let's do it.</font>
 
 657
-01:18:05,320 --> 01:18:08,228
-And if you have
-authentic memories,
+01:27:32,990 --> 01:27:34,490
+<font face="Comic Sans MS">Look at you.</font>
 
 658
-01:18:08,614 --> 01:18:10,806
-you have real human responses.
+01:27:34,650 --> 01:27:37,150
+<font face="Comic Sans MS">Quiet now, I have to sync.</font>
 
 659
-01:18:11,789 --> 01:18:13,474
-Wouldn't you agree?
+01:30:33,000 --> 01:30:37,130
+<font face="Comic Sans MS">Joi is anything you want her to be.</font>
 
 660
-01:18:21,673 --> 01:18:23,661
-Are they all constructed
+01:30:38,300 --> 01:30:42,100
+<font face="Comic Sans MS">Joi goes anywhere
+you want her to go.</font>
 
 661
-01:18:24,063 --> 01:18:26,662
-or do you ever use
-ones that are real?
+01:31:11,450 --> 01:31:15,410
+<font face="Comic Sans MS">99.9 percent detoxified water.</font>
 
 662
-01:18:30,211 --> 01:18:33,320
-It's illegal to use
-real memories, officer.
+01:31:44,820 --> 01:31:46,400
+<font face="Comic Sans MS">It's from a tree.</font>
 
 663
-01:18:35,331 --> 01:18:37,464
-How can you tell
-the difference?
+01:31:46,570 --> 01:31:48,400
+<font face="Comic Sans MS">I'm done with you.</font>
 
 664
-01:18:37,506 --> 01:18:39,498
-Can you tell if something
+01:31:48,950 --> 01:31:50,790
+<font face="Comic Sans MS">You can go now.</font>
 
 665
-01:18:41,073 --> 01:18:42,695
-really happened?
+01:32:02,130 --> 01:32:04,090
+<font face="Comic Sans MS">Quiet now.</font>
 
 666
-01:18:44,695 --> 01:18:46,986
-They all think
-it's about more detail.
+01:32:04,260 --> 01:32:05,970
+<font face="Comic Sans MS">I've been inside you.</font>
 
 667
-01:18:47,643 --> 01:18:50,034
-But that's not how
-memory works.
+01:32:06,590 --> 01:32:09,210
+<font face="Comic Sans MS">Not so much there as you think.</font>
 
 668
-01:18:50,874 --> 01:18:52,966
-We recall with our feelings.
+01:32:28,070 --> 01:32:29,360
+<font face="Comic Sans MS">Coffee?</font>
 
 669
-01:18:53,262 --> 01:18:56,449
-Anything real
-should be a mess.
+01:32:35,370 --> 01:32:37,830
+<font face="Comic Sans MS">They'll be coming after me soon.</font>
 
 670
-01:18:58,146 --> 01:18:59,940
-I can show you.
+01:32:46,380 --> 01:32:48,460
+<font face="Comic Sans MS">I'm coming with you.</font>
 
 671
-01:19:01,439 --> 01:19:02,934
-Sit.
+01:32:48,890 --> 01:32:50,100
+<font face="Comic Sans MS">But not like this.</font>
 
 672
-01:19:21,177 --> 01:19:25,747
-Now, think about the memory
-you want me to see.
+01:32:51,220 --> 01:32:56,220
+<font face="Comic Sans MS">If they come here looking for you,
+they'll have access to all my memories.</font>
 
 673
-01:19:26,507 --> 01:19:28,997
-Not even that hard.
-Just picture it.
+01:32:56,390 --> 01:32:59,310
+<font face="Comic Sans MS">You have to delete me
+from the console.</font>
 
 674
-01:19:30,090 --> 01:19:31,688
-Let it play.
+01:33:00,020 --> 01:33:01,850
+<font face="Comic Sans MS">My present.</font>
 
 675
-01:20:21,648 --> 01:20:23,939
-Someone lived this, yes.
+01:33:03,570 --> 01:33:05,360
+<font face="Comic Sans MS">Put me there.</font>
 
 676
-01:20:25,529 --> 01:20:27,114
-This happened.
+01:33:07,320 --> 01:33:09,280
+<font face="Comic Sans MS">I can't do that.</font>
 
 677
-01:20:43,844 --> 01:20:45,578
-I know it's real.
+01:33:10,450 --> 01:33:12,250
+<font face="Comic Sans MS">Think about it:</font>
 
 678
-01:20:57,082 --> 01:20:58,785
-I know it's real.
+01:33:12,950 --> 01:33:15,110
+<font face="Comic Sans MS">If anything happens to this, that's it.</font>
 
 679
-01:21:01,801 --> 01:21:05,104
-God damn it!
+01:33:16,580 --> 01:33:17,710
+<font face="Comic Sans MS">You're gone.</font>
 
 680
-01:21:49,212 --> 01:21:52,818
-Officer KD6-3.7.
+01:33:18,330 --> 01:33:19,870
+<font face="Comic Sans MS">Yes.</font>
 
 681
-01:21:52,819 --> 01:21:53,818
-Madam is calling you in.
+01:33:20,960 --> 01:33:23,220
+<font face="Comic Sans MS">Like a real girl.</font>
 
 682
-01:21:53,849 --> 01:21:55,669
-You're under arrest.
-Drop your gun
+01:33:28,630 --> 01:33:30,340
+<font face="Comic Sans MS">Please.</font>
 
 683
-01:21:55,694 --> 01:21:58,023
-and keep your hands
-where I can see 'em.
+01:33:33,220 --> 01:33:34,590
+<font face="Comic Sans MS">Joe, please.</font>
 
 684
-01:21:58,792 --> 01:21:59,886
-- Cells.
-- Cells.
+01:33:36,100 --> 01:33:37,600
+<font face="Comic Sans MS">I want this.</font>
 
 685
-01:21:59,887 --> 01:22:01,677
-Have you ever
-been in an institution?
+01:33:41,770 --> 01:33:44,230
+<font face="Comic Sans MS">But I can't do it myself.</font>
 
 686
-01:22:01,678 --> 01:22:02,872
--Cells.
--Cells.
+01:34:01,540 --> 01:34:02,870
+<font face="Comic Sans MS">Break the antenna.</font>
 
 687
-01:22:02,873 --> 01:22:04,858
-When you're not
-performing your duties,
+01:34:43,370 --> 01:34:44,620
+<font face="Comic Sans MS">I don't need a real horse.</font>
 
 688
-01:22:04,859 --> 01:22:05,858
-do they keep you
-in a little box?
+01:34:48,090 --> 01:34:53,220
+<font face="Comic Sans MS">I don't need a real horse.
+I just wanna find out where it's from.</font>
 
 689
-01:22:05,859 --> 01:22:06,953
--Cells.
--Cells.
+01:35:02,980 --> 01:35:04,820
+<font face="Comic Sans MS">Radiation from a reactor?</font>
 
 690
-01:22:06,954 --> 01:22:08,346
-- Interlinked.
-- Interlinked.
+01:35:12,570 --> 01:35:14,030
+<font face="Comic Sans MS">It matches a dirty bomb.</font>
 
 691
-01:22:08,347 --> 01:22:10,332
-What's it like
-to hold the hand
+01:35:22,580 --> 01:35:25,210
+<font face="Comic Sans MS">There's only one place that dirty.</font>
 
 692
-01:22:10,333 --> 01:22:11,332
-of someone you love?
-Interlinked.
+01:35:26,670 --> 01:35:28,630
+<font face="Comic Sans MS">Nobody lives there.</font>
 
 693
-01:22:11,383 --> 01:22:14,123
-Interlinked.
+01:36:19,260 --> 01:36:21,050
+<font face="Comic Sans MS">Go to 5.</font>
 
 694
-01:22:14,219 --> 01:22:15,383
-Within cells interlinked.
+01:36:21,640 --> 01:36:24,440
+<font face="Comic Sans MS">4, 30 degrees to the left.</font>
 
 695
-01:22:15,384 --> 01:22:16,383
-Within cells interlinked.
+01:36:26,310 --> 01:36:27,890
+<font face="Comic Sans MS">Tilt up.</font>
 
 696
-01:22:16,410 --> 01:22:17,603
-- Dreadfully.
-- Dreadfully.
+01:36:30,400 --> 01:36:32,700
+<font face="Comic Sans MS">Elevate to 400 feet.</font>
 
 697
-01:22:17,604 --> 01:22:19,593
-What's it like to
-be filled with dread?
+01:36:38,240 --> 01:36:40,330
+<font face="Comic Sans MS">Radiation analysis.</font>
 
 698
-01:22:19,594 --> 01:22:20,688
--Dreadfully.
-- Dreadfully.
+01:36:43,120 --> 01:36:44,830
+<font face="Comic Sans MS">Move forward.</font>
 
 699
-01:22:20,689 --> 01:22:22,778
-Do you like being
-separated from other people?
+01:36:51,500 --> 01:36:53,080
+<font face="Comic Sans MS">Tilt up.</font>
 
 700
-01:22:22,779 --> 01:22:23,873
--Distinct.
--Distinct.
+01:36:53,250 --> 01:36:54,750
+<font face="Comic Sans MS">Stop.</font>
 
 701
-01:22:23,874 --> 01:22:25,963
--Dreadfully distinct.
--Dreadfully distinct.
+01:36:56,720 --> 01:36:58,390
+<font face="Comic Sans MS">Move forward.</font>
 
 702
-01:22:25,964 --> 01:22:27,058
--Dark.
--Dark.
+01:36:59,010 --> 01:37:00,850
+<font face="Comic Sans MS">Go to 5.</font>
 
 703
-01:22:27,059 --> 01:22:28,547
-Within cells interlinked.
+01:37:01,640 --> 01:37:03,520
+<font face="Comic Sans MS">7, move forward.</font>
 
 704
-01:22:28,548 --> 01:22:29,547
-Within the cells
-interlinked.
+01:37:08,810 --> 01:37:10,470
+<font face="Comic Sans MS">6.</font>
 
 705
-01:22:29,548 --> 01:22:32,333
-- Within one stem.
-- Within one stem.
+01:37:11,690 --> 01:37:13,200
+<font face="Comic Sans MS">Stop.</font>
 
 706
-01:22:32,334 --> 01:22:33,623
-And dreadfully distinct.
+01:37:15,690 --> 01:37:17,400
+<font face="Comic Sans MS">Go to 7.</font>
 
 707
-01:22:33,624 --> 01:22:34,623
-And dreadfully distinct.
+01:37:17,860 --> 01:37:19,400
+<font face="Comic Sans MS">8.</font>
 
 708
-01:22:34,624 --> 01:22:36,215
-- Against the dark.
-- Against the dark.
+01:37:20,280 --> 01:37:21,860
+<font face="Comic Sans MS">9.</font>
 
 709
-01:22:36,240 --> 01:22:38,432
-A tall white
-fountain played.
+01:37:25,450 --> 01:37:27,450
+<font face="Comic Sans MS">Heat analysis.</font>
 
 710
-01:22:39,202 --> 01:22:41,394
-A tall white
-fountain played.
+01:37:35,090 --> 01:37:36,550
+<font face="Comic Sans MS">Life.</font>
 
 711
-01:22:43,819 --> 01:22:45,967
-You're not even
-close to baseline.
+01:37:37,090 --> 01:37:38,800
+<font face="Comic Sans MS">What is it?</font>
 
 712
-01:22:52,042 --> 01:22:53,935
-Out! Close the door.
+01:37:39,260 --> 01:37:41,600
+<font face="Comic Sans MS">Guess we're about to find out.</font>
 
 713
-01:22:54,829 --> 01:22:56,921
-What the fuck is with you?
+01:37:51,650 --> 01:37:53,320
+<font face="Comic Sans MS">Too dark in here.</font>
 
 714
-01:22:57,126 --> 01:22:59,252
-I put you on a case.
+01:37:56,320 --> 01:37:58,070
+<font face="Comic Sans MS">I like him.</font>
 
 715
-01:22:59,284 --> 01:23:01,713
-I impressed on you
-the importance of that case,
+01:37:58,820 --> 01:38:00,620
+<font face="Comic Sans MS">He's a good boy.</font>
 
 716
-01:23:01,745 --> 01:23:04,510
-and then we pick you up
+01:38:01,610 --> 01:38:03,360
+<font face="Comic Sans MS">Where is he?</font>
 
 717
-01:23:04,511 --> 01:23:05,510
-fucking around
-outside an upgrade center?
+01:38:09,460 --> 01:38:12,960
+<font face="Comic Sans MS">I have no idea. He's off-duty.</font>
 
 718
-01:23:06,927 --> 01:23:09,495
-Scan said you didn't look like
-you on the inside.
+01:38:13,790 --> 01:38:15,040
+<font face="Comic Sans MS">Check around.</font>
 
 719
-01:23:09,520 --> 01:23:11,474
-Miles off your baseline.
+01:38:15,210 --> 01:38:16,960
+<font face="Comic Sans MS">I checked...</font>
 
 720
-01:23:11,505 --> 01:23:13,156
-Do you know what that means?
+01:38:17,880 --> 01:38:20,210
+<font face="Comic Sans MS">...anywhere a good boy might go.</font>
 
 721
-01:23:13,181 --> 01:23:14,675
-I found the kid.
+01:38:20,720 --> 01:38:22,560
+<font face="Comic Sans MS">You're too late.</font>
 
 722
-01:23:19,331 --> 01:23:22,127
-He was set up
-like a standard Replicant,
+01:38:25,300 --> 01:38:27,090
+<font face="Comic Sans MS">It's gone.</font>
 
 723
-01:23:22,128 --> 01:23:23,127
-put on a service job.
+01:38:30,020 --> 01:38:31,900
+<font face="Comic Sans MS">He destroyed it.</font>
 
 724
-01:23:25,455 --> 01:23:27,637
-Even he didn't know
-who he was.
+01:38:34,020 --> 01:38:36,480
+<font face="Comic Sans MS">Everything about it.</font>
 
 725
-01:23:29,642 --> 01:23:31,333
--And?
--And it's done.
+01:38:36,650 --> 01:38:39,870
+<font face="Comic Sans MS">Well, except for the box of bones
+that you already took.</font>
 
 726
-01:23:31,358 --> 01:23:33,538
-What does that mean,
-"it's done"?
+01:38:44,120 --> 01:38:48,170
+<font face="Comic Sans MS">Which, I'll wager, wasn't enough.
+Here you are.</font>
 
 727
-01:23:33,539 --> 01:23:34,538
-What you asked.
+01:38:55,380 --> 01:38:57,840
+<font face="Comic Sans MS">You tiny thing.</font>
 
 728
-01:23:35,936 --> 01:23:37,484
-It's done.
+01:38:59,090 --> 01:39:02,970
+<font face="Comic Sans MS">In the face of the fabulous new,
+your only thought is to kill it?</font>
 
 729
-01:23:45,292 --> 01:23:47,654
-You just stopped a bomb
-from goin' off.
+01:39:03,970 --> 01:39:06,850
+<font face="Comic Sans MS">For fear of great change?</font>
 
 730
-01:23:49,228 --> 01:23:50,818
-You did good.
+01:39:07,510 --> 01:39:10,680
+<font face="Comic Sans MS">You can't hold the tide with a broom.</font>
 
 731
-01:23:53,027 --> 01:23:55,152
-I can help you
-get outta this station alive,
+01:39:11,060 --> 01:39:12,940
+<font face="Comic Sans MS">Except that I did.</font>
 
 732
-01:23:55,177 --> 01:23:57,966
-but you have 48 hours
-to get back on track.
+01:39:14,100 --> 01:39:15,600
+<font face="Comic Sans MS">Where is he?!</font>
 
 733
-01:23:58,231 --> 01:24:00,221
-Surrender your gun and badge.
+01:39:19,610 --> 01:39:21,450
+<font face="Comic Sans MS">You're so sure.</font>
 
 734
-01:24:00,276 --> 01:24:03,463
-And your next baseline test
-is outta my hands.
+01:39:22,610 --> 01:39:24,860
+<font face="Comic Sans MS">Because he told you.</font>
 
 735
-01:24:05,306 --> 01:24:06,894
-Thank you, madam.
+01:39:25,030 --> 01:39:27,360
+<font face="Comic Sans MS">Because we never lie.</font>
 
 736
-01:24:38,940 --> 01:24:40,564
-You were right.
+01:39:28,870 --> 01:39:32,170
+<font face="Comic Sans MS">I'm gonna tell Mr. Wallace
+you tried to shoot me first.</font>
 
 737
-01:24:47,301 --> 01:24:49,571
-You were right
-about everything.
+01:39:32,830 --> 01:39:35,290
+<font face="Comic Sans MS">So I had to kill you.</font>
 
 738
-01:24:50,181 --> 01:24:51,665
-Shh.
+01:39:39,340 --> 01:39:41,050
+<font face="Comic Sans MS">Then do what you gotta do.</font>
 
 739
-01:25:17,957 --> 01:25:21,343
-Thought you weren't
-interested, worky man.
+01:39:42,550 --> 01:39:43,850
+<font face="Comic Sans MS">Madam.</font>
 
 740
-01:25:24,427 --> 01:25:26,519
-You liked her. I could tell.
+01:40:15,960 --> 01:40:19,090
+<font face="Comic Sans MS">Location: Officer KD6 -3.7.</font>
 
 741
-01:25:29,451 --> 01:25:30,967
-It's okay.
+01:45:07,460 --> 01:45:12,720
+<font face="Comic Sans MS">Mightn't happen to have
+a piece of cheese about you, now?</font>
 
 742
-01:25:31,693 --> 01:25:33,233
-She's real.
+01:45:13,300 --> 01:45:15,220
+<font face="Comic Sans MS">Would you, boy?</font>
 
 743
-01:25:35,376 --> 01:25:37,468
-I wanna be real for you.
+01:45:29,850 --> 01:45:31,140
+<font face="Comic Sans MS">Treasure Island?</font>
 
 744
-01:25:38,760 --> 01:25:40,801
-You are real for me.
+01:45:38,240 --> 01:45:40,120
+<font face="Comic Sans MS">He reads.</font>
 
 745
-01:25:41,861 --> 01:25:43,953
-You have a special lady here.
+01:45:40,990 --> 01:45:42,710
+<font face="Comic Sans MS">That's good.</font>
 
 746
-01:26:02,165 --> 01:26:03,637
-Okay.
+01:45:43,490 --> 01:45:45,200
+<font face="Comic Sans MS">Me too.</font>
 
 747
-01:26:03,958 --> 01:26:05,477
-Let's do it.
+01:45:46,000 --> 01:45:49,670
+<font face="Comic Sans MS">Not much else to do around here
+at night anymore.</font>
 
 748
-01:26:27,233 --> 01:26:28,769
-Look at you.
+01:45:52,000 --> 01:45:57,000
+<font face="Comic Sans MS">Many is the night I dream of cheese...</font>
 
 749
-01:26:29,024 --> 01:26:31,066
-Quiet now,
-I have to sync.
+01:46:00,010 --> 01:46:03,810
+<font face="Comic Sans MS">...toasted, mostly.</font>
 
 750
-01:29:27,098 --> 01:29:30,385
-Joi is
-anything you want her to be.
+01:46:06,640 --> 01:46:08,760
+<font face="Comic Sans MS">What are you doing here?</font>
 
 751
-01:29:32,415 --> 01:29:35,547
-Joi goes anywhere
-you want her to go.
+01:46:11,520 --> 01:46:12,730
+<font face="Comic Sans MS">I heard the piano.</font>
 
 752
-01:30:05,540 --> 01:30:09,087
-99.9% detoxified water.
+01:46:15,150 --> 01:46:16,820
+<font face="Comic Sans MS">Don't lie.</font>
 
 753
-01:30:38,852 --> 01:30:40,344
-It's from a tree.
+01:46:17,860 --> 01:46:19,150
+<font face="Comic Sans MS">It's rude.</font>
 
 754
-01:30:40,345 --> 01:30:42,041
-I'm done with you.
+01:46:21,450 --> 01:46:23,290
+<font face="Comic Sans MS">You're a cop.</font>
 
 755
-01:30:42,964 --> 01:30:44,478
-You can go now.
+01:46:24,330 --> 01:46:26,750
+<font face="Comic Sans MS">- I'm not here to take you in.
+- Oh, yeah?</font>
 
 756
-01:30:56,171 --> 01:30:57,628
-Quiet, now.
+01:46:30,000 --> 01:46:31,090
+<font face="Comic Sans MS">Then, what?</font>
 
 757
-01:30:58,261 --> 01:30:59,955
-I've been inside you.
+01:46:33,630 --> 01:46:35,630
+<font face="Comic Sans MS">I just have some questions.</font>
 
 758
-01:31:00,605 --> 01:31:02,996
-Not so much there
-as you think.
+01:46:36,380 --> 01:46:37,760
+<font face="Comic Sans MS">What questions?</font>
 
 759
-01:31:22,049 --> 01:31:23,521
-Coffee?
+01:46:55,900 --> 01:46:57,150
+<font face="Comic Sans MS">Stay.</font>
 
 760
-01:31:29,346 --> 01:31:31,560
-They'll be comin'
-after me soon.
+01:49:30,720 --> 01:49:33,350
+<font face="Comic Sans MS">Look, I don't wanna hurt you.</font>
 
 761
-01:31:40,309 --> 01:31:41,970
-I'm coming with you.
+01:49:33,970 --> 01:49:35,590
+<font face="Comic Sans MS">But you're not making it easy.</font>
 
 762
-01:31:42,799 --> 01:31:44,423
-But not like this.
+01:50:25,270 --> 01:50:26,980
+<font face="Comic Sans MS">I like this song.</font>
 
 763
-01:31:45,008 --> 01:31:47,178
-If they come here
-looking for you,
+01:50:37,450 --> 01:50:40,950
+<font face="Comic Sans MS">We could keep at this,
+or we could get a drink.</font>
 
 764
-01:31:47,203 --> 01:31:49,578
-they'll have access
-to all my memories.
+01:50:53,180 --> 01:50:55,020
+<font face="Comic Sans MS">I'll take the drink.</font>
 
 765
-01:31:50,354 --> 01:31:52,929
-You have to delete me
-from the console.
+01:51:03,150 --> 01:51:05,110
+<font face="Comic Sans MS">This is really something.</font>
 
 766
-01:31:53,938 --> 01:31:55,478
-My present.
+01:51:05,270 --> 01:51:07,390
+<font face="Comic Sans MS">The whole town was something.</font>
 
 767
-01:31:57,498 --> 01:31:59,040
-Put me there.
+01:51:07,570 --> 01:51:09,410
+<font face="Comic Sans MS">One time.</font>
 
 768
-01:32:01,212 --> 01:32:02,906
-I can't do that.
+01:51:11,030 --> 01:51:13,200
+<font face="Comic Sans MS">Forget your troubles...</font>
 
 769
-01:32:04,395 --> 01:32:06,064
-Think about it.
+01:51:14,160 --> 01:51:16,250
+<font face="Comic Sans MS">...see a show...</font>
 
 770
-01:32:06,939 --> 01:32:09,591
-If anything happens to this,
-that's it.
+01:51:17,660 --> 01:51:19,790
+<font face="Comic Sans MS">...gamble a little.</font>
 
 771
-01:32:10,622 --> 01:32:12,138
-You're gone.
+01:51:22,080 --> 01:51:24,870
+<font face="Comic Sans MS">Win some money, lose some money.</font>
 
 772
-01:32:12,314 --> 01:32:13,825
-Yes.
+01:51:25,500 --> 01:51:29,040
+<font face="Comic Sans MS">They made money seem like candy.</font>
 
 773
-01:32:14,969 --> 01:32:16,513
-Like a real girl.
+01:51:29,210 --> 01:51:31,130
+<font face="Comic Sans MS">You like whiskey?</font>
 
 774
-01:32:22,565 --> 01:32:24,047
-Please.
+01:51:31,300 --> 01:51:33,510
+<font face="Comic Sans MS">I've got millions...</font>
 
 775
-01:32:27,144 --> 01:32:28,937
-Joe, please.
+01:51:33,680 --> 01:51:36,100
+<font face="Comic Sans MS">...of bottles of whiskey.</font>
 
 776
-01:32:30,030 --> 01:32:31,707
-I want this.
+01:51:49,780 --> 01:51:50,820
+<font face="Comic Sans MS">Here.</font>
 
 777
-01:32:35,611 --> 01:32:37,418
-But I can't do it myself.
+01:51:52,200 --> 01:51:53,830
+<font face="Comic Sans MS">Bleeding.</font>
 
 778
-01:32:55,365 --> 01:32:56,994
-Break the antenna.
+01:52:06,330 --> 01:52:07,370
+<font face="Comic Sans MS">Is it real?</font>
 
 779
-01:33:37,239 --> 01:33:39,022
-I don't need a real horse.
+01:52:08,500 --> 01:52:10,000
+<font face="Comic Sans MS">I don't know.</font>
 
 780
-01:33:41,917 --> 01:33:44,217
-I don't need a real horse.
-I just...
+01:52:10,170 --> 01:52:11,960
+<font face="Comic Sans MS">Ask him.</font>
 
 781
-01:33:44,780 --> 01:33:46,289
-I just wanna find out
-where it's from.
+01:52:28,270 --> 01:52:29,350
+<font face="Comic Sans MS">You got a name?</font>
 
 782
-01:33:46,290 --> 01:33:47,289
-Okay.
+01:52:31,730 --> 01:52:33,230
+<font face="Comic Sans MS">Officer KD6 -3.7...</font>
 
 783
-01:33:56,923 --> 01:33:58,713
-Radiation from a reactor?
+01:52:33,400 --> 01:52:36,190
+<font face="Comic Sans MS">That's not a name.
+That's a serial number.</font>
 
 784
-01:34:06,393 --> 01:34:08,470
-It matches a dirty bomb.
+01:52:39,080 --> 01:52:40,660
+<font face="Comic Sans MS">All right.</font>
 
 785
-01:34:16,431 --> 01:34:19,001
-There's only one place
-that dirty.
+01:52:43,080 --> 01:52:44,540
+<font face="Comic Sans MS">Joe.</font>
 
 786
-01:34:20,512 --> 01:34:22,181
-Nobody lives there.
+01:52:44,710 --> 01:52:46,920
+<font face="Comic Sans MS">What do you want, Joe?</font>
 
 787
-01:35:13,065 --> 01:35:14,665
-- Go to five.
+01:52:47,960 --> 01:52:51,090
+<font face="Comic Sans MS">- I wanna ask you some questions.
+- Like what?</font>
 
 788
-01:35:15,355 --> 01:35:17,696
-Four, 30 degrees to the left.
+01:52:57,430 --> 01:53:01,640
+<font face="Comic Sans MS">Like what was her name,
+the mother of your child?</font>
 
 789
-01:35:20,056 --> 01:35:21,579
-Tilt up.
+01:53:08,310 --> 01:53:09,810
+<font face="Comic Sans MS">What was she like?</font>
 
 790
-01:35:24,144 --> 01:35:26,055
-Elevate to 400 feet.
+01:53:20,990 --> 01:53:24,780
+<font face="Comic Sans MS">- You two live here together?
+- Too many questions.</font>
 
 791
-01:35:31,977 --> 01:35:33,969
-Radiation analysis.
+01:53:25,450 --> 01:53:27,030
+<font face="Comic Sans MS">I had your job. I was good at it.</font>
 
 792
-01:35:36,854 --> 01:35:38,408
-Move forward.
+01:53:27,750 --> 01:53:30,170
+<font face="Comic Sans MS">- It was simpler then.
+- Why you making it complicated?</font>
 
 793
-01:35:45,215 --> 01:35:46,713
-Tilt up.
+01:53:30,330 --> 01:53:32,660
+<font face="Comic Sans MS">- Why don't you answer the question?
+- What question?</font>
 
 794
-01:35:47,106 --> 01:35:48,585
-Stop.
+01:53:32,840 --> 01:53:35,840
+<font face="Comic Sans MS">I didn't figure you as one for bullshit.</font>
 
 795
-01:35:50,490 --> 01:35:52,058
-Move forward.
+01:53:36,380 --> 01:53:37,800
+<font face="Comic Sans MS">What's her name?</font>
 
 796
-01:35:52,779 --> 01:35:54,292
-Go to five.
+01:53:51,400 --> 01:53:52,990
+<font face="Comic Sans MS">Rachael.</font>
 
 797
-01:35:55,443 --> 01:35:57,402
-Seven, move forward.
+01:53:57,700 --> 01:53:59,870
+<font face="Comic Sans MS">Her name was Rachael.</font>
 
 798
-01:36:02,587 --> 01:36:04,031
-Six.
+01:54:03,740 --> 01:54:05,360
+<font face="Comic Sans MS">What happened to the kid?</font>
 
 799
-01:36:05,359 --> 01:36:06,843
-Stop.
+01:54:08,620 --> 01:54:11,540
+<font face="Comic Sans MS">Who put it in the orphanage?
+Was it you?</font>
 
 800
-01:36:09,432 --> 01:36:11,016
-Go to seven.
+01:54:14,090 --> 01:54:15,630
+<font face="Comic Sans MS">I was long gone by then.</font>
 
 801
-01:36:11,629 --> 01:36:13,056
-Eight.
+01:54:19,760 --> 01:54:22,220
+<font face="Comic Sans MS">You didn't even meet your own kid?</font>
 
 802
-01:36:14,018 --> 01:36:15,485
-Nine.
+01:54:24,560 --> 01:54:26,190
+<font face="Comic Sans MS">Why?</font>
 
 803
-01:36:19,155 --> 01:36:20,665
-Heat analysis.
+01:54:27,020 --> 01:54:28,650
+<font face="Comic Sans MS">Because that was the plan.</font>
 
 804
-01:36:28,747 --> 01:36:30,205
-Life.
+01:54:31,440 --> 01:54:36,070
+<font face="Comic Sans MS">I showed them how to scramble
+the records, cover their tracks.</font>
 
 805
-01:36:30,801 --> 01:36:32,356
-What is it?
+01:54:36,610 --> 01:54:39,580
+<font face="Comic Sans MS">Everyone had a part.
+Mine was to leave.</font>
 
 806
-01:36:32,990 --> 01:36:35,137
-Guess we're about to find out.
+01:54:40,860 --> 01:54:43,240
+<font face="Comic Sans MS">Then the Blackout came,
+paved over everything.</font>
 
 807
-01:36:45,233 --> 01:36:46,927
-Too dark in here.
+01:54:43,410 --> 01:54:45,830
+<font face="Comic Sans MS">Couldn't have found the child if I tried.</font>
 
 808
-01:36:49,997 --> 01:36:51,511
-I like him.
+01:54:45,990 --> 01:54:48,530
+<font face="Comic Sans MS">- Did you want to?
+- Not really.</font>
 
 809
-01:36:52,445 --> 01:36:54,019
-He's a good boy.
+01:54:49,460 --> 01:54:53,260
+<font face="Comic Sans MS">- Why not?
+- Because we were being hunted.</font>
 
 810
-01:36:55,248 --> 01:36:56,773
-Where is he?
+01:54:53,420 --> 01:54:55,760
+<font face="Comic Sans MS">I didn't want our child found...</font>
 
 811
-01:37:03,097 --> 01:37:04,599
-I have no idea. He's off-duty.
+01:54:56,250 --> 01:54:59,790
+<font face="Comic Sans MS">...taken apart, dissected.</font>
 
 812
-01:37:05,737 --> 01:37:08,623
-Check around.
+01:55:03,300 --> 01:55:06,510
+<font face="Comic Sans MS">Sometimes, to love someone...</font>
 
 813
-01:37:08,724 --> 01:37:10,311
-I checked
+01:55:08,270 --> 01:55:10,560
+<font face="Comic Sans MS">...you gotta be a stranger.</font>
 
 814
-01:37:11,509 --> 01:37:13,573
-anywhere a good boy
-might go.
+01:55:31,370 --> 01:55:33,200
+<font face="Comic Sans MS">To strangers.</font>
 
 815
-01:37:14,327 --> 01:37:15,922
-You're too late.
+01:57:44,840 --> 01:57:46,470
+<font face="Comic Sans MS">What'd you do?</font>
 
 816
-01:37:18,952 --> 01:37:20,619
-It's gone.
+01:57:46,630 --> 01:57:48,250
+<font face="Comic Sans MS">Who'd you bring?</font>
 
 817
-01:37:23,608 --> 01:37:25,401
-He destroyed it.
+01:57:50,090 --> 01:57:52,840
+<font face="Comic Sans MS">- No one.
+- Oh, yeah?</font>
 
 818
-01:37:27,635 --> 01:37:29,792
-Everything about it.
+01:57:58,140 --> 01:57:59,470
+<font face="Comic Sans MS">Target locked.</font>
 
 819
-01:37:30,246 --> 01:37:32,721
-Well, except
-for the box of bones
+01:58:02,020 --> 01:58:03,140
+<font face="Comic Sans MS">They know you're here.</font>
 
 820
-01:37:32,722 --> 01:37:33,721
-that you already took.
+01:58:05,190 --> 01:58:07,110
+<font face="Comic Sans MS">I came alone.</font>
 
 821
-01:37:37,701 --> 01:37:41,188
-Which, I'll wager,
-wasn't enough. Here you are.
+02:00:13,780 --> 02:00:14,870
+<font face="Comic Sans MS">Bad dog.</font>
 
 822
-01:37:49,033 --> 01:37:50,926
-You tiny thing.
+02:00:32,760 --> 02:00:34,180
+<font face="Comic Sans MS">Stop.</font>
 
 823
-01:37:52,582 --> 01:37:55,944
-In the face
-of the fabulous new,
+02:00:50,190 --> 02:00:52,350
+<font face="Comic Sans MS">I do hope you're satisfied
+with our product.</font>
 
 824
-01:37:55,945 --> 01:37:56,944
-your only thought
-is to kill it?
+02:00:53,440 --> 02:00:55,150
+<font face="Comic Sans MS">I love...</font>
 
 825
-01:37:57,608 --> 01:38:00,038
-For fear of great change?
+02:04:08,720 --> 02:04:13,350
+<font face="Comic Sans MS">Hey, there's someone
+who wants to meet you.</font>
 
 826
-01:38:01,077 --> 01:38:04,067
-You can't hold the tide
-with a broom.
+02:04:14,650 --> 02:04:16,030
+<font face="Comic Sans MS">You can trust us.</font>
 
 827
-01:38:04,561 --> 01:38:06,454
-Except that I did.
+02:04:24,450 --> 02:04:27,370
+<font face="Comic Sans MS">You must want me to look up
+and to the left.</font>
 
 828
-01:38:07,746 --> 01:38:09,440
-Where is he?
+02:04:33,120 --> 02:04:34,330
+<font face="Comic Sans MS">This is Freysa.</font>
 
 829
-01:38:13,120 --> 01:38:14,914
-You're so sure.
+02:04:35,460 --> 02:04:37,590
+<font face="Comic Sans MS">She fought with Sapper on Calantha.</font>
 
 830
-01:38:16,190 --> 01:38:18,182
-Because he told you.
+02:04:37,750 --> 02:04:39,670
+<font face="Comic Sans MS">I recognize you.</font>
 
 831
-01:38:18,595 --> 01:38:20,635
-Because we never lie.
+02:04:41,630 --> 02:04:43,590
+<font face="Comic Sans MS">Did you help him hide the child?</font>
 
 832
-01:38:22,368 --> 01:38:25,547
-I'm gonna tell Mr. Wallace
-you tried to shoot me first.
+02:04:45,800 --> 02:04:47,760
+<font face="Comic Sans MS">I was there.</font>
 
 833
-01:38:26,404 --> 01:38:28,281
-So I had to kill you.
+02:04:51,180 --> 02:04:53,720
+<font face="Comic Sans MS">I saw a miracle delivered.</font>
 
 834
-01:38:32,928 --> 01:38:35,090
-Then do what you gotta do.
+02:04:54,600 --> 02:04:58,140
+<font face="Comic Sans MS">A perfect little face crying up at me.</font>
 
 835
-01:38:36,113 --> 01:38:37,652
-Madam.
+02:04:58,520 --> 02:05:00,890
+<font face="Comic Sans MS">Mad as thunder.</font>
 
 836
-01:39:09,480 --> 01:39:12,657
-Location: Officer KD6-3.7.
+02:05:13,750 --> 02:05:15,670
+<font face="Comic Sans MS">Were you with her?</font>
 
 837
-01:44:00,690 --> 01:44:06,052
-"Mightn't happen to have
+02:05:17,290 --> 02:05:18,750
+<font face="Comic Sans MS">Rachael?</font>
 
 838
-01:44:06,562 --> 01:44:08,066
-"a piece of cheese
-about you, now?"
+02:05:18,920 --> 02:05:21,550
+<font face="Comic Sans MS">I held her as she died.</font>
 
 839
-01:44:23,133 --> 01:44:24,703
-Would you, boy?
+02:05:22,510 --> 02:05:27,180
+<font face="Comic Sans MS">We hid the child
+and made a vow to keep our secret.</font>
 
 840
-01:44:30,066 --> 01:44:31,300
-Treasure Island?
+02:05:27,340 --> 02:05:30,130
+<font face="Comic Sans MS">That's why Sapper let you kill him.</font>
 
 841
-01:44:31,564 --> 01:44:33,144
-He reads.
+02:05:31,100 --> 02:05:37,820
+<font face="Comic Sans MS">I knew that baby meant
+we are more than just slaves.</font>
 
 842
-01:44:34,233 --> 01:44:35,762
-That's good.
+02:05:38,350 --> 02:05:40,980
+<font face="Comic Sans MS">If a baby can come from one of us...</font>
 
 843
-01:44:36,721 --> 01:44:38,239
-Me, too.
+02:05:41,150 --> 02:05:44,320
+<font face="Comic Sans MS">...we are our own masters.</font>
 
 844
-01:44:39,246 --> 01:44:42,433
-Not much else to do
-around here at night anymore.
+02:05:44,490 --> 02:05:47,160
+<font face="Comic Sans MS">More human than humans.</font>
 
 845
-01:44:45,181 --> 01:44:49,619
-"Many is the night
-I dream of cheese,
+02:05:49,030 --> 02:05:50,780
+<font face="Comic Sans MS">A revolution is coming.</font>
 
 846
-01:44:53,243 --> 01:44:56,469
-"toasted, mostly."
+02:05:51,330 --> 02:05:53,870
+<font face="Comic Sans MS">And we're building an army.</font>
 
 847
-01:44:59,812 --> 01:45:01,537
-What are you doing here?
+02:05:54,750 --> 02:05:56,750
+<font face="Comic Sans MS">I want to free our people.</font>
 
 848
-01:45:04,689 --> 01:45:06,383
-I heard the piano.
+02:06:05,260 --> 02:06:06,930
+<font face="Comic Sans MS">If you want to be free...</font>
 
 849
-01:45:08,295 --> 01:45:09,890
-Don't lie.
+02:06:07,630 --> 02:06:09,380
+<font face="Comic Sans MS">...join us.</font>
 
 850
-01:45:11,022 --> 01:45:12,524
-It's rude.
+02:06:14,310 --> 02:06:17,110
+<font face="Comic Sans MS">Deckard, Sapper, you, me...</font>
 
 851
-01:45:14,573 --> 01:45:16,366
-You're a cop.
+02:06:17,270 --> 02:06:21,240
+<font face="Comic Sans MS">...our lives mean nothing
+next to a storm that's coming.</font>
 
 852
-01:45:17,530 --> 01:45:20,382
--I'm not here to take you in.
--Oh, yeah?
+02:06:22,020 --> 02:06:26,690
+<font face="Comic Sans MS">Dying for the right cause
+is the most human thing we can do.</font>
 
 853
-01:45:23,195 --> 01:45:24,716
-Then, what?
+02:06:29,320 --> 02:06:31,820
+<font face="Comic Sans MS">You led Wallace to Deckard.</font>
 
 854
-01:45:26,809 --> 01:45:29,001
-I just have some questions.
+02:06:32,200 --> 02:06:36,540
+<font face="Comic Sans MS">You cannot allow Deckard
+to lead Wallace to me.</font>
 
 855
-01:45:29,573 --> 01:45:31,266
-What questions?
+02:06:36,700 --> 02:06:38,580
+<font face="Comic Sans MS">You must kill Deckard.</font>
 
 856
-01:45:49,053 --> 01:45:50,550
-Stay.
+02:06:48,050 --> 02:06:51,520
+<font face="Comic Sans MS">Deckard only wanted
+his baby to be safe.</font>
 
 857
-01:48:23,632 --> 01:48:26,746
-Look,
-I don't wanna hurt you.
+02:06:51,680 --> 02:06:52,730
+<font face="Comic Sans MS">And she is.</font>
 
 858
-01:48:26,978 --> 01:48:28,971
-But you're not makin' it easy.
+02:06:55,390 --> 02:06:58,810
+<font face="Comic Sans MS">When the time comes,
+I will show her to the world...</font>
 
 859
-01:49:01,578 --> 01:49:06,758
-â™ھ Like a river flows
+02:06:58,980 --> 02:07:01,110
+<font face="Comic Sans MS">...and she will lead our army.</font>
 
 860
-01:49:06,759 --> 01:49:07,758
-â™ھ Surely to the sea
+02:07:01,270 --> 02:07:02,680
+<font face="Comic Sans MS">"She"?</font>
 
 861
-01:49:08,711 --> 01:49:12,242
-â™ھ Darling, so it goes
+02:07:02,860 --> 02:07:04,740
+<font face="Comic Sans MS">Of course.</font>
 
 862
-01:49:12,308 --> 01:49:17,368
-â™ھ Some things are meant to be
+02:07:04,900 --> 02:07:07,240
+<font face="Comic Sans MS">Rachael had a daughter.</font>
 
 863
-01:49:18,100 --> 01:49:19,894
-I like this song.
+02:07:08,240 --> 02:07:11,620
+<font face="Comic Sans MS">With my own eyes, I saw her come.</font>
 
 864
-01:49:19,955 --> 01:49:23,762
-â™ھ Take my hand
+02:07:12,110 --> 02:07:14,950
+<font face="Comic Sans MS">I dressed her in blue
+when it was time for her to go.</font>
 
 865
-01:49:25,554 --> 01:49:30,372
-â™ھ Take my whole life, too
+02:07:15,120 --> 02:07:17,210
+<font face="Comic Sans MS">It was a boy that you hid.</font>
 
 866
-01:49:30,429 --> 01:49:33,466
-We could keep at this,
-or we could get a drink.
+02:07:19,410 --> 02:07:22,910
+<font face="Comic Sans MS">That is just a piece of the puzzle.</font>
 
 867
-01:49:33,490 --> 01:49:38,563
-â™ھ For I can't help
+02:07:39,350 --> 02:07:42,360
+<font face="Comic Sans MS">You imagined it was you?</font>
 
 868
-01:49:38,985 --> 01:49:45,452
-â™ھ Falling in love with you â™ھ
+02:07:45,110 --> 02:07:46,700
+<font face="Comic Sans MS">You did.</font>
 
 869
-01:49:46,063 --> 01:49:47,644
-I'll take the drink.
+02:07:47,190 --> 02:07:48,770
+<font face="Comic Sans MS">You did.</font>
 
 870
-01:49:56,022 --> 01:49:57,915
-This is really somethin'.
+02:07:51,400 --> 02:07:54,110
+<font face="Comic Sans MS">We all wish it was us.</font>
 
 871
-01:49:58,160 --> 01:49:59,953
-The whole town
-was somethin'.
+02:07:55,200 --> 02:07:57,660
+<font face="Comic Sans MS">That's why we believe.</font>
 
 872
-01:50:00,402 --> 01:50:01,930
-One time.
+02:08:13,630 --> 02:08:15,510
+<font face="Comic Sans MS">Someone lived this, yes.</font>
 
 873
-01:50:03,885 --> 01:50:05,878
-Forget your troubles,
+02:08:17,930 --> 02:08:22,550
+<font face="Comic Sans MS">I showed them how to scramble
+the records, cover their tracks.</font>
 
 874
-01:50:06,971 --> 01:50:08,864
-see a show,
+02:08:22,730 --> 02:08:25,110
+<font face="Comic Sans MS">With my own eyes, I saw her come.</font>
 
 875
-01:50:10,484 --> 01:50:12,377
-gamble a little.
+02:08:26,860 --> 02:08:30,910
+<font face="Comic Sans MS">I dressed her in blue
+when it was time for her to go.</font>
 
 876
-01:50:14,941 --> 01:50:17,431
-Win some money,
-lose some money.
+02:08:31,280 --> 02:08:33,620
+<font face="Comic Sans MS">There's a bit of every
+artist in their work.</font>
 
 877
-01:50:18,333 --> 01:50:21,622
-They made money
-seem like candy.
+02:09:12,030 --> 02:09:14,780
+<font face="Comic Sans MS">Always jumping, that one.</font>
 
 878
-01:50:22,000 --> 01:50:23,591
-You like whiskey?
+02:09:15,360 --> 02:09:18,530
+<font face="Comic Sans MS">Never a thought of what to do
+if it made land.</font>
 
 879
-01:50:24,127 --> 01:50:27,309
-I've got millions
+02:09:19,530 --> 02:09:24,660
+<font face="Comic Sans MS">All the courage in the world
+cannot alter fact.</font>
 
 880
-01:50:27,310 --> 01:50:28,309
-of bottles of whiskey.
+02:09:28,920 --> 02:09:33,640
+<font face="Comic Sans MS">I have wanted to meet you
+for so very long.</font>
 
 881
-01:50:42,704 --> 01:50:44,197
-Here.
+02:09:52,570 --> 02:09:55,570
+<font face="Comic Sans MS">You are a wonder to me, Mr. Deckard.</font>
 
 882
-01:50:44,993 --> 01:50:46,557
-Bleeding.
+02:10:01,080 --> 02:10:02,660
+<font face="Comic Sans MS">I had the lock.</font>
 
 883
-01:50:59,226 --> 01:51:00,672
-Is it real?
+02:10:04,450 --> 02:10:06,830
+<font face="Comic Sans MS">I found the key.</font>
 
 884
-01:51:01,316 --> 01:51:02,811
-I don't know.
+02:10:08,000 --> 02:10:13,220
+<font face="Comic Sans MS">Yet the pins do not align.
+The door remains locked.</font>
 
 885
-01:51:02,963 --> 01:51:04,477
-Ask him.
+02:10:15,260 --> 02:10:19,310
+<font face="Comic Sans MS">I need the specimen to reach it,
+Mr. Deckard.</font>
 
 886
-01:51:21,123 --> 01:51:22,619
-Ya got a name?
+02:10:22,430 --> 02:10:24,140
+<font face="Comic Sans MS">The child.</font>
 
 887
-01:51:24,569 --> 01:51:27,367
-Officer KD6-3.7.
+02:10:25,310 --> 02:10:26,810
+<font face="Comic Sans MS">I need the child.</font>
 
 888
-01:51:27,814 --> 01:51:29,823
-That's not a name.
-That's a serial number.
+02:10:28,390 --> 02:10:30,890
+<font face="Comic Sans MS">To teach them all to fly.</font>
 
 889
-01:51:31,873 --> 01:51:33,348
-All right.
+02:10:39,320 --> 02:10:43,610
+<font face="Comic Sans MS">And God remembered Rachel...</font>
 
 890
-01:51:35,855 --> 01:51:37,363
-Joe.
+02:10:45,200 --> 02:10:48,830
+<font face="Comic Sans MS">...heeded her and opened her womb.</font>
 
 891
-01:51:37,508 --> 01:51:39,457
-What do you want, Joe?
+02:10:50,420 --> 02:10:52,460
+<font face="Comic Sans MS">Do you like our owl?</font>
 
 892
-01:51:40,631 --> 01:51:43,728
-- I wanna ask you some questions.
-- Like what?
+02:10:54,920 --> 02:10:56,630
+<font face="Comic Sans MS">It's artificial?</font>
 
 893
-01:51:50,187 --> 01:51:52,030
-Like, what was her name?
+02:10:57,630 --> 02:10:59,750
+<font face="Comic Sans MS">Of course it is.</font>
 
 894
-01:51:52,277 --> 01:51:54,038
-The mother of your child.
+02:11:01,010 --> 02:11:02,930
+<font face="Comic Sans MS">Must be expensive.</font>
 
 895
-01:52:01,167 --> 01:52:03,060
-What was she like?
+02:11:04,510 --> 02:11:07,180
+<font face="Comic Sans MS">Very. I'm Rachael.</font>
 
 896
-01:52:13,697 --> 01:52:15,368
-Did you live here together?
+02:11:08,180 --> 02:11:09,810
+<font face="Comic Sans MS">Deckard.</font>
 
 897
-01:52:15,369 --> 01:52:16,986
-Too many questions.
+02:11:21,660 --> 02:11:23,750
+<font face="Comic Sans MS">Is it the same...</font>
 
 898
-01:52:18,255 --> 01:52:20,548
-I had your job.
-I was good at it.
+02:11:24,740 --> 02:11:27,700
+<font face="Comic Sans MS">...now, as then...</font>
 
 899
-01:52:20,595 --> 01:52:23,082
-- It was simpler then.
-- Why are you making it complicated?
+02:11:29,870 --> 02:11:32,120
+<font face="Comic Sans MS">...the moment you met her?</font>
 
 900
-01:52:23,115 --> 01:52:25,674
-- Why don't you just answer the question?
-- What question?
+02:11:41,800 --> 02:11:44,800
+<font face="Comic Sans MS">All these years
+you looked back on that day...</font>
 
 901
-01:52:25,699 --> 01:52:28,587
-I didn't figure you,
-as one for bullshit.
+02:11:44,970 --> 02:11:48,840
+<font face="Comic Sans MS">...drunk on the memory
+of its perfection.</font>
 
 902
-01:52:29,173 --> 01:52:30,967
-What's her name?
+02:11:51,520 --> 02:11:53,690
+<font face="Comic Sans MS">How shiny her lips.</font>
 
 903
-01:52:44,134 --> 01:52:45,570
-Rachael.
+02:11:53,850 --> 02:11:56,890
+<font face="Comic Sans MS">How instant your connection.</font>
 
 904
-01:52:50,420 --> 01:52:52,413
-Her name was Rachael.
+02:11:59,690 --> 02:12:04,690
+<font face="Comic Sans MS">Did it never occur to you that's why
+you were summoned in the first place?</font>
 
 905
-01:52:56,406 --> 01:52:58,311
-What happened to the kid?
+02:12:06,080 --> 02:12:12,130
+<font face="Comic Sans MS">Designed to do nothing short
+of fall for her right then and there.</font>
 
 906
-01:53:01,253 --> 01:53:03,959
-Who put it in the orphanage?
-Was it you?
+02:12:13,830 --> 02:12:19,710
+<font face="Comic Sans MS">All to make that single perfect specimen.</font>
 
 907
-01:53:06,728 --> 01:53:08,919
-I was long gone, by then.
+02:12:22,470 --> 02:12:25,930
+<font face="Comic Sans MS">That is, if you were designed.</font>
 
 908
-01:53:12,401 --> 01:53:14,731
-You didn't even meet your own kid?
+02:12:26,800 --> 02:12:28,380
+<font face="Comic Sans MS">Love...</font>
 
 909
-01:53:17,311 --> 01:53:18,785
-Why?
+02:12:28,560 --> 02:12:31,520
+<font face="Comic Sans MS">...or mathematical precision.</font>
 
 910
-01:53:19,598 --> 01:53:21,889
-Because that was the plan.
+02:12:37,020 --> 02:12:38,560
+<font face="Comic Sans MS">Yes.</font>
 
 911
-01:53:23,995 --> 01:53:26,525
-I showed them how to
-scramble the records,
+02:12:39,320 --> 02:12:40,990
+<font face="Comic Sans MS">No.</font>
 
 912
-01:53:26,550 --> 01:53:28,221
-cover their tracks.
+02:12:45,280 --> 02:12:47,610
+<font face="Comic Sans MS">I know what's real.</font>
 
 913
-01:53:29,200 --> 01:53:31,889
-Everyone had a part.
-Mine was to leave.
+02:13:11,310 --> 02:13:14,650
+<font face="Comic Sans MS">It was very clever
+to keep yourself empty of information...</font>
 
 914
-01:53:33,345 --> 01:53:36,004
-Then the Blackout came,
-baked over everything.
+02:13:14,810 --> 02:13:18,980
+<font face="Comic Sans MS">...and all it cost you was everything.</font>
 
 915
-01:53:36,029 --> 01:53:38,407
-Couldn't have found the child,
-if I tried.
+02:13:22,610 --> 02:13:24,320
+<font face="Comic Sans MS">But you can still help me.</font>
 
 916
-01:53:38,649 --> 01:53:40,232
-Did you want to?
+02:13:26,200 --> 02:13:29,910
+<font face="Comic Sans MS">You had help in the hiding.</font>
 
 917
-01:53:40,355 --> 01:53:42,841
-- Not really.
-- Why not?
+02:13:31,740 --> 02:13:34,030
+<font face="Comic Sans MS">Where did they go?</font>
 
 918
-01:53:42,934 --> 01:53:45,878
-Because we were being hunted!
+02:13:35,330 --> 02:13:37,240
+<font face="Comic Sans MS">I know you know something.</font>
 
 919
-01:53:46,043 --> 01:53:48,589
-I didn't want our child found.
+02:13:38,500 --> 02:13:40,290
+<font face="Comic Sans MS">Help me...</font>
 
 920
-01:53:48,830 --> 01:53:51,855
-Taken apart. Dissected!
+02:13:40,920 --> 02:13:44,970
+<font face="Comic Sans MS">...and very, very good things
+can come to you.</font>
 
 921
-01:53:55,897 --> 01:53:58,741
-Sometimes, to love someone...
+02:13:50,140 --> 02:13:52,480
+<font face="Comic Sans MS">You don't have children...</font>
 
 922
-01:54:00,873 --> 01:54:02,768
-you gotta be a stranger.
+02:13:55,600 --> 02:13:56,720
+<font face="Comic Sans MS">...do you?</font>
 
 923
-01:54:24,005 --> 01:54:25,537
-To strangers!
+02:13:57,520 --> 02:14:00,530
+<font face="Comic Sans MS">Oh, I have millions.</font>
 
 924
-01:54:42,865 --> 01:54:46,303
-â™ھ It's quarter to three,
+02:14:02,230 --> 02:14:05,560
+<font face="Comic Sans MS">You think I have nothing to offer but pain.</font>
 
 925
-01:54:46,591 --> 01:54:49,742
-â™ھ there's no one in the place
+02:14:05,740 --> 02:14:08,080
+<font face="Comic Sans MS">Only I know...</font>
 
 926
-01:54:50,336 --> 01:54:52,552
-â™ھ except you and me
+02:14:08,820 --> 02:14:10,650
+<font face="Comic Sans MS">...you love pain.</font>
 
 927
-01:54:56,838 --> 01:54:59,421
-So, set 'em up, Joe,
+02:14:11,870 --> 02:14:16,790
+<font face="Comic Sans MS">Pain reminds you
+the joy you felt was real.</font>
 
 928
-01:55:00,957 --> 01:55:03,577
-â™ھ I got a little story...
+02:14:18,370 --> 02:14:20,410
+<font face="Comic Sans MS">More joy, then.</font>
 
 929
-01:55:06,091 --> 01:55:08,412
-â™ھ you oughtta know
+02:14:26,470 --> 02:14:28,600
+<font face="Comic Sans MS">Do not be afraid.</font>
 
 930
-01:55:11,413 --> 01:55:14,153
-â™ھ We're drinkin', my friend,
+02:14:43,360 --> 02:14:44,910
+<font face="Comic Sans MS">An angel...</font>
 
 931
-01:55:15,522 --> 01:55:17,309
-â™ھ to the end
+02:14:46,070 --> 02:14:47,200
+<font face="Comic Sans MS">...made again.</font>
 
 932
-01:55:19,153 --> 01:55:22,221
-â™ھ of a brief episode
+02:14:51,700 --> 02:14:53,370
+<font face="Comic Sans MS">For you.</font>
 
 933
-01:55:25,265 --> 01:55:28,466
-â™ھ Make it one for my baby
+02:15:27,400 --> 02:15:29,400
+<font face="Comic Sans MS">Did you miss me?</font>
 
 934
-01:55:31,573 --> 01:55:34,003
-â™ھ and one more for the road.
+02:15:47,170 --> 02:15:49,130
+<font face="Comic Sans MS">Don't you love me?</font>
 
 935
-01:56:37,332 --> 01:56:38,861
-What'd you do?
+02:16:07,860 --> 02:16:09,240
+<font face="Comic Sans MS">Her eyes were green.</font>
 
 936
-01:56:39,131 --> 01:56:40,925
-Who'd you bring?
+02:16:27,130 --> 02:16:29,390
+<font face="Comic Sans MS">Off-world...</font>
 
 937
-01:56:42,615 --> 01:56:45,111
-- No one.
-- Oh, yeah?
+02:16:29,550 --> 02:16:33,310
+<font face="Comic Sans MS">...I have everything I need
+to make you talk.</font>
 
 938
-01:56:50,629 --> 01:56:52,506
-Target locked.
+02:16:34,680 --> 02:16:37,850
+<font face="Comic Sans MS">You do not know what pain is yet.</font>
 
 939
-01:56:54,527 --> 01:56:56,420
-They know you're here.
+02:16:38,930 --> 02:16:40,840
+<font face="Comic Sans MS">You will learn.</font>
 
 940
-01:56:57,644 --> 01:56:59,438
-I came alone.
+02:16:52,650 --> 02:16:54,690
+<font face="Comic Sans MS">Hello, handsome.</font>
 
 941
-01:59:06,209 --> 01:59:07,809
-Bad dog!
+02:17:11,460 --> 02:17:13,920
+<font face="Comic Sans MS">What a day.</font>
 
 942
-01:59:24,775 --> 01:59:26,306
-Stop!
+02:17:17,760 --> 02:17:19,380
+<font face="Comic Sans MS">You look lonely.</font>
 
 943
-01:59:42,371 --> 01:59:45,025
-I do hope you're satisfied
-with our product.
+02:17:20,680 --> 02:17:23,140
+<font face="Comic Sans MS">I can fix that.</font>
 
 944
-01:59:45,587 --> 01:59:47,111
-I love you.
+02:17:26,060 --> 02:17:28,680
+<font face="Comic Sans MS">You look like a good joe.</font>
 
 945
-02:03:00,840 --> 02:03:02,331
-Hey.
+02:18:04,180 --> 02:18:09,980
+<font face="Comic Sans MS">Dying for the right cause
+is the most human thing we can do.</font>
 
 946
-02:03:02,831 --> 02:03:05,588
-There's someone who wants
-to meet you.
+02:18:12,320 --> 02:18:15,280
+<font face="Comic Sans MS">Because you've never seen a miracle.</font>
 
 947
-02:03:06,835 --> 02:03:08,529
-You can trust us.
+02:18:53,440 --> 02:18:56,610
+<font face="Comic Sans MS">You're entering Los Angeles Airport
+restricted airspace.</font>
 
 948
-02:03:16,567 --> 02:03:19,544
-You must want me to look up
-and to the left.
+02:18:56,780 --> 02:18:59,080
+<font face="Comic Sans MS">Confirm your identity.</font>
 
 949
-02:03:25,326 --> 02:03:27,020
-This is Freysa.
+02:18:59,240 --> 02:19:02,120
+<font face="Comic Sans MS">Transport S-14-4-XD. Confirmed.</font>
 
 950
-02:03:27,515 --> 02:03:29,824
-She fought with Sapper on Calantha.
+02:19:02,280 --> 02:19:03,990
+<font face="Comic Sans MS">Space, this is 0-6.</font>
 
 951
-02:03:29,849 --> 02:03:31,481
-I recognize you.
+02:19:04,160 --> 02:19:06,880
+<font face="Comic Sans MS">Outbound departure, route 0-3-0.</font>
 
 952
-02:03:33,762 --> 02:03:36,134
-Did you help him hide the child?
+02:19:07,040 --> 02:19:08,960
+<font face="Comic Sans MS">Where are we going?</font>
 
 953
-02:03:36,290 --> 02:03:37,657
-Oh...
+02:19:09,710 --> 02:19:11,340
+<font face="Comic Sans MS">Home.</font>
 
 954
-02:03:37,967 --> 02:03:39,673
-I was there.
+02:20:06,260 --> 02:20:08,010
+<font face="Comic Sans MS">Drive two down.</font>
 
 955
-02:03:43,294 --> 02:03:45,486
-I saw a miracle delivered.
+02:20:08,180 --> 02:20:10,260
+<font face="Comic Sans MS">Backup engaged.</font>
 
 956
-02:03:46,725 --> 02:03:50,012
-A perfect little face crying up at me.
+02:20:11,230 --> 02:20:12,270
+<font face="Comic Sans MS">Warning.</font>
 
 957
-02:03:50,607 --> 02:03:52,500
-Mad as thunder.
+02:20:12,440 --> 02:20:15,240
+<font face="Comic Sans MS">- Can we make it?
+- We're too low!</font>
 
 958
-02:04:05,935 --> 02:04:07,562
-Were you with her?...
+02:20:15,400 --> 02:20:16,530
+<font face="Comic Sans MS">Take us back!</font>
 
 959
-02:04:09,419 --> 02:04:10,902
-Rachael?
+02:21:05,700 --> 02:21:06,750
+<font face="Comic Sans MS">Get us up.</font>
 
 960
-02:04:11,026 --> 02:04:13,019
-I held her as she died.
+02:21:31,890 --> 02:21:33,140
+<font face="Comic Sans MS">Open the door.</font>
 
 961
-02:04:14,618 --> 02:04:16,179
-We hid the child,
+02:23:26,340 --> 02:23:28,430
+<font face="Comic Sans MS">I'm the best one.</font>
 
 962
-02:04:16,234 --> 02:04:18,968
-and made a vow to keep our secret.
+02:24:08,920 --> 02:24:11,050
+<font face="Comic Sans MS">Off-world is waiting.</font>
 
 963
-02:04:19,511 --> 02:04:22,001
-That's why Sapper let you kill him.
+02:26:24,140 --> 02:26:27,180
+<font face="Comic Sans MS">Joe. Joe!</font>
 
 964
-02:04:23,208 --> 02:04:24,776
-I knew...
+02:26:36,820 --> 02:26:38,530
+<font face="Comic Sans MS">Joe!</font>
 
 965
-02:04:24,908 --> 02:04:29,165
-that baby meant we are more
-than just slaves.
+02:27:17,490 --> 02:27:19,700
+<font face="Comic Sans MS">You should have let me die out there.</font>
 
 966
-02:04:30,420 --> 02:04:33,010
-If a baby can come from one of us,
+02:27:20,700 --> 02:27:22,330
+<font face="Comic Sans MS">You did.</font>
 
 967
-02:04:33,277 --> 02:04:36,295
-we are our own masters.
+02:27:26,000 --> 02:27:28,130
+<font face="Comic Sans MS">You drowned out there.</font>
 
 968
-02:04:36,622 --> 02:04:39,013
-"More human than humans".
+02:27:33,500 --> 02:27:35,290
+<font face="Comic Sans MS">You're free to meet your daughter now.</font>
 
 969
-02:04:41,139 --> 02:04:43,032
-A revolution is coming.
+02:29:01,130 --> 02:29:03,800
+<font face="Comic Sans MS">All the best memories are hers.</font>
 
 970
-02:04:43,376 --> 02:04:45,567
-And we're building an army.
+02:29:12,730 --> 02:29:14,150
+<font face="Comic Sans MS">Why?</font>
 
 971
-02:04:46,750 --> 02:04:48,942
-I want to free our people.
+02:29:16,690 --> 02:29:18,610
+<font face="Comic Sans MS">Who am I to you?</font>
 
 972
-02:04:57,394 --> 02:05:00,979
-If you want to be free, join us.
+02:29:27,870 --> 02:29:29,870
+<font face="Comic Sans MS">Go meet your daughter.</font>
 
 973
-02:05:06,323 --> 02:05:09,260
-Deckard, Sapper, you, me;
+02:29:35,790 --> 02:29:37,250
+<font face="Comic Sans MS">You okay?</font>
 
 974
-02:05:09,285 --> 02:05:12,919
-our lives mean nothing
-next to a storm that's coming.
+02:32:13,530 --> 02:32:15,360
+<font face="Comic Sans MS">Just a moment.</font>
 
 975
-02:05:14,009 --> 02:05:18,399
-Dying for the right cause is the
-most human thing we can do.
-
-976
-02:05:21,354 --> 02:05:23,545
-You led to Wallace to Deckard.
-
-977
-02:05:24,268 --> 02:05:28,144
-You cannot allow Deckard
-to lead Wallace to me.
-
-978
-02:05:28,731 --> 02:05:30,902
-You must kill Deckard.
-
-979
-02:05:40,099 --> 02:05:42,988
-Deckard only wanted
-his baby to be safe.
-
-980
-02:05:43,736 --> 02:05:45,530
-And she is.
-
-981
-02:05:47,431 --> 02:05:48,923
-When the time comes,
-
-982
-02:05:48,955 --> 02:05:51,008
-I will show her to the world.
-
-983
-02:05:51,042 --> 02:05:53,131
-And se will lead our army.
-
-984
-02:05:53,178 --> 02:05:54,664
-She?
-
-985
-02:05:54,847 --> 02:05:56,541
-Of course.
-
-986
-02:05:56,915 --> 02:05:59,007
-Rachael had a daughter.
-
-987
-02:06:00,199 --> 02:06:03,336
-With my own eyes, I saw her come.
-
-988
-02:06:04,081 --> 02:06:07,257
-I dressed her blue when
-it was time for her to go.
-
-989
-02:06:07,282 --> 02:06:09,573
-It was a boy that you hid.
-
-990
-02:06:11,400 --> 02:06:14,210
-That is just a piece of the puzzle.
-
-991
-02:06:31,252 --> 02:06:33,550
-You imagined it was you?
-
-992
-02:06:35,339 --> 02:06:36,698
-Oh.
-
-993
-02:06:37,071 --> 02:06:38,589
-You did.
-
-994
-02:06:39,217 --> 02:06:40,729
-You did.
-
-995
-02:06:43,386 --> 02:06:45,478
-We all wish it was us.
-
-996
-02:06:47,147 --> 02:06:49,040
-That's why we believe.
-
-997
-02:07:05,576 --> 02:07:07,469
-Someone lived this, yes.
-
-998
-02:07:09,872 --> 02:07:14,452
-I showed them how to scramble
-the records, cover their tracks.
-
-999
-02:07:14,550 --> 02:07:17,438
-With my own eyes,
-I saw her come.
-
-1000
-02:07:18,730 --> 02:07:22,415
-I dressed her in blue when
-it was time for her to go.
-
-1001
-02:07:23,156 --> 02:07:26,260
-There's a bit of every
-artist in their work.
-
-1002
-02:08:03,919 --> 02:08:06,011
-Always jumping, that one.
-
-1003
-02:08:07,203 --> 02:08:10,363
-Never a thought, what to do,
-if it made land.
-
-1004
-02:08:11,490 --> 02:08:16,071
-All the courage in the world
-cannot alter fact.
-
-1005
-02:08:20,807 --> 02:08:25,985
-I have wanted to meet you
-for so very long.
-
-1006
-02:08:44,429 --> 02:08:47,018
-You are a wonder to me,
-Mr Deckard.
-
-1007
-02:08:52,927 --> 02:08:54,592
-I had the lock.
-
-1008
-02:08:56,327 --> 02:08:58,518
-I found the key.
-
-1009
-02:08:59,803 --> 02:09:04,306
-Yet the pins do not align,
-the door remains locked.
-
-1010
-02:09:07,022 --> 02:09:10,408
-I need a specimen to reach it, Mr Deckard.
-
-1011
-02:09:14,189 --> 02:09:15,664
-The child.
-
-1012
-02:09:17,075 --> 02:09:18,968
-I need the child.
-
-1013
-02:09:20,161 --> 02:09:22,634
-To teach them all to fly.
-
-1014
-02:09:31,086 --> 02:09:34,969
-"And God remembered Rachel,
-
-1015
-02:09:36,982 --> 02:09:38,636
-"He heeded her
-
-1016
-02:09:39,570 --> 02:09:41,463
-"and opened her womb."
-
-1017
-02:09:42,180 --> 02:09:44,032
-Do you like our owl?
-
-1018
-02:09:46,629 --> 02:09:48,476
-It's artificial?
-
-1019
-02:09:49,424 --> 02:09:51,160
-Of course it is.
-
-1020
-02:09:52,808 --> 02:09:54,621
-Must be expensive.
-
-1021
-02:09:56,287 --> 02:09:57,740
-Very.
-
-1022
-02:09:57,791 --> 02:09:59,485
-I'm Rachael.
-
-1023
-02:09:59,974 --> 02:10:01,469
-Deckard.
-
-1024
-02:10:13,426 --> 02:10:15,020
-Is it the same,...
-
-1025
-02:10:16,497 --> 02:10:18,741
-now as then,...
-
-1026
-02:10:21,573 --> 02:10:23,764
-the moment you met her?
-
-1027
-02:10:33,517 --> 02:10:36,809
-All these years you
-looked back on that day,
-
-1028
-02:10:36,834 --> 02:10:39,880
-drunk on the memory
-of its perfection.
-
-1029
-02:10:43,171 --> 02:10:45,462
-How shiny, her lips!
-
-1030
-02:10:45,567 --> 02:10:48,267
-How instant, your connection!
-
-1031
-02:10:51,257 --> 02:10:52,993
-Did it never occur to you,
-
-1032
-02:10:53,018 --> 02:10:56,242
-that's why you were summoned
-in the first place?
-
-1033
-02:10:57,692 --> 02:11:00,614
-Designed to do nothing short of,
-fall for her,
-
-1034
-02:11:00,639 --> 02:11:03,239
-right then and there.
-
-1035
-02:11:05,509 --> 02:11:07,962
-All to make that single,
-
-1036
-02:11:08,002 --> 02:11:09,493
-perfect...
-
-1037
-02:11:09,540 --> 02:11:11,081
-specimen.
-
-1038
-02:11:14,103 --> 02:11:16,892
-That is, if you were designed.
-
-1039
-02:11:18,453 --> 02:11:19,961
-Love,
-
-1040
-02:11:20,216 --> 02:11:23,004
-or mathematical precision.
-
-1041
-02:11:28,630 --> 02:11:30,106
-Yes?
-
-1042
-02:11:30,896 --> 02:11:32,403
-No?
-
-1043
-02:11:36,887 --> 02:11:38,979
-I know what's real.
-
-1044
-02:12:02,990 --> 02:12:06,373
-It was very clever to keep
-yourself empty of information.
-
-1045
-02:12:06,398 --> 02:12:09,983
-And all it cost you was, everything.
-
-1046
-02:12:14,144 --> 02:12:16,435
-But you can still help me.
-
-1047
-02:12:17,727 --> 02:12:20,914
-You help help in the hiding.
-
-1048
-02:12:23,386 --> 02:12:25,259
-Where did they go?
-
-1049
-02:12:26,977 --> 02:12:29,069
-I know, you know something.
-
-1050
-02:12:30,117 --> 02:12:31,565
-Help me...
-
-1051
-02:12:32,492 --> 02:12:36,044
-and very, very good things
-can come to you.
-
-1052
-02:12:41,715 --> 02:12:43,509
-You don't have children.
-
-1053
-02:12:47,212 --> 02:12:48,608
-Do you?
-
-1054
-02:12:49,081 --> 02:12:51,471
-Oh, I have millions.
-
-1055
-02:12:53,859 --> 02:12:57,045
-You think I have nothing to offer
-but pain?
-
-1056
-02:12:57,341 --> 02:12:59,035
-Only, I know...
-
-1057
-02:13:00,428 --> 02:13:02,022
-you love pain.
-
-1058
-02:13:03,413 --> 02:13:07,850
-Pain reminds you,
-the joy you felt was real.
-
-1059
-02:13:09,874 --> 02:13:11,582
-More joy, then!
-
-1060
-02:13:17,945 --> 02:13:19,937
-Do not be afraid.
-
-1061
-02:13:34,773 --> 02:13:36,367
-An angel...
-
-1062
-02:13:37,593 --> 02:13:39,486
-made again.
-
-1063
-02:13:43,204 --> 02:13:44,731
-For you.
-
-1064
-02:14:18,879 --> 02:14:20,595
-Did you miss me?
-
-1065
-02:14:38,664 --> 02:14:40,425
-Don't you love me?
-
-1066
-02:14:59,369 --> 02:15:01,068
-Her eyes were green.
-
-1067
-02:15:18,580 --> 02:15:20,350
-Off-world,...
-
-1068
-02:15:20,982 --> 02:15:23,970
-I have everything I need
-to make you talk.
-
-1069
-02:15:26,144 --> 02:15:28,535
-You do not know what pain is, yet.
-
-1070
-02:15:30,424 --> 02:15:32,101
-You will learn.
-
-1071
-02:15:44,059 --> 02:15:45,952
-Hello handsome.
-
-1072
-02:16:02,771 --> 02:16:05,361
-What day, hm?
-
-1073
-02:16:09,048 --> 02:16:10,941
-You look lonely.
-
-1074
-02:16:12,028 --> 02:16:13,921
-I can fix that.
-
-1075
-02:16:17,412 --> 02:16:20,237
-You look like a good Joe.
-
-1076
-02:16:55,445 --> 02:17:00,763
-Dying for the right cause is the
-most human thing we can do.
-
-1077
-02:17:03,786 --> 02:17:06,177
-Because you've
-nevert seen a miracle.
-
-1078
-02:17:44,593 --> 02:17:47,965
-You are entering Los Angeles Airport,
-restricted airspace
-
-1079
-02:17:48,004 --> 02:17:49,524
-Confirm your identity.
-
-1080
-02:17:49,549 --> 02:17:53,134
-Transport S-14 Branch D, confirmed.
-
-1081
-02:17:53,516 --> 02:17:56,094
-Base, this is 06 outbound...
-
-1082
-02:17:58,330 --> 02:18:00,024
-Where are we going?
-
-1083
-02:18:01,017 --> 02:18:02,512
-Home.
-
-1084
-02:18:57,539 --> 02:19:01,470
-Drive 2 down.
-Backup engaged.
-
-1085
-02:19:02,022 --> 02:19:03,469
-Warning.
-
-1086
-02:19:03,494 --> 02:19:06,084
-- Can we make it?
-- We're too low!
-
-1087
-02:19:06,628 --> 02:19:08,212
-Take us back!
-
-1088
-02:19:57,217 --> 02:19:58,786
-Get us up!
-
-1089
-02:20:23,080 --> 02:20:24,659
-Open the door.
-
-1090
-02:22:17,223 --> 02:22:18,955
-I am the best one.
-
-1091
-02:22:59,872 --> 02:23:01,751
-Off-world is waiting.
-
-1092
-02:25:14,948 --> 02:25:17,407
-Joe. Joe!
-
-1093
-02:25:27,584 --> 02:25:29,101
-Joe!
-
-1094
-02:26:08,231 --> 02:26:10,491
-You should've let me die out there.
-
-1095
-02:26:11,462 --> 02:26:13,030
-You did.
-
-1096
-02:26:16,790 --> 02:26:18,618
-You drowned out there.
-
-1097
-02:26:24,339 --> 02:26:27,156
-You're free to meet your daughter, now.
-
-1098
-02:27:51,685 --> 02:27:54,176
-All the best memories are hers.
-
-1099
-02:28:03,300 --> 02:28:04,820
-Why?
-
-1100
-02:28:07,373 --> 02:28:09,132
-Who am I to you?
-
-1101
-02:28:18,327 --> 02:28:20,109
-Go meet your daughter.
-
-1102
-02:28:26,269 --> 02:28:27,963
-You OK?
-
-1103
-02:31:03,943 --> 02:31:05,545
-Just a moment.
-
-1104
-02:31:08,024 --> 02:31:10,041
-Beautiful, isn't it?
+02:32:17,620 --> 02:32:19,000
+<font face="Comic Sans MS">Beautiful, isn't it?</font>
 

@@ -101,8 +101,8 @@ class Snippet:
 
         return {
             "index": self.index,
-            "start_time": self.start_time.__str__(),
-            "end_time": self.end_time.__str__(),
+            "startTime": self.start_time.__str__(),
+            "endTime": self.end_time.__str__(),
             "subtitles": self.subtitles,
         }
 
